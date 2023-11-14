@@ -1,7 +1,4 @@
 ---
-title: Credit
-menu: 1
+title: Financial Literacy
+menu: 3
 ---
-### Financial Literacy Training
-
-Test 123
