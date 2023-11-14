@@ -34,4 +34,3 @@ nav_order: 1
 - Microsite [in English](https://www.undp.org/es/argentina/proyectos/little-help-my-neighbors) and [in Spanish](https://www.undp.org/es/argentina/proyectos/con-un-poco-de-ayuda-de-mis-vecinos).
 - [Report with detailed findings](https://www.undp.org/es/argentina/publications/con-un-poco-de-ayuda-de-mis-vecinos) from the first pilot in Concepción (2021), available in English and Spanish.
 - [Report with detailed findings](https://www.undp.org/es/argentina/publicaciones/con-vos-fray) from the second pilot in Fray (2022), available in English and in Spanish.
-- Video in Spanish.
