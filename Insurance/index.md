@@ -1,4 +1,4 @@
 ---
-title: Ethiopia
+title: Insurance
 menu: 1
 ---
