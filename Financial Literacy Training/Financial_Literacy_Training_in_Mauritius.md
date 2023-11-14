@@ -1,5 +1,5 @@
 ---
-title: Financial Literacy for Women in Mauritius
+title: Mauritius Factsheet
 parent: Financial Literacy Training
 layout: default
 
