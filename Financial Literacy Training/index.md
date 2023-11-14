@@ -1,5 +1,5 @@
 ---
-title: Credit
+title: Financial Literacy
 menu: 1
 ---
 ### Financial Literacy Training
