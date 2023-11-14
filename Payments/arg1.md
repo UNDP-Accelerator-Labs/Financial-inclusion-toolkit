@@ -3,7 +3,7 @@ title: Digital payments via neighborhood stores
 parent: Payments
 layout: default
 
-menu_parent: 4
+menu_parent: 5
 nav_order: 1
 
 ---
