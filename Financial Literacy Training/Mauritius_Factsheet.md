@@ -1,5 +1,5 @@
 ---
-title: Mauritius Factsheet
+title: Mauritius_Factsheet
 parent: Financial Literacy Training
 layout: default
 
