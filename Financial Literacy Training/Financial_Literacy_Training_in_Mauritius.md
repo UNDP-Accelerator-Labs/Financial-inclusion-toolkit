@@ -1,3 +1,12 @@
+---
+title: Financial Literacy for Women in Mauritius
+parent: Financial Literacy Training
+layout: default
+
+menu_parent: 2
+nav_order: 1
+
+---
 # An innovative approach to Financial Literacy for Women Entrepreneurs
 
 The UNDP Mauritius and Seychelles Accelerator Lab, in partnership with the University of Mauritius and other local stakeholders, including the Ministry of Gender Equality and Family Welfare, the National Women Entrepreneur Council, and Small and Medium Enterprise Mauritius (SME Mauritius), conducted an experiment with 30 women entrepreneurs from the Republic of Mauritius.
