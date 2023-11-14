@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 layout: default
+menu: 0
 has_children: true
 
 ---

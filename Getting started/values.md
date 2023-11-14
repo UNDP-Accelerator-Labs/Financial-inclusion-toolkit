@@ -3,7 +3,7 @@ title: Values and attitude
 parent: Getting Started
 layout: default
 
-menu_parent: 5
+menu_parent: 0
 nav_order: 2
 
 ---
