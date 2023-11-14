@@ -1,5 +1,5 @@
 ---
 title: Getting Started
-menu: 0
+menu: 1
 ---
 
