@@ -1,4 +1,3 @@
 exclude:
   - README.md
-  - Getting started/
 baseurl: "/Financial-inclusion-toolkit"
