@@ -1,5 +1,5 @@
 ---
-title: Mauritius
+title: Financial Literacy Training in Mauritius
 menu: 2
 ---
 ### Mauritius
