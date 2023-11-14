@@ -1,8 +1,8 @@
 ---
 title: South_Sudan
-parent: Credit
+parent: Savings
 layout: default
-menu_parent: 1
+menu_parent: 2
 ---
 
 #### South Sudan 
