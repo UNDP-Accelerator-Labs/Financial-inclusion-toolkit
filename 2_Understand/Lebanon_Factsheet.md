@@ -40,9 +40,10 @@ The work was showcased at:  UN Behavioural Science Week 2022 (6-10 June).
 
 **People:** Funded and co-designed by the UNDP Accelerator Lab Lebanon team, The UNDP Women Economic empowerment project, the gender unit, in collaboration with the external consultants in online media, and the entrepreneur commissioned to create content and tool. 
 For colleagues who seek to replicate the experiment, the following roles are needed:
+
 | **No.** | **Role** | **Required Skills** |
 | --- | --- | --- |
-| 1 | Local success “role model” in topic of choice as content and tool as reward creator |
+| 1 | Local success “role model” in topic of choice as content and tool as reward creator | | | 
 | 2 | Email automation specialist |
 | 3 | Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
 | 4 | Gender specialist |
