@@ -55,5 +55,5 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 
 **Resources:** The available resources:
 
-[https://institute.eib.org/wp-content/uploads/2016/10/women-conf-lit.pdf)]
+[https://institute.eib.org/wp-content/uploads/2016/10/women-conf-lit.pdf]
 
