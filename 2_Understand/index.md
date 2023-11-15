@@ -1,4 +1,4 @@
 ---
-title: Helps you understand
+title: Helps people understand
 menu: 2
 ---

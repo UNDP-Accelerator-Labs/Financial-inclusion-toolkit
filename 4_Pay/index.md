@@ -1,4 +1,4 @@
 ---
-title: Helps you pay
+title: Helps people pay
 menu: 4
 ---

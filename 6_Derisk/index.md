@@ -1,4 +1,4 @@
 ---
-title: Helps you de-risk
+title: Helps people de-risk
 menu: 6
 ---
