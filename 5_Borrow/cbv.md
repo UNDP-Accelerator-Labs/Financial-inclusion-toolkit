@@ -1,6 +1,6 @@
 ---
 title: CBV
-parent: Borrow
+parent: Helps you borrow
 layout: default
 
 menu_parent: 5

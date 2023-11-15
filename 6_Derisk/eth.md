@@ -1,9 +1,9 @@
 ---
 title: Diagnostics to prepare the roll-out of a programme on risk insurance 
-parent: Insurance
+parent: Helps you de-risk
 layout: default
 
-menu_parent: 3
+menu_parent: 6
 nav_order: 1
 
 ---

@@ -1,9 +1,9 @@
 ---
 title: Mauritius_Factsheet
-parent: Financial Literacy Training
+parent: Helps you understand
 layout: default
 
-menu_parent: 3
+menu_parent: 2
 nav_order: 1
 
 ---

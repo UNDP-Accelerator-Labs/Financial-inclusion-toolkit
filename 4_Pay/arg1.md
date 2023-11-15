@@ -1,9 +1,9 @@
 ---
 title: Digital payments via neighborhood stores 
-parent: Payments
+parent: Helps you pay
 layout: default
 
-menu_parent: 5
+menu_parent: 4
 nav_order: 1
 
 ---
