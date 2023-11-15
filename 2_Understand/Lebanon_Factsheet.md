@@ -40,15 +40,13 @@ The work was showcased at:  UN Behavioural Science Week 2022 (6-10 June).
 
 **People:** Funded and co-designed by the UNDP Accelerator Lab Lebanon team, The UNDP Women Economic empowerment project, the gender unit, in collaboration with the external consultants in online media, and the entrepreneur commissioned to create content and tool. 
 For colleagues who seek to replicate the experiment, the following roles are needed:
-
 | **No.** | **Role** | **Required Skills** |
 | --- | --- | --- |
-| 1 | Local success “role model” in topic of choice as content and tool as reward creator
-| 2 | Email automation specialist 
-| 3 | Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey. 
-| 4 | Excel or airtable specialist if a book-keeping download is to be provided 
-| 5 | Gender specialist 
-![image](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/assets/150713062/64021c38-526f-4c32-b5a5-d10ce7f0c7bd)
+| 1 | Local success “role model” in topic of choice as content and tool as reward creator |
+| 2 | Email automation specialist |
+| 3 | Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
+| 4 | Gender specialist |
+
 
 **Focal point:** Lilian Abou Zeki (Head of Solutions Mapping, UNDP Lebanon Accelerator Lab, Email: [lilian.abouzeki@undp.org](mailto:lilian.abouzeki@undp.org))
 
