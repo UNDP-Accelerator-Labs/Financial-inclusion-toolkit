@@ -24,4 +24,4 @@ Financial networks span the planet, but, in the Global South, they are sparse. T
 
 ### Digital cuts both ways
 
-Fintech entrepreneurs have used the potential of digital ecosystems to build new financial services on top of the existing ones. This is exciting, but its very efficiency is at risk of leaving behind those who are financially and/or digitally excluded. The Accelerator Labs have prototyped ways that this exclusionary dynamics can be overcome by things like making digital payments in neighborhood stores. In a last mile context, the most important part of digital finance is analog.
+Fintech entrepreneurs have used the potential of digital ecosystems to build new financial services on top of the existing ones. This is exciting, but its very efficiency is at risk of leaving further behind those who are financially and/or digitally excluded. The Accelerator Labs have prototyped ways that this exclusionary dynamics can be overcome by things like making digital payments in neighborhood stores. In a last mile context, the most important part of digital finance is analog.
