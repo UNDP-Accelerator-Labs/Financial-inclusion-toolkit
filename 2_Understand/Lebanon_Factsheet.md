@@ -1,5 +1,5 @@
 ---
-title: Bookkeeping micro courses 
+title: Bookkeeping micro courses
 parent: Helps you understand
 layout: default
 
@@ -9,7 +9,7 @@ nav_order: 4
 ---
 # Financial bookkeeping micro courses to boost women entrepreneurs business confidence
 
-The UNDP Mauritius and Seychelles Accelerator Lab, in partnership with the University of Mauritius and other local stakeholders, including the Ministry of Gender Equality and Family Welfare, the National Women Entrepreneur Council, and Small and Medium Enterprise Mauritius (SME Mauritius), conducted an experiment with 30 women entrepreneurs from the Republic of Mauritius.
+The UNDP Lebanon Accelerator Lab, conducted a year long behavioural research with 19 women entrepreneurs from Lebanon, the qualitative research singled out "financial book-keeping" as a an area of ill confidence, worry, and difficulty for all women. In partnership with the RBAS innovation unit the lab team took this insight and coupled it with in depth needs assessment and structured interviews to eventually design a book-keeping course that speaks to the common phenomenon of time-poverty that women suffer by delivering easy, short and localised content video content on book-keeping by email over a period of 7 days. The content included interactive knowledge testing, and a free reward for completers. 
 
 **What it does:** The experiment was to evaluate the effect of women's financial book-keeping efficacy building on the confidence of women entrepreneurs and inturn business performance. The different transferrable components would be; 
 -	The call for participation component used to recruit a defined target profile online through online media funnels removing tens of middlemen contractors and substantial cost, while also identifying which behavioural driver or barrier was the most resonant among
