@@ -1,6 +1,6 @@
 ---
 title: CBV
-parent: Credit
+parent: Borrow
 layout: default
 
 menu_parent: 5
