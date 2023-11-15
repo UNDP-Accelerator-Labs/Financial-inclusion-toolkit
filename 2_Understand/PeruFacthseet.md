@@ -44,12 +44,8 @@ In this context, Innovate your Market bet on digitalization as a tool for develo
 
 **People**. Describe the team needed to implement. Try to avoid just sharing the hierarchy rank and rather focus on their roles. _Suggestion: number of members of the team and responsibilities._
 
-**Focal point**.
+**Focal point**. [Mariana Olcese]()
 
-Mariana Olcese UNDP PERU
-
-Mariana joines UNDP Peru in 2020 as Head of Exploration. Before joinging UNDP she worked as Public Affaits and Head of Institutional Affairs for companies like WeWork and Corporacion Breca. Mariana holds an MBA from Yale and Georgetown University. Her expertise encompasses stakeholder management, social and political monitoring, and the development of strategic corporate positioning. Mariana is adept at fostering and leading dialogues between public and private actors, facilitating cooperation and knowledge sharing
-
-**Country, year, and language**. Peru and El Salvador 2021, 2022, 2023. English and Spanish Content
+**Country, year, and language**. Peru and El Salvador 2021, 2022, 2023. English and Spanish.
 
 **Resources**. A list of the resources documented in the factsheet. There can be more than one resource, each one presenting the same content in different forms: for example, a concept note and a slide deck of the same project, or the syllabus for a course and the link to a blog post explaining the logic behind the course. Resources can be either files attached to the toolkit or links to external web resources.
