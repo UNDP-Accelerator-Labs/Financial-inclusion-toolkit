@@ -4,7 +4,7 @@ parent: Helps you understand
 layout: default
 
 menu_parent: 2
-nav_order: 1
+nav_order: 2
 
 ---
 # Financial bookkeeping micro courses to boost women entrepreneurs business confidence
