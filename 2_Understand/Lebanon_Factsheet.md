@@ -22,7 +22,7 @@ The experiment aimed to:
 2. **Monitor** : The perceived knowledge and understanding in the of the covered book-keeping practices, were tested throught out the email course with interactive questions at the end of each email. 
 3. **Experiment with** : Email medium as an interactive learning platform that works with women's expressed needs of convenience and their pain points around mobiluty required for participating in trainings. More specifically, the experiment aimed to evaluate the impact of redesigning financial litracy education from a localized women-centered perspective and how this can prompt self efficacy and in turn confidence in business decisions.
 
-**Value proposition:** By using the different components of the “Micro email course” you will enable any partner to drastically improve the quality and relevance of recruits to women economic empowerment programs and can also ensure wide scale education of core financial literacy components in a regional localized manner in order to increase the number of women in business but also increase the inclusion of women in financial decision making and investment on the long run. Using digital learning solutions to deliver on 2 of UNDP’s signature solutions by tackling inequality of opportunities (Poverty & inequality ss) while also being deliberate about the profile of audience to grow and impact being women with digital access (Gender equality ss). [ SDG 5 and 9 ] ![image](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/assets/150713062/b16d7fe8-fee9-40cd-b5d6-96c3cf35e97a)
+**Value proposition:** By using the different components of the “Micro email course” you will enable any partner to drastically improve the quality and relevance of recruits to women economic empowerment programs and can also ensure wide scale education of core financial literacy components in a regional localized manner in order to increase the number of women in business but also increase the inclusion of women in financial decision making and investment on the long run. Using digital learning solutions to deliver on 2 of UNDP’s signature solutions by tackling inequality of opportunities (Poverty & inequality ss) while also being deliberate about the profile of audience to grow and impact being women with digital access (Gender equality ss). [ SDG 5 and 9 ]
 
 **Why and when to use it:** This tool is most useful when a program is aiming to recruit and identify a specific demographic entrepreneur profile while also understanding their localized pain points and learning gaps when it comes to financial literacy and its relationship to delaying in achieving their business goals and financial stability or growth. 
 This tool is also useful when different skills that have systematically been taught through a masculine or generic lens excluding women can become more resonant to women and speak more to their needs, constraints, and preferred channels of communication .
@@ -43,7 +43,7 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 
 | **No.** | **Role** | **Required Skills** |
 | --- | --- | --- |
-| 1 | Local success “role model” in topic of choice as content and tool as reward creator | | | 
+| 1 | Local success “role model” in topic of choice as content and tool as reward creator |
 | 2 | Email automation specialist |
 | 3 | Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
 | 4 | Gender specialist |
