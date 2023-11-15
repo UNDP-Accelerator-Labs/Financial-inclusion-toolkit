@@ -1,6 +1,10 @@
 ---
-title: Insurance
-menu: 1
+title: Village Savings
+parent: Helps you save
+layout: default
+
+menu_parent: 3
+nav_order: 1
 ---
 
 # Digitizing Community Savings Groups in Zambia

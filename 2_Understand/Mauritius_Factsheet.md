@@ -1,10 +1,10 @@
 ---
-title: Mauritius_Factsheet
+title: Mauritius Factsheet
 parent: Helps you understand
 layout: default
 
 menu_parent: 2
-nav_order: 1
+nav_order: 2
 
 ---
 # An innovative approach to Financial Literacy for Women Entrepreneurs

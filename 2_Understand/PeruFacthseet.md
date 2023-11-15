@@ -1,8 +1,10 @@
 ---
 title: Peru Factsheet
-parent: Credit
+parent: Helps you understand
 layout: default
-menu_parent: 4
+
+menu_parent: 2
+nav_order: 3
 ---
 
 

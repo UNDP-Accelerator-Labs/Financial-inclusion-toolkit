@@ -1,3 +1,4 @@
 exclude:
   - README.md
+  - markdown_styling.md 
 baseurl: "/Financial-inclusion-toolkit"
