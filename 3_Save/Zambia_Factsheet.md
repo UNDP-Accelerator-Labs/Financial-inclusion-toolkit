@@ -9,10 +9,8 @@ nav_order: 3
 
 # An app to digitize financial transactions in cross-border trade
 
-Accelerator Labs Zambia and Zimbabwe piloted a project on digitizing trade and financing for women and youth Cross Borders Traders in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). Zambia's project introduced the VillageSavers app among the traders in Livingstone.
-
 **What it does.**
- The VillageSavers app:
+ The VillageSavers app digitizes trade and financing for women and youth Cross Borders Traders in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). More specifically the app:
 
 - Allows informal Self-help Savings Groups (SHGs) to digitize their financial transactions records (savings and loans) through an automated digital system.
 - Solves problems of poor record keeping, human error, lack of transparency, and distrust as each member has access to the information in real time.
