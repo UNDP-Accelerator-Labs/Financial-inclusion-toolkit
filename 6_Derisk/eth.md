@@ -23,7 +23,7 @@ Known issues and troubleshooting. Lack of time-series data (such as locally disa
 
 **People**. One research lead and one in-country researcher. Significant support was provided by three more in-country people, who prepared a preliminary report (“pre-diagnostic”) in response to a list of questions. 
 
-**Focal point**. Amanuel Tadesse. Head of Solutions Mapping, UNDP Ethiopia.
+**Focal point**. [Amanuel Tadesse](/Financial-inclusion-toolkit/contributors/Amanuel-Tadesse.html). 
 
 **Country, year, and language**. Ethiopia, 2023, English. 
 

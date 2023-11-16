@@ -25,7 +25,7 @@ nav_order: 1
 
 **People**. Describe the team needed to implement. Try to avoid just sharing the hierarchy rank and rather focus on their roles. _Suggestion: number of members of the team and responsibilities._
 
-**Focal point**. Lorena Moscovich. Title
+**Focal point**. [Lorena Moscovich](/Financial-inclusion-toolkit/contributors/Lorena-Moscovich.html).
 
 **Country, year, and language**. Argentina, 2021 and 2022, Spanish and English.
 

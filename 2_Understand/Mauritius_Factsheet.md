@@ -52,7 +52,7 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 | 3 | Videographer | The videographer should be proficient in editing, production, animation, graphics, sound design and storytelling, as well as editing software and platforms. Additionally, a videographer should exhibit local language fluency, creativity, attention to detail, the ability to incorporate feedback from the target group, and time management. (The instructional videos are very short to match the attention span of the target group.) |
 | 4 | Project Coordinator | A project coordinator is essential for the experiment to be successful as there are many activities to coordinate simultaneously. Skills include experience in project management and implementation, excellent communication and the ability to inspire collaboration among the team members and stakeholders. Finally, local language fluency, as well as monitoring and evaluation and risk management skills are also required. |
 
-**Focal point:** [Melany Poorun-Sooprayen]().
+**Focal point:** [Melany Poorun-Sooprayen](/Financial-inclusion-toolkit/contributors/Melany-Poorun-Sooprayen.html).
 
 **Country, year, and language** : Republic of Mauritius, Period: 2022 to 2023, Mauritian Creole/ English.
 
