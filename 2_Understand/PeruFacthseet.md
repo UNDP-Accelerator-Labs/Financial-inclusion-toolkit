@@ -1,5 +1,5 @@
 ---
-title: Peru Factsheet
+title: A course to build trust in digital technology applied to the needs of market vendors
 parent: Helps you understand
 layout: default
 
@@ -8,11 +8,8 @@ nav_order: 3
 ---
 
 
-# Peru and El Salvador. How to design a digitalization journey focused on financial inclusion of women.
+# A course to build trust in digital technology applied to the needs of market vendors
 
-## Proposed structure for factsheets
-
-The factsheet for a tool should contain the following information.
 
 **What it does.** List the three actions/activities that your tool allows you to do (offer). _Suggestion: This [title of the tool] allows you to do [action 1], [action 2], and [action 3]._
 
