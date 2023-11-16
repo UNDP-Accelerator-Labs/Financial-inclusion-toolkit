@@ -11,15 +11,16 @@ nav_order: 3
 # A course to build trust in digital technology applied to the needs of market vendors
 
 
-**What it does.** List the three actions/activities that your tool allows you to do (offer). _Suggestion: This [title of the tool] allows you to do [action 1], [action 2], and [action 3]._
+**What it does.** 
 
 This digitalization journey will help build trust in technology and digital literacy allowing women entrepreneurs to access and benefit from financial inclusion related technologies.
 
-**Value proposition for the government/other partner.** Describe the advantage using your tool will bring about. _Suggestion: By having a [title of the tool], you will enable [the partner] to achieve [something of value and align with UNDP's_ [_signature solutions_](https://www.undp.org/sites/g/files/zskgke326/files/migration/gh/ec896cafde73c2a1c1c2f66c3c3b9312b3ef19593e8ad50ccd0cb8ae621c7303.pdf) _and the_ [_SDGs_](https://sdgs.un.org/goals)_]_.
+**Value proposition for the government/other partner.** 
+Suggestion: By having a [title of the tool], you will enable [the partner] to achieve [something of value and align with UNDP's_ [_signature solutions_](https://www.undp.org/sites/g/files/zskgke326/files/migration/gh/ec896cafde73c2a1c1c2f66c3c3b9312b3ef19593e8ad50ccd0cb8ae621c7303.pdf) _and the_ [_SDGs_](https://sdgs.un.org/goals)_]_.
 
 **Why and when to use it**. Give detail about the "right" environment for this tool to be effectively used. _Suggestion: This tool is most useful when [situation 1], [situation 2], and [situation 3]_.
 
-**Known issues and troubleshooting**. Explain which are the necessary requirements for this tool to be used so that the user knows when not to use it. _Suggestion: If there is a lack of [requirement 1], [requirement 2], and [requirement 3], it is not yet the best moment to make use of this tool._
+**Known issues and troubleshooting**. 
 
 Women are the experts and they know better: Digitalization is not about handing out smartphones or laptops. It clearly involves building trust and confidence in those that teach them about apps and websites. However, when it comes to women who trying to catch up with the digital natives around them, it also depends on trusting themselves enough to be aware and confident in their own expertise about their businesses, the tools that they need, and the pace of their digitalization journey.
 
@@ -39,7 +40,7 @@ In this context, Innovate your Market bet on digitalization as a tool for develo
 - There were few incentives from customers to use digital tools such as digital wallets
 - And most importantly, they did not trust digital tools, especially the ones involving money transactions **Cost**. How much does it cost, in USD, to implement this tool? _Suggestion: think about what the partner would spend to implement, not about how much it cost to create it in the first place_.
 
-**People**. Describe the team needed to implement. Try to avoid just sharing the hierarchy rank and rather focus on their roles. _Suggestion: number of members of the team and responsibilities._
+**People**. 
 
 **Focal point**. [Ximena Gonzalez](/Financial-inclusion-toolkit/contributors/Ximena-Gonzalez.html), [Mariana Olcese](/Financial-inclusion-toolkit/contributors/Mariana-Olcese.html),  
 
