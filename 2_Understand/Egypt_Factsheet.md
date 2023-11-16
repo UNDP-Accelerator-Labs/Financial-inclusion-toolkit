@@ -1,14 +1,13 @@
 ---
-title: Qualitative research tools 
+title: Qualitative research tools for unlocking financial needs and behavior
 parent: Understand
 layout: default
 
 menu_parent: 2
 nav_order: 4
 ---
-# FACTSHEET TEMPLATE
 
-## Qualitative research tools for unlocking financial needs and behavior - Egypt
+# Qualitative research tools for unlocking financial needs and behavior
 
 **What it does.** These qualitative research tools use human-centered design and ethnography to structure interviews and focus groups to create personas to "put a face" to people who are typically viewed as beneficiaries, revealing deep explanatory insights into rural resilience and financial inclusion.
 
