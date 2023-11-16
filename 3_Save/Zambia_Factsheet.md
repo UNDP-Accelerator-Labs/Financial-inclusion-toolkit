@@ -1,5 +1,5 @@
 ---
-title: Digitizing Community Savings Groups in Zambia
+title: Digitizing Zambian Community Savings Groups 
 parent: Helps you save
 layout: default
 
@@ -7,7 +7,7 @@ menu_parent: 3
 nav_order: 3
 ---
 
-# Digitizing Community Savings Groups in Zambia
+# Digitizing Zambian Community Savings Groups 
 
 Accelerator Labs Zambia and Zimbabwe piloted a project on digitizing trade and financing for women and youth Cross Borders Traders in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). Zambia's project introduced the VillageSavers app among the traders in Livingstone.
 
