@@ -3,7 +3,7 @@ title: At a glance
 parent: Getting Started
 layout: default
 
-menu_parent: 2
+menu_parent: 1
 nav_order: 3
 
 ---
