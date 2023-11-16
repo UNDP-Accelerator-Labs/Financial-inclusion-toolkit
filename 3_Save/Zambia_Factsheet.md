@@ -1,5 +1,5 @@
 ---
-title: Village Savings
+title: Digitizing Community Savings Groups in Zambia
 parent: Helps you save
 layout: default
 
