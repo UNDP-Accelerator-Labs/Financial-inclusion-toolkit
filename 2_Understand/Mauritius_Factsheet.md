@@ -9,8 +9,6 @@ nav_order: 2
 ---
 # A video- and text message based course on financial literacy for female entrepreneurs
 
-The UNDP Mauritius and Seychelles Accelerator Lab, in partnership with the University of Mauritius and other local stakeholders, including the Ministry of Gender Equality and Family Welfare, the National Women Entrepreneur Council, and Small and Medium Enterprise Mauritius (SME Mauritius), conducted an experiment with 30 women entrepreneurs from the Republic of Mauritius.
-
 **What it does:** The experiment was to evaluate the effect of an online solution on women's financial literacy. The training content, which was developed in _'Kreol Morisien'_ in video format, was used to train women-led entrepreneurs with suffering businesses who lacked financial literacy.
 
  Multiple methods, such as surveys, interviews and focus groups, were used to understand what aspects of entrepreneurial finance were most difficult or confusing for women entrepreneurs to understand via traditional class-type training. Then, the course content and delivery were tailored to address those issues and provide clear and relevant examples and exercises and the interaction.
