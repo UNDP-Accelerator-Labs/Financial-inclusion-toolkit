@@ -34,7 +34,14 @@ Mariana-Olcese:
   name: Mariana Olcese
   bio: Mariana joined UNDP Peru in 2020 as Head of Exploration. Before that, she worked as Public Affairs and Head of Institutional Affairs for companies like WeWork and Corporacion Breca. Mariana holds an MBA from Yale and Georgetown University. Her expertise encompasses stakeholder management, social and political monitoring, and the development of strategic corporate positioning. She is adept at fostering and leading dialogues between public and private actors, facilitating cooperation and knowledge sharing.
   email: mariana.olcese@undp.org
-  # picture_dir: '/imgs/contributors/John.png'
+  # picture_dir: '/imgs/contributors/mariana-olcese.jpeg'
   job_title: Head of Exploration
   organization: UNDP Peru Accelerator Labs
 
+Ximena-Gonzalez:
+  name: Ximena González
+  bio:  Leads Inclusive Growth team in UNDP Peru. Ximena is also a social entrepreneur, through Heroínas Peruanas a non-profit association that promotes education and equal opportunities through educational materials about the lives of notable Peruvian women
+  email: ximena.gonzalez@undp.org
+  # picture_dir: '/imgs/contributors/XImena Gonzallez.jpeg'
+  job_title: Inclusive Growth Coordinator
+  organization: UNDP Peru Accelerator Labs 
