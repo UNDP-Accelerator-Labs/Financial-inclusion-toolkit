@@ -1,11 +1,13 @@
 ---
-title: South Sudan Factsheet
+title: A method for digitizing community savings  processes
 parent: Helps you save
 layout: default
 
 menu_parent: 3
 nav_order: 2
 ---
+
+# A method for digitizing community savings  processes
 
 Documenting a manual group saving process through community immersion
 
