@@ -41,7 +41,7 @@ In this context, Innovate your Market bet on digitalization as a tool for develo
 
 **People**. Describe the team needed to implement. Try to avoid just sharing the hierarchy rank and rather focus on their roles. _Suggestion: number of members of the team and responsibilities._
 
-**Focal point**. [Mariana Olcese](/Financial-inclusion-toolkit/contributors/Mariana-Olcese.html)
+**Focal point**. [Mariana Olcese](/Financial-inclusion-toolkit/contributors/Mariana-Olcese.html),  [Ximena Gonzalez](/Financial-inclusion-toolkit/contributors/Ximena-Gonzalez.html)
 
 **Country, year, and language**. Peru and El Salvador 2021, 2022, 2023. English and Spanish.
 
