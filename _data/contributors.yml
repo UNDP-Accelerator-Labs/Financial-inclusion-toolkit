@@ -1,4 +1,3 @@
-
 Amanuel-Tadesse:
   name: Amanuel Tadesse
   bio: Amanuel has a diverse background with experience in government, NGOs, and the private sector. Currently, he works for the UNDP. In his role as a solution mapper, he is responsible for identifying and co-designing grassroots solutions to address community challenges. Before joining UNDP, Amanuel worked on testing and revamping business models related to rural finance, specifically focusing on voucher-based agricultural input distribution systems and seed marketing. He has also provided analytical support to various programs and has experience in designing and conducting surveys. Amanuel holds a PhD in geography from the University of Leuven, with a primary focus on urbanism. His academic interests revolve around exploring the intricate interactions between space and society, particularly within urban contexts in the global south.
@@ -12,7 +11,6 @@ Lorena-Moscovich:
   email: lorena.moscovich@undp.org
   picture_dir: '/img/contributors/lorena_moscovich.jpg'
 
-
 Lillian-Abou-Zeki:
   name: Lillian Abou Zeki
   bio: Add bio here
@@ -20,13 +18,13 @@ Lillian-Abou-Zeki:
   # picture_dir: '/img/contributors/John.png'
 
 Melany-Poorun-Sooprayen:
-	name: Melany Poorun-Sooprayen
-	bio: Add bio here
-	email: melany.poorun-sooprayen@undp.org
-	# picture_dir: '/img/contributors/John.png'
-	
+  name: Melany Poorun-Sooprayen
+  bio: Add bio here
+  email: melany.poorun-sooprayen@undp.org
+  # picture_dir: '/img/contributors/John.png'
+  
 Mariana-Olcese:
   name: Mariana Olcese
   bio: Mariana joined UNDP Peru in 2020 as Head of Exploration. Before that, she worked as Public Affairs and Head of Institutional Affairs for companies like WeWork and Corporacion Breca. Mariana holds an MBA from Yale and Georgetown University. Her expertise encompasses stakeholder management, social and political monitoring, and the development of strategic corporate positioning. She is adept at fostering and leading dialogues between public and private actors, facilitating cooperation and knowledge sharing.
   email: mariana.olcese@undp.org
-	# picture_dir: '/img/contributors/John.png'
+  # picture_dir: '/img/contributors/John.png'
