@@ -26,7 +26,7 @@ Melany-Poorun-Sooprayen:
   name: Melany Anoushka Poorun-Sooprayen
   bio: Add bio here
   email: melany.poorun-sooprayen@undp.org
-  # picture_dir: '/imgs/contributors/John.png'
+  picture_dir: '/imgs/contributors/John.png'
   job_title: Head of Exploration
   organization: UNDP Mauritius and Seychelles Accelerator Labs
   
@@ -34,7 +34,7 @@ Mariana-Olcese:
   name: Mariana Olcese
   bio: Mariana joined UNDP Peru in 2020 as Head of Exploration. Before that, she worked as Public Affairs and Head of Institutional Affairs for companies like WeWork and Corporacion Breca. Mariana holds an MBA from Yale and Georgetown University. Her expertise encompasses stakeholder management, social and political monitoring, and the development of strategic corporate positioning. She is adept at fostering and leading dialogues between public and private actors, facilitating cooperation and knowledge sharing.
   email: mariana.olcese@undp.org
-  # picture_dir: '/imgs/contributors/mariana-olcese.jpeg'
+  picture_dir: '/imgs/contributors/mariana-olcese.jpeg'
   job_title: Head of Exploration
   organization: UNDP Peru Accelerator Labs
 
