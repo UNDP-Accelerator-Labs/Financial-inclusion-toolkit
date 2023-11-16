@@ -1,4 +1,4 @@
 ---
-title: Helps people borrow
+title: Help people borrow
 menu: 5
 ---

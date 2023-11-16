@@ -12,7 +12,7 @@ nav_order: 3
 
 **Getting started**. This section explains the rationale for the toolikit, and how to use it
 
-**Helps people understand**. This section contains initiatives that help individuals and communities understand how to use financial services or increase their financial literacy, such as course and research tools.
+**Help people understand**. This section contains initiatives that help individuals and communities understand how to use financial services or increase their financial literacy, such as course and research tools.
 
 **Help people save**. This section describes tools for digitizing community savings processes. 
 

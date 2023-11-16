@@ -1,5 +1,5 @@
 ---
-title: Helps people understand
+title: Help people understand
 menu: 2
 ---
 
