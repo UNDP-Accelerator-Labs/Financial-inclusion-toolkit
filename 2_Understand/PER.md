@@ -1,5 +1,5 @@
 ---
-title: A course to build trust in digital technology applied to the needs of market vendors
+title: ...with a course to build trust in digital technology applied to the needs of market vendors
 parent: Helps you understand
 layout: default
 

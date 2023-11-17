@@ -1,6 +1,11 @@
 ---
+<<<<<<< Updated upstream:2_Understand/Mauritius_Factsheet.md
 title: A video and text message based course on financial literacy for female entrepreneurs
 parent: Helps you understand
+=======
+title: ... through a video- and text message-based course on financial literacy for female entrepreneurs
+parent: Helps people understand
+>>>>>>> Stashed changes:2_Understand/MAR.md
 layout: default
 
 menu_parent: 2

@@ -1,13 +1,13 @@
 ---
-title: Digital payments via neighborhood stores 
-parent: Helps you pay
+title: ... with digital payments via neighborhood stores 
+parent: Helps people pay
 layout: default
 
 menu_parent: 4
 nav_order: 1
 
 ---
-
+# Digital payments via neighborhood stores
 
 **What it does.** The takeup of digital payment services are hindered by persisting digital divides. Even people who own computing devices and have access to the Internet are often reluctant to use them to make payment, as they do not feel confident enough and fear making mistakes, possibly paying more than they should. The _Red Con Vos_ ("Network With You") is a network of neighborhood stores, whose owners and managers own the necessary equipment for online payments and have been trained in how to help their fellow citizens in doing all kind of online administrative processes (not only payments). Residents gain the convenience of accessing digital payments; store owners charge a small fee for each transaction they facilitate, and, perhaps more importantly, benefit from residents visiting their stores more often.
 

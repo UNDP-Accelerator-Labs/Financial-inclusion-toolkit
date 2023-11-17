@@ -1,6 +1,6 @@
 ---
-title: CBV
-parent: Helps you borrow
+title: .. through tailored needs matching
+parent: Helps people borrow
 layout: default
 
 menu_parent: 5

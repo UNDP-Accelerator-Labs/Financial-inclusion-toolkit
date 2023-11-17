@@ -1,6 +1,6 @@
 ---
-title: An app to digitize financial transactions in cross-border trade 
-parent: Helps you save
+title: ... through an app to digitize financial transactions in cross-border trade 
+parent: Helps people save
 layout: default
 
 menu_parent: 3

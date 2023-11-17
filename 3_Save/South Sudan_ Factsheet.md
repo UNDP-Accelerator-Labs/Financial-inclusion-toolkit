@@ -1,6 +1,6 @@
 ---
-title: A method for digitizing community savings  processes
-parent: Helps you save
+title: ... by digitizing community savings  processes
+parent: Helps people save
 layout: default
 
 menu_parent: 3

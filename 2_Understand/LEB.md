@@ -1,5 +1,5 @@
 ---
-title: Bookkeeping micro courses
+title: ... through financial bookkeeping micro courses to boost women entrepreneurs' business confidence
 parent: Helps you understand
 layout: default
 
@@ -7,7 +7,7 @@ menu_parent: 2
 nav_order: 4
 
 ---
-# Financial bookkeeping micro courses to boost women entrepreneurs business confidence
+# Financial bookkeeping micro courses to boost women entrepreneurs' business confidence
 
 The UNDP Lebanon Accelerator Lab, conducted a year long behavioural research with 19 women entrepreneurs from Lebanon, the qualitative research singled out "financial book-keeping" as a an area of ill confidence, worry, and difficulty for all women. In partnership with the RBAS innovation unit the lab team took this insight and coupled it with in depth needs assessment and structured interviews to eventually design a book-keeping course that speaks to the common phenomenon of time-poverty that women suffer by delivering easy, short and localised content video content on book-keeping by email over a period of 7 days. The content included interactive knowledge testing, and a free reward for completers. 
 
