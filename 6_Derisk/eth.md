@@ -1,5 +1,5 @@
 ---
-title: Diagnostics to prepare the roll-out of a programme on risk insurance 
+title: ... through diagnostics meant to prepare the roll-out of a programme on risk insurance 
 parent: Helps you de-risk
 layout: default
 
