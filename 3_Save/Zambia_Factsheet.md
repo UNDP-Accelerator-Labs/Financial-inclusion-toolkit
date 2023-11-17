@@ -10,7 +10,7 @@ nav_order: 3
 # An app to digitize financial transactions in cross-border trade
 
 **What it does.**
- The VillageSavers app digitizes trade and financing for women and youth Cross Borders Traders in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). More specifically the app:
+ The VillageSavers app digitizes trade and financing for cross border traders who are women and young people, in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). More specifically, the app:
 
 - Allows informal Self-help Savings Groups (SHGs) to digitize their financial transactions records (savings and loans) through an automated digital system.
 - Solves problems of poor record keeping, human error, lack of transparency, and distrust as each member has access to the information in real time.
@@ -19,9 +19,8 @@ nav_order: 3
 **Value proposition for the government/other partner.**
  By using the VillageSavers app, self-help savings groups have a comprehensive solution to the challenges faced in informal savings groups. It not only improves financial management and transparency but also opens new opportunities for digital financial inclusion and access to formal financial services.
 
-Notably, the VillageSavers app is most useful within the informal sector, catering to individuals who lack access to formal banking services. This community seeks to collectively pool their resources, thereby bolstering their borrowing and lending capabilities, leading to increased revenue for their businesses. Additionally, the App has demonstrated its value to formal financial institutions, as it helps them identify creditworthy patterns within the informal business sector, making it a viable tool for extending financial support to unbanked populations.
+Notably, the VillageSavers app is most useful within the informal sector, catering to individuals who lack access to formal banking services. This community seeks to collectively pool their resources, thereby bolstering their borrowing and lending capabilities, leading to increased revenue for their businesses. Additionally, the app has demonstrated its value to formal financial institutions, as it helps them identify creditworthy patterns within the informal business sector, making it a viable tool for extending financial support to unbanked populations.
 
-The App is an online solution, requiring infrastructure such as access to feature phones and internet support. Additionally, the proof of concept highlighted the need for digital skills training and financial inclusion training to ensure uptake of the tool.
 
 **Why and when to use it.** Small scale cross border traders (SSCBTs) suffer from lack of access to pensions, as well as other financial products and services because they are unable to engage with the pension authority and banks, who view serving them as risky. Using an app such as VillageSavers will create a digital transaction history that would enable banks and the pension authority to do more accurate risk assessments on SMEs that use it.
 
@@ -52,7 +51,7 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **Focal point**.
 
-Moses Mwansa, holder of the Master of Science Degree in Project Management, is proprietor of VillageSavers Technology Ltd, a fintech that promotes financial inclusion in low-income and informal business through the VillageSavers app. VillageSavers helps SMEs (Small and Medium sized Enterprises) adopt tech-based solutions in their businesses. He is a 2021 Mandela Washington Fellow from the University of Nebraska, Lincoln, a YALI Regional Leadership Program alumni from the University of South Africa (2019), and a participant in the US Department of State's Tech-Camp program in Nigeria (2019), and Ghana 2016. VillageSavers has been used successfully by Cross Border Traders through the project Digitizing Trade and Financing for Women and Youth Cross Borders Traders, which is jointly financed by the Africa Borderlands Centre and UNDP Zambia.
+Moses Mwansa, holder of the Master of Science Degree in Project Management, is the proprietor of VillageSavers Technology Ltd, a fintech that promotes financial inclusion in low-income and informal business through the VillageSavers app. VillageSavers helps SMEs (Small and Medium sized Enterprises) adopt tech-based solutions in their businesses. Moses is a 2021 Mandela Washington Fellow from the University of Nebraska, Lincoln, a YALI Regional Leadership Program alumni from the University of South Africa (2019), and a participant in the US Department of State's Tech-Camp program in Nigeria (2019), and Ghana 2016. VillageSavers has been used successfully by Cross Border Traders through the project Digitizing Trade and Financing for Women and Youth Cross Borders Traders, which is jointly financed by the Africa Borderlands Centre and UNDP Zambia.
 
 **Country, year, and language**. Zambia, 2021-2023, English
 
