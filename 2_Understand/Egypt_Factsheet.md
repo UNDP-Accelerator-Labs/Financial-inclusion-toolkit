@@ -1,5 +1,5 @@
 ---
-title: Qualitative research tools for unlocking financial needs and behavior 
+title: Qualitative research tools for understanding financial needs and behavior 
 parent: Helps you understand
 layout: default
 
@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-# Qualitative research tools for unlocking financial needs and behavior
+# Qualitative research tools for understanding financial needs and behavior
 
 **What it does.** These qualitative research tools use human-centered design and ethnography to structure interviews and focus groups to create personas to "put a face" to people who are typically viewed as beneficiaries, revealing deep explanatory insights into rural resilience and financial inclusion.
 
@@ -24,7 +24,7 @@ nav_order: 4
 
 **Known issues and troubleshooting**. Conducting ethnographic research only makes sense if it is possible to influence and adapt the proposed interventions based on the learnings from the study. If it is not possible to change the implementation plan, then there is no need to question people and create a false sense of participation, which contributes to research fatigue. Additionally, when you do not have connections within the community, it is important to spend time and build trust.
 
-For Egypt's case, the team leveraged the existing strong NGO network from the small grants program. Once connected to the NGO, the team conducted an introductory call explaining clearly the objectives of the activities. After they agreed to support, the team made a visit to the NGO location to discuss in more detail the research learning question, create the village profile, and address any concerns anticipated by the NGO.
+In Egypt's case, the team leveraged the existing strong NGO network from the small grants program. Once connected to the NGO, the team conducted an introductory call explaining clearly the objectives of the activities. After they agreed to support, the team made a visit to the NGO location to discuss in more detail the research learning question, create the village profile, and address any concerns anticipated by the NGO.
 
 **Context**. Using these tools was the first step to better inform different activities and programs within UNDP (and for outside partners) on financial inclusion, specifically how it relates to rural resilience.
 
