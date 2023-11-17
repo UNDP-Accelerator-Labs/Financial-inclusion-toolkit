@@ -9,42 +9,59 @@ nav_order: 2
 
 # A method for digitizing community savings  processes
 
-Documenting a manual group saving process through community immersion
+# The Analog to Digital Sanduk blueprint on Financial Inclusion in South Sudan
 
-What it does. This process will help to capture the user requirements of an analog community savings model to enable its digitalization.
+# Overview and Background:
 
-Value proposition for the government/other partner. By using this process, you will enable any entity that seeks to improve the operational efficiency and safety of analogue group savings groups processes to digitize them and provide the records of financial transactions that banks, and other formal institutions can use to extend financial services.
+Traditionally, cross-border traders (both men and women) in Warawar Peace Market have relied on a unique form of financial association known as the Sanduk. For generations, Sanduks have played a vital role in South Sudan, serving as a form of social capital and financial security. The sanduk functions by pooling the savings of members and lending the funds to those in need at an interest rate that is agreed upon by the group. However, traditional sanduks have faced numerous challenges, including high-interest rates and limited access to credit, making it difficult for entrepreneurs and informal cross border traders to thrive.
 
-Additionally, a private sector partner can use this process as a form of R&D, to develop a product from which they can offer financial services to serve left behind rural communities for the sustainability of the product.
+The word Sanduk means "box" in Arabic, members of a sanduk contribute small amounts of money on a regular basis, with the funds held in the Sanduk until a member needs a loan. In Warawar, the loans are typically granted at high interest rate, making them an accessible source of credit for informal cross border traders who do not have access to formal financial institutions.
 
-mSanduk; A mobile app for community savings adds value because:
+The _ Analog to Digital _ Experiment was launched to explore innovative ways of addressing the socio-economic challenges faced by this community. Six village sanduk groups participated, in the challenge. Using the M-gurush digital platform to save, loan, and transfer money among members.
 
-It creates digital storage to reduce the risk of loss of community savings due to fire or theft.
+# What it does. 
+This process will help to capture the user requirements of an analog community savings model to enable its digitalization.
+
+# Value proposition for the government/other partner.
+
+This process will enable any entity that seeks to improve the operational efficiency and safety of analogue group savings groups processes to digitize them and provide the records of financial transactions that banks, and other formal institutions can use to extend financial services.
+
+Additionally, a private sector partner can use this process as a form of R&D, to develop a product from which they can offer financial services to serve left behind rural communities for the.
+
+Partners such as Civil Society Organizations may utilize the training component to empower more women in the informal business with basic business and digital literacy skills.
+
+mSanduk; is community savings model that adds value because:
+
+The model provides a blueprint for the digitization of traditional financial systems in Africa, and beyond, and highlights the potential of innovation and technology to enhance financial inclusion and promote economic development.
+By digitizing traditional financial services such as the sanduk, communities can gain access to the financial tools they need to improve their livelihoods and build a better future for themselves and their families.
 Community savings groups can track transactions and savings to build a financial profile for seeking bank loans.
-It makes available cash for the community members to borrow during emergencies.
+It makes available cash for the community members to borrow during emergencies. The digital sanduk system allowed members to save and borrow money with ease, using their mobile
 At border/remote areas, making payments is often a struggle, banks are inaccessible, and access to finance and financial services is nonexistent.
 To safeguard money from wildfires in rural settings; where most markets are temporary structures which is de-risked by community funds being kept in sanduks;
 community saw relief when they realized they could keep money on their phones; able to move freely without worry of money theft/insecurity.
-Why and when to use it. A couple of requirements to have in place before taking up on replicating the model and these are the conditions.
 
-Enabling conditions:
+# Why and when to use it.
+
+To overcome the challenges faced by the sanduks, more training and education on digital platforms and financial services are necessary. Additionally, addressing the lack of banking infrastructure and documentation issues will help sanduks transact more efficiently.
+
+Increasing access to digital financial services will facilitate growth of business and increase financial inclusion. The successful transformation of the sanduks in the Experiment provides opportunities for scaling and replication in other borderland communities across Africa. A couple of requirements to have in place before taking up on replicating the model and these conditions are:
 
 Ubiquity of mobile money makes it a good tool;
-Communities pool savings
+Communities pooled savings groups in existence
 Where community savings have formal structuring
-Private sector entities provide mobile money services
-need to work with private sector so if they see profit, they can continue and won't die to lack of funding; look for private sector partner and see where there's a benefit for them
+Private sector entities to provide mobile money services
+There is a need to work with private sector to ensure continuity of the initiative for its sustainability aspect.
 Known issues and troubleshooting ; the requirements for this tool to be used so that the user knows when not to use it will include.
 
 If there is a lack of;
 
-infrastructure; mobile network access, the tech infrastructure is necessary as a precursor for replication of this model mSanduk
+infrastructure: mobile network access, the tech infrastructure is necessary as a precursor for replication of this model mSanduk
 formal analog savings structure, and
 community willingness/buy in, It is not yet the best moment to make use of this tool.
-Context.
+
+# Context.
 
 Sanduks are common group savings practice in S. Sudan and the Sudan, e.g. it comes in forms of commodity sanduks (farmers pooling their products such as; sorghum, beans, and ground nuts etc.) or cash sanduks
-The idea was built out of a joint experiment with UKRI (United Kingdom Research and Innovation) and the South Sudan Accelerator Lab to economically empower a group of 400 PLHIV and their caregivers' through the mGurush mobile wallet service.
 Borderland communities in rural settings often lack access to formal banking services due to the remoteness of the locations. These groups often conduct cross border trade but lack access to finance to support and grow their businesses. To fill these gaps the: -
 Businesspeople often take money home and save it in boxes (Sanduks). They also keep business finances in commodities such as stocks. These business assets are often vulnerable given their nature to threats such as fire, theft of loss. To mitigate against these risks businesses often form small sanduk groups where money or commodities are pooled together by members in a lifecycle of up to 6 months; this enables the sanduks to either grow their business or utilise the funds/commodities for social needs (school fees, medical fees, etc.);
 The theory of change for this experiment is through the digitalization of the Sanduk, the groups would gain a digital financial profile that allows them to better solicit for loans from financial service providers. The digital sanduk also provides a safer means for the safe keeping of the communally pooled funds.
@@ -52,24 +69,26 @@ Gain a digital financial profile. Enables access to emergency funds that the com
 The initial focus was to build on the women financial inclusion toolkit; but then we also incorporated and tested the concept with cross border traders through the ABC crossborder innovation challenge funds. At the South Sudan/Sudan border, the crossborder traders often had to send money to Khartoum through Cairo for the purchase of their goods from Sudan which took them lot of time to get their goods delivered; This same group also had their own sanduk saving group which made it easier for them to be incorporated.
 Trying to figure out how to transfer money from Mbok (Sudan) through m-GURUSH (South Sudan) to avoid a long cycle of money flow, however, with the current Sudan situation this is on hold
 Some additional intervention for this project included; basic financial literacy training, digital literacy training and gender and legal services training to help the group learn basics of business management, and the rules/regulation of operating in the markets.
-Cost. The entire activity costed upto 100000 USD for the entire duration of the activity. 12K - community immersion (flights to Abiye & Warawar, ground transportation, security, food); 16K- Technical support 60K – intervention heavy lifting (booster packages, M&E, follow ups with groups)
+# Cost. 
+The entire activity costed up to 100000 USD for the duration of the activity,broken down as below,
+12K - community immersion (flights to Abyei & Warawar, ground transportation, security, food); 16K-Technical support 60K- intervention heavy lifting (booster packages, M&E, follow ups with groups)
+10k- capacity trainings offered.
 
-15- trainings offered
+# People.
 
-People. Describe the team needed to implement. Try to avoid just sharing the hierarchy rank and rather focus on their roles. Suggestion: number of members of the team and responsibilities.
-
-Community mobilizer/local partner (implementing partner/CSO to do financial literacy and mobilization for community) who knows community to lead community immersion
-interpreter, depending on where you are
-technical counterpart in private sector/salesperson to spell out benefits of platform Software developer who has soft skills and understands the community
+The teams involved in this journey included,
+Community mobilizer/local partner (implementing partner/CSO to do financial literacy and mobilization for community) who knows community to lead community immersion.
+Interpreter, depending on where you are.
+Technical counterpart in private sector/salesperson to spell out benefits of platform, Software developer who has soft skills and understands the community.
 Team of researchers to reveal insights (volunteers)
 Data analyst (volunteer)
-Focal point. Name(s) of the authors of this tool. Short biography (max. 150 words).
+Technical Support
 
-Jacqueline Poni Aringu.
+# Focal persons. Name(s) of the authors of this tool. 
 
-Comes with a rich blend of both public and private sector experience to her head of Experimentation role, she has worked with and coordinated various stakeholders, ranging from the private sector, Governmental institutions to working with Non-Governmental Organization. She has worked in resource limited settings economically empowering vulnerable communities through women financial inclusion initiatives.
+Jacqueline Poni Aringu (MPH.MSC.BSC.)
 
-Jacqueline has also led several R&D projects in building prototype of significant and impactful scale in South Sudan Country Office and effectively executed them to a scale- up phase.
+Is a Head of Experimentation at the South Sudan Accelerator Lab, very passionate about R&D and comes with a rich blend of both public and private sector experience to her Experimentation role, she has worked with and coordinated various R&D projects from both Government and Private sector. Jacqueline has worked in resource limited settings economically empowering vulnerable communities through women financial inclusion initiatives.
 
 Jacqueline is a strong team player and has effectively thought leadership through innovative ideas. She is a very ambitious and result oriented human and these attributes have helped her show the utmost professional ethics.
 
@@ -81,7 +100,7 @@ At UNDP one of the notable projects Eng. Tong has project led was a pilot scheme
 
 In addition, Eng. Tong in his capacity as the UNDP Digital Advocate works to identify and realize opportunities for digital project design and delivery in UNDP to be able to support the developmental aspirations of our lead partner the Government of South Sudan."
 
-Country, year, and language. This information helps contextualize the tool.
+Country, year, and language.
 
-Resources. A list of the resources documented in the factsheet. There can be more than one resource, each one presenting the same content in different forms: for example, a concept note and a slide deck of the same project, or the syllabus for a course and the link to a blog post explaining the logic behind the course. Resources can be either files attached to the toolkit or links to external web resources.
+Resources. Resources can be either files attached to the toolkit or links to external web resources.
 
