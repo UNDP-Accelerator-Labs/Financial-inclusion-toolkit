@@ -58,12 +58,9 @@ If there is a lack of
 
 infrastructure: mobile network access; the tech infrastructure is necessary as a precursor for replication of this model mSanduk
 formal analog savings structure, and
-community willingness to buy in, It is not yet the best moment to make use of this tool.
+community willingness/buy in,
 
-# Context.
-Sanduks are common group savings practice in S. Sudan and the Sudan; e.g., they come in the form of commodity sanduks (farmers pooling their products such as; sorghum, beans, and ground nuts, etc.) or cash sanduks
-Borderland communities in rural settings often lack access to formal banking services due to the remoteness of the locations. These groups often conduct cross-border trade but lack access to finance to support and grow their businesses. To fill these gaps:
-Businesspeople often take money home and save it in boxes (sanduks). They also keep business finances in commodities such as stocks. These business assets are often vulnerable, given their nature, to threats such as fire, theft, and loss. To mitigate against these risks, businesses often form small sanduk groups where money or commodities are pooled together by members in a lifecycle of up to 6 months; this enables the sanduks to either grow their business or utilize the funds or commodities for social needs (school fees, medical fees, etc.).
+It is not yet the best moment to make use of this tool.
 
 # Cost. 
 The entire activity cost up to 100,000 USD for the duration of the activity,broken down as below:
@@ -81,7 +78,8 @@ Team of researchers to reveal insights (volunteers)
 Data analyst (volunteer)
 Technical Support
 
-# Focal Persons Name(s) of the authors of this tool. 
+# Focal Persons/Authors of this Tool
+
 # Jacqueline Poni Aringu (MPH.MSC.BSC)
 
 Is a Head of Experimentation at the South Sudan Accelerator Lab, very passionate about R&D, and comes with a rich blend of both public and private sector experience in her experimentation role. She has worked on and coordinated various R&D projects from both the government and private sectors. Jacqueline has worked in resource-limited settings, economically empowering vulnerable communities through women's financial inclusion initiatives.
