@@ -11,9 +11,9 @@ nav_order: 2
 
 # The Analog to Digital Sanduk blueprint on Financial Inclusion; method to digitizing community savings processes
 
-# Overview and Background:
-Traditionally, cross-border traders (both men and women) in Warawar Peace Market have relied on a unique form of financial association known as the Sanduk. For generations, Sanduks have played a vital role in South Sudan, serving as a form of social capital and financial security. The sanduk functions by pooling the savings of members and lending the funds to those in need at an interest rate that is agreed upon by the group. However, traditional sanduks have faced numerous challenges, including high interest rates and limited access to credit, making it difficult for entrepreneurs and informal cross-border traders to thrive.
 
+# Context:
+Traditionally, cross-border traders (both men and women) in Warawar Peace Market have relied on a unique form of financial association known as the Sanduk. For generations, Sanduks have played a vital role in South Sudan, serving as a form of social capital and financial security. The sanduk functions by pooling the savings of members and lending the funds to those in need at an interest rate that is agreed upon by the group. However, traditional sanduks have faced numerous challenges, including high interest rates and limited access to credit, making it difficult for entrepreneurs and informal cross-border traders to thrive.
 The word Sanduk means "box" in Arabic, members of a sanduk contribute small amounts of money on a regular basis, with the funds held in the Sanduk until a member needs a loan. In Warawar, the loans are typically granted at high interest rate, making them an accessible source of credit for informal cross-border traders who do not have access to formal financial institutions.
 
 The Analog to Digital Experiment was launched to explore innovative ways of addressing the socio-economic challenges faced by this community. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. The digital sanduk also provides a safer means for the safekeeping of the communally pooled funds.
@@ -83,17 +83,16 @@ Technical Support
 # Jacqueline Poni Aringu (MPH.MSC.BSC)
 
 Is a Head of Experimentation at the South Sudan Accelerator Lab, very passionate about R&D, and comes with a rich blend of both public and private sector experience in her experimentation role. She has worked on and coordinated various R&D projects from both the government and private sectors. Jacqueline has worked in resource-limited settings, economically empowering vulnerable communities through women's financial inclusion initiatives.
-
 Jacqueline is a strong team player and has effectively demonstrated leadership through innovative ideas. She is a very ambitious and result-oriented human, and these attributes have helped her show the utmost professional ethics.
 
 # Tong Atak.
 
 "Eng. Tong Atak is the Head of Solutions Mapping and the Digital Advocate at UNDP South Sudan. He studied his bachelor's degree in computer engineering at Queen Mary University of London. He is a practicing engineer and has over 5 years of experience working in telecoms with Nokia across Western Europe in Research & Development and development and technical account management.
-
 At UNDP one of the notable projects Eng. Tong has project led was a pilot scheme to digitalise the traditional Sanduk savings scheme and migrate the analog process onto the M-Gurush platform. The success of this joint pilot with M-Gurush led to the development of a digital Sanduk called mSanduk being launched nationwide on their platform and being made available as a value-added service to their 1.7 million customer base.
-
 In addition, Eng. Tong in his capacity as the UNDP Digital Advocate works to identify and realize opportunities for digital project design and delivery in UNDP to be able to support the developmental aspirations of our lead partner the Government of South Sudan."
 
-# Country, year, and language.
+# Country, year, and language. 
+South Sudan, 2022-2023, English
+
 Resources. Resources can be either files attached to the toolkit or links to external web resources.
 
