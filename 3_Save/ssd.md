@@ -78,21 +78,4 @@ Team of researchers to reveal insights (volunteers)
 Data analyst (volunteer)
 Technical Support
 
-# Focal Persons/Authors of this Tool
-
-# Jacqueline Poni Aringu (MPH.MSC.BSC)
-
-Is a Head of Experimentation at the South Sudan Accelerator Lab, very passionate about R&D, and comes with a rich blend of both public and private sector experience in her experimentation role. She has worked on and coordinated various R&D projects from both the government and private sectors. Jacqueline has worked in resource-limited settings, economically empowering vulnerable communities through women's financial inclusion initiatives.
-Jacqueline is a strong team player and has effectively demonstrated leadership through innovative ideas. She is a very ambitious and result-oriented human, and these attributes have helped her show the utmost professional ethics.
-
-# Tong Atak.
-
-"Eng. Tong Atak is the Head of Solutions Mapping and the Digital Advocate at UNDP South Sudan. He studied his bachelor's degree in computer engineering at Queen Mary University of London. He is a practicing engineer and has over 5 years of experience working in telecoms with Nokia across Western Europe in Research & Development and development and technical account management.
-At UNDP one of the notable projects Eng. Tong has project led was a pilot scheme to digitalise the traditional Sanduk savings scheme and migrate the analog process onto the M-Gurush platform. The success of this joint pilot with M-Gurush led to the development of a digital Sanduk called mSanduk being launched nationwide on their platform and being made available as a value-added service to their 1.7 million customer base.
-In addition, Eng. Tong in his capacity as the UNDP Digital Advocate works to identify and realize opportunities for digital project design and delivery in UNDP to be able to support the developmental aspirations of our lead partner the Government of South Sudan."
-
-# Country, year, and language. 
-South Sudan, 2022-2023, English
-
-Resources. Resources can be either files attached to the toolkit or links to external web resources.
-
+**Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
