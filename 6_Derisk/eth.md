@@ -28,5 +28,6 @@ Known issues and troubleshooting. Lack of time-series data (such as locally disa
 **Country, year, and language**. Ethiopia, 2023, English. 
 
 **Resources**. 
-•	[Blog post](https://www.undp.org/ethiopia/blog/ethiopias-insurance-landscape-and-opportunities-risk-financing)
-•	[Pre-diagnostic report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/6_Derisk/Pre-diagnostic_risk_insurance_Ethiopia.pdf)
+
+*	[Blog post](https://www.undp.org/ethiopia/blog/ethiopias-insurance-landscape-and-opportunities-risk-financing)
+*	[Pre-diagnostic report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/6_Derisk/Pre-diagnostic_risk_insurance_Ethiopia.pdf)
