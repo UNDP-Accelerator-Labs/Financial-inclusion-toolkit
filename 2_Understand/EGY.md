@@ -1,10 +1,6 @@
 ---
-<<<<<<< Updated upstream:2_Understand/Egypt_Factsheet.md
-title: Qualitative research tools for understanding financial needs and behavior 
-=======
 title: ...through qualitative research tools that unlock financial needs and behavior 
->>>>>>> Stashed changes:2_Understand/EGY.md
-parent: Helps you understand
+parent: Helps people understand
 layout: default
 
 menu_parent: 2
