@@ -37,7 +37,7 @@ Mariana-Olcese:
   picture_dir: '/imgs/contributors/mariana-olcese.jpeg'
   job_title: Head of Exploration
   organization: UNDP Peru Accelerator Labs
-	
+
 Ximena-Gonzalez:
   name: Ximena González
   bio:  Leads Inclusive Growth team in UNDP Peru. Ximena is also a social entrepreneur, through Heroínas Peruanas a non-profit association that promotes education and equal opportunities through educational materials about the lives of notable Peruvian women
@@ -53,8 +53,7 @@ Jacqueline-Poni-Aringu:
   picture_dir: "/imgs/contributors/jacqueline_aringu.jpg"	
   job_title: Head of Experimentation
   organization: UNDP South Sudan Accelerator Lab
-	
-	
+
 Tong-Atak:
   name: Tong Atak
   bio: Eng. Tong Atak is the Head of Solutions Mapping and the Digital Advocate at UNDP South Sudan. He studied his bachelor’s degree in computer engineering at Queen Mary University of London. He is a practicing engineer and has over 5 years of experience working in telecoms with Nokia across Western Europe in Research & Development and development and technical account management. At UNDP one of the notable projects Eng. Tong has project led was a pilot scheme to digitalise the traditional Sanduk savings scheme and migrate the analog process onto the M-Gurush platform. The success of this joint pilot with M-Gurush led to the development of a digital Sanduk called mSanduk being launched nationwide on their platform and being made available as a value-added service to their 1.7 million customer base. In addition, Eng. Tong in his capacity as the UNDP Digital Advocate works to identify and realize opportunities for digital project design and delivery in UNDP to be able to support the developmental aspirations of our lead partner the Government of South Sudan.
@@ -70,7 +69,7 @@ Lilian-Abou-Zeki:
   job_title: Head of Solutions Mapping
   organization: UNDP Lebanon Accelerator Lab
   picture_dir: "/imgs/contributors/lilian_abou_zeki.jpg"	
-	
+
 Moses-Mwansa:
   name: Moses Mwansa
   bio: Moses Mwansa, holder of a Master of Science Degree in Project Management, is the proprietor of VillageSavers Technology Ltd, a fintech that promotes financial inclusion in low-income and informal business through the VillageSavers app. VillageSavers helps SMEs (Small and Medium sized Enterprises) adopt tech-based solutions in their businesses. Moses is a 2021 Mandela Washington Fellow from the University of Nebraska, Lincoln, a YALI Regional Leadership Program alumni from the University of South Africa (2019), and a participant in the US Department of State’s Tech-Camp program in Nigeria (2019), and Ghana 2016. VillageSavers has been used successfully by Cross Border Traders through the project Digitizing Trade and Financing for Women and Youth Cross Borders Traders, which is jointly financed by the Africa Borderlands Centre and UNDP Zambia.
@@ -78,7 +77,7 @@ Moses-Mwansa:
   job_title: CEO
   organization: VillageSavers Technology Ltd.
   # picture_dir: missing
-	
+
 Sofia-Silva:
   name: Sofia Silva
   bio: Bio still missing
@@ -86,7 +85,7 @@ Sofia-Silva:
   job_title: Head of Exploration
   organization: UNDP Cabo Verde Accelerator Lab
   picture_dir: "/imgs/contributors/sofia-silva.jpg"
-	
+
 Eduardo-Gustale:
   name: Eduardo Gustale
   email: eduardo.gustale@undp.org
@@ -104,7 +103,7 @@ Tayo-Akinyemi:
   picture_dir: '/imgs/contributors/tayo_akinyemi.jpg'
   linkedin: https://www.linkedin.com/in/tayoakinyemi/
   bio: I have spent most of my career creating order from ambiguity, whether it's charting my own vocational journey, supporting an African entrepreneurial leadership center launch, building the first pan-African network of tech hubs, or decoding early stage investing in Africa. In other words, I like to help great people build great things, ideally by marrying vision (dream+strategy) with implementation (getting stuff done). African tech entrepreneurship and innovation trends on all of my feeds, with a special emphasis on building enabling infrastructure (think hubs and accelerators) enhancing, the capacity of those enablers (especially early stage investors).
-	
+
 Alberto-Cottica:
   name: Alberto Cottica
   email: alberto.cottica@undp.org
@@ -113,4 +112,3 @@ Alberto-Cottica:
   bio: Originally a development/environmental economist, now more of a quantitative social scientist. Anthropology, ethnography, network science. Interested in epistemology. Committed citizen. Runner. Ex-minor rockstar.
   picture_dir: '/imgs/contributors/alberto_cottica.jpg'
   linkedin: https://www.linkedin.com/in/albertocottica/
-	
