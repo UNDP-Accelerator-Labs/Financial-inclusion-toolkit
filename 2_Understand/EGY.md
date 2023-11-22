@@ -1,6 +1,6 @@
 ---
 title: ...through qualitative research tools that unlock financial needs and behavior 
-parent: Helps people understand
+parent: Help people understand
 layout: default
 
 menu_parent: 2

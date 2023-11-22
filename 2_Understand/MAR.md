@@ -1,7 +1,6 @@
 ---
 title: ... through a video- and text message-based course on financial literacy for female entrepreneurs
-parent: Helps people understand
-
+parent: Help people understand
 layout: default
 
 menu_parent: 2
