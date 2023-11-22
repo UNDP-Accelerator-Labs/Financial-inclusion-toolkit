@@ -29,5 +29,5 @@ Known issues and troubleshooting. Lack of time-series data (such as locally disa
 
 **Resources**. 
 
-*	[Blog post](https://www.undp.org/ethiopia/blog/ethiopias-insurance-landscape-and-opportunities-risk-financing)
-*	[Pre-diagnostic report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/6_Derisk/Pre-diagnostic_risk_insurance_Ethiopia.pdf)
+*	[Blog post](https://www.undp.org/ethiopia/blog/ethiopias-insurance-landscape-and-opportunities-risk-financing). Use this resource for a narrative account of how this initiative came to pass in Ethiopia.
+*	[Pre-diagnostic report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/6_Derisk/Pre-diagnostic_risk_insurance_Ethiopia.pdf). Use this resource to get an idea of the sort of data that are needed to prepare a diagnostic report.

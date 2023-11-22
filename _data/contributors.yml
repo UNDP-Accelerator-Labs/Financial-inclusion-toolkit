@@ -50,7 +50,7 @@ Jacqueline-Poni-Aringu:
   name: Jacqueline Poni Aringu
   bio: Jacqueline is passionate about R&D, and comes with a rich blend of both public and private sector experience in her experimentation role. She has worked on and coordinated various R&D projects from both the government and private sectors. Jacqueline has worked in resource-limited settings, economically empowering vulnerable communities through women’s financial inclusion initiatives. Jacqueline is a strong team player and has effectively demonstrated leadership through innovative ideas. She is a very ambitious and result-oriented human, and these attributes have helped her show the utmost professional ethics.
   email: jacqueline.aringu@undp.org
-  # picture_dir: ''
+  picture_dir: "/imgs/contributors/jacqueline_aringu.jpg"	
   job_title: Head of Experimentation
   organization: UNDP South Sudan Accelerator Lab
 
@@ -58,7 +58,59 @@ Tong-Atak:
   name: Tong Atak
   bio: Eng. Tong Atak is the Head of Solutions Mapping and the Digital Advocate at UNDP South Sudan. He studied his bachelor’s degree in computer engineering at Queen Mary University of London. He is a practicing engineer and has over 5 years of experience working in telecoms with Nokia across Western Europe in Research & Development and development and technical account management. At UNDP one of the notable projects Eng. Tong has project led was a pilot scheme to digitalise the traditional Sanduk savings scheme and migrate the analog process onto the M-Gurush platform. The success of this joint pilot with M-Gurush led to the development of a digital Sanduk called mSanduk being launched nationwide on their platform and being made available as a value-added service to their 1.7 million customer base. In addition, Eng. Tong in his capacity as the UNDP Digital Advocate works to identify and realize opportunities for digital project design and delivery in UNDP to be able to support the developmental aspirations of our lead partner the Government of South Sudan.
   email: tong.atak@undp.org
-  # picture_dir: ''
+  picture_dir: "/imgs/contributors/tong_atak.jpg"	
   job_title: Head of Solutions Mapping
   organization: UNDP South Sudan Accelerator Lab
   
+Lilian-Abou-Zeki:
+	name: Lilian Abou Zeki
+	bio: bio requested
+	email: lilian.abouzeki@undp.org
+  job_title: Head of Solutions Mapping
+  organization: UNDP Lebanon Accelerator Lab
+	picture_dir: "/imgs/contributors/lilian_abou_zeki.jpg"	
+	
+Moses-Mwansa:
+	name: Moses Mwansa
+	bio: Moses Mwansa, holder of a Master of Science Degree in Project Management, is the proprietor of VillageSavers Technology Ltd, a fintech that promotes financial inclusion in low-income and informal business through the VillageSavers app. VillageSavers helps SMEs (Small and Medium sized Enterprises) adopt tech-based solutions in their businesses. Moses is a 2021 Mandela Washington Fellow from the University of Nebraska, Lincoln, a YALI Regional Leadership Program alumni from the University of South Africa (2019), and a participant in the US Department of State’s Tech-Camp program in Nigeria (2019), and Ghana 2016. VillageSavers has been used successfully by Cross Border Traders through the project Digitizing Trade and Financing for Women and Youth Cross Borders Traders, which is jointly financed by the Africa Borderlands Centre and UNDP Zambia.
+	email: # missing
+	job_title: CEO
+	organization: VillageSavers Technology Ltd.
+	# picture_dir: missing
+	
+Sofia-Silva:
+	name: Sofia Silva
+	bio: Bio still missing
+	email: sofia.silva@cv.jo.un.org
+	job_title: Head of Exploration
+	organization: UNDP Cabo Verde Accelerator Lab
+	picture_dir: "/imgs/contributors/sofia-silva.jpg"
+	
+Eduardo-Gustale:
+  name: Eduardo Gustale
+  email: eduardo.gustale@undp.org
+  job_title: Monitoring, Experimentation and Learning Specialist
+  organization: UNDP Accelerator Labs
+  picture_dir: '/imgs/contributors/eduardo_gustale.jpg'
+  bio: >-
+    Experienced in Sustainable Development and Social Innovation. Worked repeated times in academic research, survey development and market insight. Elected Global Shaper by the World Economic Forum & Chevening Scholar for an MSc in Innovation and Entrepreneurship at University of Warwick.
+  linkedin: https://www.linkedin.com/in/eduardo-gustale-gill-4548a927/
+
+Tayo-Akinyemi:
+  name: Tayo Akinyemi
+  email: tayo.akinyemi@undp.org
+  job_title: Learning and Community Manager
+  organization: UNDP Accelerator Labs
+  picture_dir: '/imgs/contributors/tayo_akinyemi.jpg'
+  linkedin: https://www.linkedin.com/in/tayoakinyemi/
+  bio: I have spent most of my career creating order from ambiguity, whether it's charting my own vocational journey, supporting an African entrepreneurial leadership center launch, building the first pan-African network of tech hubs, or decoding early stage investing in Africa. In other words, I like to help great people build great things, ideally by marrying vision (dream+strategy) with implementation (getting stuff done). African tech entrepreneurship and innovation trends on all of my feeds, with a special emphasis on building enabling infrastructure (think hubs and accelerators) enhancing, the capacity of those enablers (especially early stage investors).
+	
+Alberto-Cottica:
+  name: Alberto Cottica
+  email: alberto.cottica@undp.org
+  job_title: R&D Specialist
+  organization: UNDP Accelerator Labs
+  bio: Originally a development/environmental economist, now more of a quantitative social scientist. Anthropology, ethnography, network science. Interested in epistemology. Committed citizen. Runner. Ex-minor rockstar.
+  picture_dir: '/imgs/contributors/alberto_cottica.jpg'
+  linkedin: https://www.linkedin.com/in/albertocottica/
+	

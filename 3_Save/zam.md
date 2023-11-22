@@ -49,11 +49,11 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **Innovator (as an implementing partner):** The innovator implementing partner would refine the existing platform, deploy the app, carry out digital and financial skills training, and coordinate CBT (Cross Border Traders) participation, monitoring, and data sharing.
 
-**Focal point**.
-
-Moses Mwansa, holder of the Master of Science Degree in Project Management, is the proprietor of VillageSavers Technology Ltd, a fintech that promotes financial inclusion in low-income and informal business through the VillageSavers app. VillageSavers helps SMEs (Small and Medium sized Enterprises) adopt tech-based solutions in their businesses. Moses is a 2021 Mandela Washington Fellow from the University of Nebraska, Lincoln, a YALI Regional Leadership Program alumni from the University of South Africa (2019), and a participant in the US Department of State's Tech-Camp program in Nigeria (2019), and Ghana 2016. VillageSavers has been used successfully by Cross Border Traders through the project Digitizing Trade and Financing for Women and Youth Cross Borders Traders, which is jointly financed by the Africa Borderlands Centre and UNDP Zambia.
+**Focal point**. [Moses Mwansa](/Financial-inclusion-toolkit/contributors/Moses-Mwansa.html).
 
 **Country, year, and language**. Zambia, 2021-2023, English
+
+**Resources**.
 
 1. Concept Note submitted to ABC: **Digitizing Trade and Financing for Women and Youth Cross Borders Traders,** UNDP AccLab Zambia, and Zimbabwe.
 2. Innovation Helps Zambian Women and Youths Bounce Back in Cross-Border Trade, [UNDP Exposure Report](https://undpinzambia.exposure.co/innovation-helps-zambian-women-and-youths-bounce-back-in-crossborder-trade)

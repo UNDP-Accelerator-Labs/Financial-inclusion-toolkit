@@ -50,7 +50,7 @@ The experiment aimed to:
 | 2 | 1 programmer – Developed digital tool |
 
 
-**Focal point:** Sofia Silva ( Head of Exploration AccLab Cabo Verde), Email: [sofia.silva@cv.jo.un.org](mailto:sofia.silva@cv.jo.un.org))
+**Focal point:** [Sofia Silva](/Financial-inclusion-toolkit/contributors/Sofia-Silva.html)
 
 **Country, year, and language** : Cabo Verde, Period: 2020, Portuguese. 
 
