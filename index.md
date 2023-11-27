@@ -9,7 +9,7 @@ has_children: false
 
 The content of this site is property of the United Nations Development Programme, and published under a [Creative Commons 4.0 Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
-Huge thanks to everyone who contributed to creating this prototype. Contact information for all contributors is visible on the [Contributors page](/Financial-inclusion-toolkit/Contributors.html).
+Huge thanks to everyone who contributed to creating this prototype. Contact information for all contributors is visible on the [Contributors page](/Financial-inclusion-toolkit/Team.html).
 
 **Curation task force**: Lilian Abou  Zeki (Lebanon), (Tayo Akinyemi (Global Team), Jacqueline Aringu (South Sudan), Tong Atak (South Sudan), Alberto Cottica (Global Team), Eduardo Gustale (Global Team).
 
