@@ -35,15 +35,18 @@ To safeguard money from wildfires in rural settings, where most markets are temp
 community saw relief when they realized they could keep money on their phones and move freely without worrying about money theft/insecurity.
 
 # Why and when to use it.
+
 To overcome the challenges faced by the sanduks, more training and education on digital platforms and financial services are necessary. Additionally, addressing the lack of banking infrastructure and documentation issues will help Sanduks transact more efficiently.
 
 Increasing access to digital financial services will facilitate business growth and increase financial inclusion. The successful transformation of the sanduks in the experiment provides opportunities for scaling and replication in other borderland communities across Africa. There are a couple of requirements to have in place before taking up replicating the model, and these conditions are:
 
 The ubiquity of mobile money makes it a good tool.
+The enabling environment of innovation, specifically policy, legislation and practices. 
 Communities pooled savings groups in existence
 Where community savings have formal structuring
 Private sector entities to provide mobile money services
 There is a need to work with the private sector to ensure the continuity of the initiative in its sustainability aspect.
+Improved contextual information, specifically on the level of infrastructural support, physical and digital security, logistics, socio-political contexts,and how these enablers will facilitate the digital technology or otherwise,
 Known issues and troubleshooting: the requirements for this tool to be used so that the user knows when not to use it will include
 
 If there is a lack of
@@ -78,3 +81,11 @@ Some additional interventions for this project included basic financial literacy
 
 
 **Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
+
+#Country, year, and language. South Sudan, 2022-2023, English
+
+Resources.
+
+Concept Note submitted to ABC: Digitizing Trade and Financing for Women and Youth Cross Borders Traders, UNDP AccLab Zambia, and Zimbabwe.
+Innovation Helps Zambian Women and Youths Bounce Back in Cross-Border Trade, UNDP Exposure Report
+Endline Report - Patrick Mwendalubi Chuni, Salome Nakazwe, Nampaka Nkumbula and Roselyne Mwila (2022) Improving Livelihoods for Informal Cross Border Traders and Borderlands Trading Communities, UNDP AccLab Zambia.
