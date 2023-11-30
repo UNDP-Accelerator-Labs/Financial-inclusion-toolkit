@@ -84,8 +84,8 @@ Some additional interventions for this project included basic financial literacy
 
 #Country, year, and language. South Sudan, 2022-2023, English
 
-Resources.
+#Resources.
 
-Concept Note submitted to ABC: Digitizing Trade and Financing for Women and Youth Cross Borders Traders, UNDP AccLab Zambia, and Zimbabwe.
-Innovation Helps Zambian Women and Youths Bounce Back in Cross-Border Trade, UNDP Exposure Report
-Endline Report - Patrick Mwendalubi Chuni, Salome Nakazwe, Nampaka Nkumbula and Roselyne Mwila (2022) Improving Livelihoods for Informal Cross Border Traders and Borderlands Trading Communities, UNDP AccLab Zambia.
+Concept Note: Co-creation, Immersion, follow-ups, experiment close-out
+TOR: mGurush consulting service
+Survey form: Baseline, Needs assessment and endline survey
