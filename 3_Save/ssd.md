@@ -46,12 +46,12 @@ Communities pooled savings groups in existence
 Where community savings have formal structuring
 Private sector entities to provide mobile money services
 There is a need to work with the private sector to ensure the continuity of the initiative in its sustainability aspect.
-Improved contextual information, specifically on the level of infrastructural support, physical and digital security, logistics, socio-political contexts,and how these enablers will facilitate the digital technology or otherwise,
+Improved contextual information, specifically on the level of infrastructural support, physical and digital security, logistics, socio-political contexts,and how these enablers will facilitate digital technology or otherwise,
 Known issues and troubleshooting: the requirements for this tool to be used so that the user knows when not to use it will include
 
 If there is a lack of
 
-infrastructure: mobile network access; the tech infrastructure is necessary as a precursor for replication of this model mSanduk
+Infrastructure: phones, mobile network access; the tech infrastructure is necessary as a precursor for replication of this model mSanduk
 formal analog savings structure, and
 community willingness/buy in, It is not yet the best moment to make use of this tool.
 
@@ -63,13 +63,15 @@ The entire activity cost up to 100,000 USD for the duration of the activity,brok
 10k-capacity building trainings are offered.
 
 # People.
+
 The teams involved in this journey included:
-Community mobilizer/local partner (implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
+
+Community mobilizer/local partner-(implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
 Interpreter, depending on where you are.
-A technical counterpart in the private sector/salesperson to spell out the benefits of the platform Software developer who has soft skills and understands the community.
-Team of researchers to reveal insights (volunteers)
-Data analyst (volunteer)
-Technical Support
+A technical counterpart; Software developer who has soft skills and understands the community.
+Team of researchers; to reveal insights (volunteers)
+Data analyst; (volunteer)
+Technical Support 
 
 # Context:
 
@@ -82,9 +84,10 @@ Some additional interventions for this project included basic financial literacy
 
 **Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
 
-Country, year, and language. South Sudan, 2022-2023, English
+# Country, year, and language. 
+South Sudan, 2022-2023, English
 
-Resources.
+# Resources.
 
 Concept Note: Co-creation, Immersion, follow-ups, experiment close-out
 
