@@ -82,9 +82,9 @@ Some additional interventions for this project included basic financial literacy
 
 **Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
 
-#Country, year, and language. South Sudan, 2022-2023, English
+Country, year, and language. South Sudan, 2022-2023, English
 
-#Resources.
+Resources.
 
 Concept Note: Co-creation, Immersion, follow-ups, experiment close-out
 TOR: mGurush consulting service
