@@ -13,7 +13,7 @@ nav_order: 2
 
 Lack of formal banks and financial profiles exclude rural communities from accessing affordable capital to grow
 businesses. Leaving these communities with limited options and vulnerable to predatory loans with monthly
-interest as high as 50–60%. The model explores innovative ways of addressing these socio-economic challenges faced by cross-border and local community savings. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. 
+interest as high as 30–40%. The model explores innovative ways of addressing these socio-economic challenges faced by cross-border and local community savings. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. 
 
 
 # What it does 
