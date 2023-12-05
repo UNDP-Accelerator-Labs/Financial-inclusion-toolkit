@@ -1,5 +1,5 @@
 ---
-title: ...through qualitative research tools that unlock financial needs and behavior 
+title: ...through qualitative research tools that unlock financial needs and behavior in the context of rural resilience
 parent: Help people understand
 layout: default
 
@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-# Qualitative research tools for understanding financial needs and behavior
+# Qualitative research tools for understanding financial needs and behavior in the context of rural resilience
 
 **What it does.** These qualitative research tools use human-centered design and ethnography to structure interviews and focus groups to create personas to "put a face" to people who are typically viewed as beneficiaries, revealing deep explanatory insights into rural resilience and financial inclusion.
 
@@ -20,7 +20,7 @@ nav_order: 4
 - Financial behavior and attitude towards formal and non-formal financial institutions;
 - Common and distinct hardships encountered by the communities, their impact and the tools used for adaptation and mitigation.
 
-**Why and when to use it**. These research tools are most useful when you are either exploring the possibility of using financial tools within a community or trying to determine the best way to deploy specific tools. In either scenario, it is important to understand who you are designing for, what challenges they face, and what solutions and mechanisms they're currently using to solve those challenges. To use this tool, it is essential to have existing connections with community organizations that can help engage people within the community and provide a safe space for the discussion to take place.
+**Why and when to use it**. These research tools are most useful when you are either exploring the possibility of using financial tools within a community or trying to determine the best way to deploy specific tools. In either scenario, it is important to understand who you are designing for, what challenges they face, and what solutions and mechanisms they're currently using to solve those challenges. To use this tool, it is essential to: 1) have existing connections with community organizations that can help engage people within the community and provide a safe space for the discussion to take place; 2) conduct preliminary consultations with practitioners and academics that have worked in this space before to contextualize the research questions and tools. 
 
 **Known issues and troubleshooting**. Conducting ethnographic research only makes sense if it is possible to influence and adapt the proposed interventions based on the learnings from the study. If it is not possible to change the implementation plan, then there is no need to question people and create a false sense of participation, which contributes to research fatigue. Additionally, when you do not have connections within the community, it is important to spend time and build trust.
 
@@ -34,7 +34,7 @@ The accelerator lab had previously focused on agriculture and climate resilience
 
 **Cost**. The cost might vary from one region to the other, but below is a list of expenses to consider. (These expenses listed are based on Egypt's context in 2022)
 
-- A qualitative/human-centered design researcher ($9,300)
+- A qualitative/human-centered design researcher ($9,300, for a UNV volunteer)
 - Rent a room or community space to run the interviews and focus groups ($60)
 - Transportation & compensation for participants ($5/per person)
 - Transportation costs and accommodation for facilitating team ($150)
@@ -46,13 +46,13 @@ The accelerator lab had previously focused on agriculture and climate resilience
 
 **Focal point**.
 
- Alik Mikaelian, Head of solutions mapping, UNDP Egypt Accelerator Lab
+Alik Mikaelian, Head of solutions mapping, UNDP Egypt Accelerator Lab
 
 Alik is a strategic designer and researcher, with a background in product and graphic design. She holds an MFA in transdisciplinary design, and a bachelor's degree in product design.
 
 Marwa Makhoulf, Researcher, UNDP Egypt Accelerator Lab
 
-Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology.
+A development researcher, Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology.
 
 **Country, year, and language**. Egypt, 2022, English & Arabic
 
