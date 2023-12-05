@@ -16,7 +16,9 @@ Lorena-Moscovich:
 
 Lilian-Abou-Zeki:
   name: Lilian Abou Zeki
-  bio: Add bio here
+  bio: Lilian is the Head of Solutions Mapping at the UNDP Accelerator Labs in Lebanon. She leads on scoping user-led solutions/ grass root innovators/ positive deviants across different development areas in the country. She identifies underlying insights on behavior, trends, and systems that might make for solution learnings to experiment with inside UNDP and with partners. 
+
+Before UNDP she managed engagement and growth for Amnesty MENA and Africa. Moving human rights research online in an actionable engaging and converting framework to mobilize members around the world in ways that would exert pressure on decision-makers. Her earlier life was in startups as she led products at one of the MENA's fastest-growing food recipe platforms, with 380,000 MAU: ATBAKI. 
   email: lillian.abouzeki@undp.org
   picture_dir: '/imgs/contributors/lilian_abouzeki.jpg'
   organization: UNDP Lebanon Accelerator Labs
@@ -24,7 +26,7 @@ Lilian-Abou-Zeki:
 
 Melany-Poorun-Sooprayen:
   name: Melany Anoushka Poorun-Sooprayen
-  bio: Add bio here
+  bio: Melany is an experienced project manager with a demonstrated history of working in the renewables and environment industry. She is a strong program and project management professional with an MBA focused in Project Management from MANCOSA, and she’s skilled in corporate social responsibility, analytical skills, system monitoring, and management. 
   email: melany.poorun-sooprayen@undp.org
   picture_dir: '/imgs/contributors/melany-poorun-sooprayen.jpg'
   job_title: Head of Exploration
@@ -112,3 +114,12 @@ Alberto-Cottica:
   bio: Originally a development/environmental economist, now more of a quantitative social scientist. Anthropology, ethnography, network science. Interested in epistemology. Committed citizen. Runner. Ex-minor rockstar.
   picture_dir: '/imgs/contributors/alberto_cottica.jpg'
   linkedin: https://www.linkedin.com/in/albertocottica/
+
+Alik-Mikaelian:
+  name: Alik Mikaelian
+  email: alik.mikaelian@undp.org
+  job_title: Head of Solutions Mapping
+  organization: UNDP Accelerator Labs
+  bio: Alik is a strategic designer and researcher with a background in product and graphic design. She holds an MFA in transdisciplinary design, and a bachelor’s degree in product design.
+  picture_dir: '/imgs/contributors/alik_mikaelian.jpg'
+  linkedin: https://www.linkedin.com/in/alikmikaelian/
