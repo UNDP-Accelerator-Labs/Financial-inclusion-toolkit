@@ -19,6 +19,14 @@ interest as high as 30–40%. The model explores innovative ways of addressing t
 # What it does 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
+The series of steps taken to the realization of the experiment inlcude:
+
+1. **Co-creation:** The co-creation, baseline, and solutions mapping phase will bring the Sudan and South Sudan AccLabs together with local communities along the border to better understand the on-the-ground context and lived experiences of these communities. This co-creation and sensitization phase is critical to having a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation phase will result in community-informed updates and revisions to the concept, processes, and budget.
+2. **Validation survey** : This stage was critical in assessing community buy-in and validation of the digital sanduk model, work plan drafted, and budget. Also for identification of on-the-ground partners and supporters of the initiative and to benchmark understanding of the on-the-ground context and lived experience.
+3. **Immersion** : The objective of community immersion is to enhance the quality of innovation through active listening, observing, learning, and constructive interaction with key community stakeholders critical to the success of ABC innovation.  
+4. **Launching of the digigtal sanduk**: registration of members on digital mobile money and the actual testing of the sanduk digital platform. In this stage members on the experimental group had to transfer their shares digitally to their different Sanduk platforms.
+5. **Close-out**: With the first-month usage data and the endline survey data report, the Accelerator Lab travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. This was then concluded with a celebration from the community. The event brought together all stakeholders, partners, and supporters of the initiative in celebration and recognition of the collective effort put forth.
+
 # Value proposition for the government/other partner.
 This process will enable any entity that seeks to improve the operational efficiency and safety of analogue group savings group processes to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services.
 Additionally, a private sector partner can use this process as a form of R&D to develop a product from which they can offer financial services to serve the left-behind rural communities.
