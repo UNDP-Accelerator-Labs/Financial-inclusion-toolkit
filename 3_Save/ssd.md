@@ -16,7 +16,7 @@ businesses. Leaving these communities with limited options and vulnerable to pre
 interest as high as 30–40%. The model explores innovative ways of addressing these socio-economic challenges faced by cross-border and local community savings. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. 
 
 
-# What it does 
+**What it does** 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
 The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to the realization of the experiment inlcude:
@@ -27,7 +27,7 @@ The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/F
 4. **Launching of the digigtal sanduk**: registration of members on digital mobile money and the actual testing of the sanduk digital platform. In this stage members on the experimental group had to transfer their shares digitally to their different Sanduk platforms.
 5. **Close-out/Roll out**: With the first-month usage data and the endline survey data report, the Accelerator Lab travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. This was then concluded with a celebration from the community. The event brought together all stakeholders, partners, and supporters of the initiative in celebration and recognition of the collective effort put forth.
 
-# Value proposition for the government/other partner.
+**Value proposition for the government/other partner**.
 This process will enable any entity that seeks to improve the operational efficiency and safety of analogue group savings group processes to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services.
 Additionally, a private sector partner can use this process as a form of R&D to develop a product from which they can offer financial services to serve the left-behind rural communities.
 Partners such as civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
@@ -99,6 +99,6 @@ South Sudan, 2022-2023, English
 
 **Concept Note**: Co-creation[this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), Immersion, follow-ups [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), experiment close-out [Refer to this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf)
 
-**TOR**: mGurush consulting service [Here](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20M%26E%20mission%20-%20M-Gurush%20Analogue%20mapping%20of%20Sanduks%20(1).pdf), Video Documentation [Open this link]() 
+**TOR**: mGurush consulting service [Here](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20M%26E%20mission%20-%20M-Gurush%20Analogue%20mapping%20of%20Sanduks%20(1).pdf), Video Documentation [Open this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/TOR%20Video%20Documentation.pdf) 
 
 **Survey form**: Baseline [Check this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf), Needs assessment and endline survey
