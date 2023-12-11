@@ -46,12 +46,10 @@ The main transferrable tools used besides the course content shared in resources
 
 **People:** In Lebanon, this project involved the UNDP Accelerator Lab the UNDP Women Economic Empowerment project, and the gender unit,as well as external consultants. The following roles are needed: 
 
-| **Role** | **Required Skills** |
-| --- | --- |
-| Local success “role model” in topic of choice as content and tool as reward creator |
-| Email automation specialist |
-| Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
-| Gender specialist |
+* Local success “role model” in topic of choice as content and tool as reward creator
+* Email automation specialist
+* Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey
+* Gender specialist 
 
 
 **Focal point:** [Lilian Abou Zeki](/Financial-inclusion-toolkit/contributors/Lilian-Abou-Zeki.html).
