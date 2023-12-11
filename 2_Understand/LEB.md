@@ -9,51 +9,54 @@ nav_order: 4
 ---
 # Financial bookkeeping micro courses to boost women entrepreneurs' business confidence
 
-The UNDP Lebanon Accelerator Lab, conducted a year long behavioural research with 19 women entrepreneurs from Lebanon, the qualitative research singled out "financial book-keeping" as a an area of ill confidence, worry, and difficulty for all women. In partnership with the RBAS innovation unit the lab team took this insight and coupled it with in depth needs assessment and structured interviews to eventually design a book-keeping course that speaks to the common phenomenon of time-poverty that women suffer by delivering easy, short and localised content video content on book-keeping by email over a period of 7 days. The content included interactive knowledge testing, and a free reward for completers. 
+**What it does:** This is a lightweight digital intervention that can assist entrepreneurs, especially women, to understand the core tenets of financial bookkeeping, a corner stone for both business success, and the confidence needed to make financial decisions, risks, and pitches. The intervention is built around behavioral research that followed 19 women entrepreneurs in Lebanon for a year as they took part in an economic empowerment program for women. Observing the participants in this programme provided sufficient data to build the pilot of a micro email course on book-keeping.
+ business decisions.
 
-**What it does:** The experiment was to evaluate the effect of women's financial book-keeping efficacy building on the confidence of women entrepreneurs and inturn business performance. The different transferrable components would be; 
--	The call for participation component used to recruit a defined target profile online through online media funnels removing tens of middlemen contractors and substantial cost, while also identifying which behavioural driver or barrier was the most resonant among
--	The chunking of financial book-keeping knowledge into micro “just in time” learning resources modeled on a visible excel sheet and by a regional Arab speaking woman entrepreneur showed substantial engagement.
--	The incentive of a free pre-programmed excel sheet (the same one used in the corse content) as a reward for course completors was a converting value offer. This excel would be used to practice their learning directly on their businesses, we attribute this incentive framing to the 21% course completion rate. ( 5% more than that of a similar coursera course)
+**Value proposition:** By using the different components of the “Micro email course” you will enable any partner to 
 
-The experiment aimed to:
+1. Drastically improve the quality and relevance of recruits to women economic empowerment programs. The nature of digital online campaigns targeted at one demographic like “Women in Lebanon aged 18 to 45” allows for the call to action to be displayed to large numbers of women through online media, and the advantage is the ones that sign up and go through a 5-minute survey have at least filtered “appetite” in. 
+2. Ensure wide scale education of core financial literacy components in a localized manner which is the pre-requisite to financial decision making and investment acumen on the long run. 
+3. Attain quantitative and qualitative significant data on interest, adoption, and completion. The medium of “email” for delivery creates high levels of engagement if well designed, and it also allows detailed M&E view on the intervention from “what could get women interested in this topic (via which ads they click on)” to “How many registered women in this email course went on to open all 7 emails and qualify for the free excel sheet reward?” 
 
-1. **Design:** An email course spanning 7 days, including videos in the local language covering the basics of book-keeping, showcased on a visible excel tool, and modeled by a regional woman entrepreneur. This modality was tested to determine if it could efficiently enhance efficacy of book-keeping for the pilot group of women entrepreneurs participating in the experiment.
-2. **Monitor** : The perceived knowledge and understanding in the of the covered book-keeping practices, were tested throught out the email course with interactive questions at the end of each email. 
-3. **Experiment with** : Email medium as an interactive learning platform that works with women's expressed needs of convenience and their pain points around mobiluty required for participating in trainings. More specifically, the experiment aimed to evaluate the impact of redesigning financial litracy education from a localized women-centered perspective and how this can prompt self efficacy and in turn confidence in business decisions.
+This intervention uses digital learning journeys to deliver on two of UNDP’s signature solutions by tackling inequality of opportunities (Poverty & inequality ss) while also being deliberate about the profile of audience to grow and impact being women with digital access (Gender equality ss). It contributes to Sustainable Development Goals 5 (gender equality) and 9 (industry, innovation and infrastructure)
 
-**Value proposition:** By using the different components of the “Micro email course” you will enable any partner to drastically improve the quality and relevance of recruits to women economic empowerment programs and can also ensure wide scale education of core financial literacy components in a regional localized manner in order to increase the number of women in business but also increase the inclusion of women in financial decision making and investment on the long run. Using digital learning solutions to deliver on 2 of UNDP’s signature solutions by tackling inequality of opportunities (Poverty & inequality ss) while also being deliberate about the profile of audience to grow and impact being women with digital access (Gender equality ss). [ SDG 5 and 9 ]
 
-**Why and when to use it:** This tool is most useful when a program is aiming to recruit and identify a specific demographic entrepreneur profile while also understanding their localized pain points and learning gaps when it comes to financial literacy and its relationship to delaying in achieving their business goals and financial stability or growth. 
-This tool is also useful when different skills that have systematically been taught through a masculine or generic lens excluding women can become more resonant to women and speak more to their needs, constraints, and preferred channels of communication .
+**Why and when to use it:** This email course journey is most useful when a program is aiming to recruit and identify a specific demographic entrepreneur profile while also understanding their localized pain points and learning gaps when it comes to financial literacy, as well as its relationship to delaying the achievement of that group of people's business goals and financial stability or growth.
+
+It is also useful when setting up a large-scale women economic empowerment program. It helps you create a “value exchange” with people online, where they sign up only if they are interested, they engage with the emails that contain a 3-minute video, text transcription, and one daily quiz question, over a period of 7 days covering the building blocks of bookkeeping for small businesses (that have 50 or less transactions per day). 
+
+Finally, it is useful to recruit large numbers of people into a course journey, while also using the engagement journey of the course in order to achieve high fidelity tools to monitor and, later, evaluate the participants' appetite for, understanding of and completion of the course. 
+
 
 **Known issues and troubleshooting:** For this tool to work you will require: 
-1) Some contact list or a media outlet that can broadcast the recruitment call.
-2) Any email sending platform.
-3) A local or regional success that can be the “modeling agent” of the micro learning content.
 
-**Context:** In 2021, the Lebanon CO’s Accelerator Lab and Women’s Economic Empowerment project participated in a RBAS innovation initiative (with nine other Country Offices in the Arab States) on “Paving the Path to Successful Youth Entrepreneurship through Behavioural Insights”. Supported by the Behavioural Insights Team of consultants, the project was designed to learn about the interplay between structural and behavioral barriers to entrepreneurship and to test behavioral approaches to enhance UNDP’s entrepreneurship programming.
-The Lebanon CO, alongside the partner NGO Berytech, has been learning about the effectiveness of simple financial bookkeeping tools in enhancing the confidence of women entrepreneurs in their financial planning skills. The Regional Innovation team supported the project pilot technically and financially in order to scale the learnings from the behavioural research into a customisable micro-email course that could also be tested by other Country Offices.
-The work was showcased at:  UN Behavioural Science Week 2022 (6-10 June). 
+1. Some contact list or a media outlet that can broadcast the recruitment call.
+2. Any email sending platform.
+3. A local or regional success that can be the “modeling agent” of the micro learning content.
 
-**Cost:** The Accelerator Lab secured partnerships successfully. This initiative was funded by the Government of Canada as part of its Women economic empowerment efforts in Lebanon and by the RBAS innovation unit. The UNDP Accelerator Lab co-designed the content with the regional leading entrepreneur Eman Bushnaq (Account for around 8,000 USD for commissioned content and customised book-keeping tool IP). The team was also able to secure a small sum of 5,000 USD to recruit niche demographic through online media. What remains is a minimal sum that represents the subscription fee to an email automation platform such as constant contacts, or MailChimp, or other. 
+**Context:** In 2021, the UNDP Lebanon Accelerator Lab participated in a one year-long behavioral research with 19 Lebanese female entrepreneurs. The  research singled out financial bookkeeping as an area of ill confidence, worry, and difficulty for all women. Building on these insights, and in partnership with the Regional Bureau of Arab States' innovation unit, the Lab conducted structured interviews to assess more precisely the particiapants' needs. This work powered the design of a bookkeeping course that speaks to the common phenomenon of time-poverty that women suffer by delivering easy, short, and localized video content on bookkeeping by email over a period of 7 days. The content included interactive knowledge testing, and a free reward upon completion.
 
-**People:** Funded and co-designed by the UNDP Accelerator Lab Lebanon team, The UNDP Women Economic empowerment project, the gender unit, in collaboration with the external consultants in online media, and the entrepreneur commissioned to create content and tool. 
-For colleagues who seek to replicate the experiment, the following roles are needed:
+The main transferrable tools used besides the course content shared in resources below: 
 
-| **No.** | **Role** | **Required Skills** |
-| --- | --- | --- |
-| 1 | Local success “role model” in topic of choice as content and tool as reward creator |
-| 2 | Email automation specialist |
-| 3 | Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
-| 4 | Gender specialist |
+* The call for participation component used to recruit a defined target profile online through online media funnels removing tens of middlemen contractors and substantial cost, while also identifying which behavioral driver or barrier had the most impact for this particular demographics.
+* Chunking of financial bookkeeping knowledge into micro “just in time” learning resources modeled on a visible excel sheet and by a regional Arab-speaking woman entrepreneur resulted in improved engagement.
+* The offer of a free pre-programmed excel sheet (the same one used in the course content) as a reward for course completers acted as a powerful incentive to complete the course. This excel would be used to practice their learning directly on their businesses, we attribute this incentive framing to the 21% course completion rate (5% higher than that of a similar Coursera course).
+
+**Cost:** 8,000 USD to commission a regionally well-known entrepreneur to co-design the course, and to acquire from her the IP of a pre-programmed spreadsheet file that can function as a complete, if basic, mini-bookkeeping system for small businesses; 5,000 USD to recruit participants via targeted online advertising. A subscription to an email automation platform such as MailChimp or similar is also needed. 
+
+**People:** In Lebanon, this project involved the UNDP Accelerator Lab the UNDP Women Economic Empowerment project, and the gender unit,as well as external consultants. The following roles are needed: 
+
+| **Role** | **Required Skills** |
+| --- | --- |
+| Local success “role model” in topic of choice as content and tool as reward creator |
+| Email automation specialist |
+| Ads or PR specialist to launch the recruitment call in a manner that allows you to reach a specific target audience and allows participants to sign up to the course via survey |
+| Gender specialist |
 
 
-**Focal point:** Lilian Abou Zeki (Head of Solutions Mapping, UNDP Lebanon Accelerator Lab, Email: [lilian.abouzeki@undp.org](mailto:lilian.abouzeki@undp.org))
+**Focal point:** [Lilian Abou Zeki](/Financial-inclusion-toolkit/contributors/Lilian-Abou-Zeki.html).
 
 **Country, year, and language** : Lebanon, Period: 2022 to 2023, Arabic.
 
-**Resources:** The available resources:
-
-[https://institute.eib.org/wp-content/uploads/2016/10/women-conf-lit.pdf]
+**Resources:** The available resources: [To do]
 
