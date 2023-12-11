@@ -19,7 +19,7 @@ interest as high as 30–40%. The model explores innovative ways of addressing t
 # What it does 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
-The series of steps taken to the realization of the experiment inlcude:
+The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to the realization of the experiment inlcude:
 
 1. **Co-creation:** The co-creation, baseline, and solutions mapping phase will bring the Sudan and South Sudan AccLabs together with local communities along the border to better understand the on-the-ground context and lived experiences of these communities. This co-creation and sensitization phase is critical to having a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation phase will result in community-informed updates and revisions to the concept, processes, and budget.
 2. **Validation survey** : This stage was critical in assessing community buy-in and validation of the digital sanduk model, work plan drafted, and budget. Also for identification of on-the-ground partners and supporters of the initiative and to benchmark understanding of the on-the-ground context and lived experience.
@@ -97,7 +97,7 @@ South Sudan, 2022-2023, English
 
 # Resources.
 
-Concept Note: Co-creation, [this link](), Immersion, follow-ups [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), experiment close-out [Refer to](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf)
+Concept Note: Co-creation, [this link](), Immersion, follow-ups [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), experiment close-out [Refer to this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf)
 
 TOR: mGurush consulting service
 
