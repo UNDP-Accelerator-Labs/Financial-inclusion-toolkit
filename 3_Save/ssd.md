@@ -74,25 +74,25 @@ The entire activity cost up to 100,000 USD for the duration of the activity,brok
 
 The teams involved in this journey included:
 
-1. **Community mobilizer/local partner**-(implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
+1. Community mobilizer/local partner (implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
 2. **Interpreter**, depending on where you are.
-3. **A technical counterpart**; Software developer who has soft skills and understands the community.
+3. **A technical counterpart**; a software developer who has soft skills and understands the community.
 4. **Team of researchers**; to reveal insights (volunteers)
-5. **Data analyst**;- To make sense of data collected, instrumental in designing the survey tools used
-6.**Technical Support** - Activity/project lead
+5. Data analyst: To make sense of data collected, instrumental in designing the survey tools used
+6. Technical Support: Activity/project lead
 
 **Context**:
 
 The Analog to Digital Experiment was launched to explore innovative ways of addressing the socio-economic challenges faced by cross-border traders and the local community. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. The digital sanduk also provides a safer means for the safekeeping of the communally pooled funds.
 Gain a digital financial profile. Enables access to emergency funds that the community can use for social needs, such as paying school fees and medical bills
 The initial focus was to build on the women's financial inclusion toolkit, but then we also incorporated and tested the concept with cross-border traders through the ABC cross-border innovation challenge funds. At the South Sudan/Sudan border, the crossborder traders often had to send money to Khartoum through Cairo for the purchase of their goods from Sudan, which took them a lot of time to get their goods delivered. This same group also had their own sanduk saving group, which made it easier for them to be incorporated.
-Trying to figure out how to transfer money from Mbok (Sudan) through m-GURUSH (South Sudan) to avoid a long cycle of money flow; however, with the current Sudan situation, this is on hold
+I am trying to figure out how to transfer money from Mbok (Sudan) through m-GURUSH (South Sudan) to avoid a long cycle of money flow; however, with the current Sudan situation, this is on hold
 Some additional interventions for this project included basic financial literacy training, digital literacy training, and gender and legal services training to help the group learn the basics of business management and the rules and regulations of operating in the markets.
 
 
-**Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
+**Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html).
 
-**Country, year, and language**. 
+**Country, year, and language**.
 South Sudan, 2022-2023, English
 
 **Resources**.
@@ -101,4 +101,4 @@ South Sudan, 2022-2023, English
 
 **TOR**: mGurush consulting service [Here](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20M%26E%20mission%20-%20M-Gurush%20Analogue%20mapping%20of%20Sanduks%20(1).pdf), Video Documentation [Open this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/TOR%20Video%20Documentation.pdf) 
 
-**Survey form**: Baseline [Check this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf), Needs assessment and endline survey
+**Survey Form**: Baseline [Check this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf), Needs assessment and endline survey [Here](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept_%20Endline%20Survey%20of%20Sanduk.pdf)
