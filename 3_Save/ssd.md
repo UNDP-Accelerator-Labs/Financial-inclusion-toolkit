@@ -42,7 +42,7 @@ At border/remote areas, making payments is often a struggle, banks are inaccessi
 To safeguard money from wildfires in rural settings, where most markets are temporary structures which are de-risked by community funds being kept in sanduks,
 community saw relief when they realized they could keep money on their phones and move freely without worrying about money theft/insecurity.
 
-# Why and when to use it.
+**Why and when to use it**.
 
 To overcome the challenges faced by the sanduks, more training and education on digital platforms and financial services are necessary. Additionally, addressing the lack of banking infrastructure and documentation issues will help Sanduks transact more efficiently.
 
@@ -63,25 +63,25 @@ Infrastructure: phones, mobile network access; the tech infrastructure is necess
 formal analog savings structure, and
 community willingness/buy in, It is not yet the best moment to make use of this tool.
 
-# Cost. 
+**Cost**. 
 The entire activity cost up to 100,000 USD for the duration of the activity,broken down as below:
 12K: community immersion (flights to Abyei & Warawar, ground transportation, security, food); 
 16K-Technical support 
 60K: intervention heavy lifting (booster packages, M&E, follow-ups with groups)
 10k-capacity building trainings are offered.
 
-# People.
+**People**.
 
 The teams involved in this journey included:
 
-Community mobilizer/local partner-(implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
-Interpreter, depending on where you are.
-A technical counterpart; Software developer who has soft skills and understands the community.
-Team of researchers; to reveal insights (volunteers)
-Data analyst; (volunteer)
-Technical Support 
+1. **Community mobilizer/local partner**-(implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
+2. **Interpreter**, depending on where you are.
+3. **A technical counterpart**; Software developer who has soft skills and understands the community.
+4. **Team of researchers**; to reveal insights (volunteers)
+5. **Data analyst**;- To make sense of data collected, instrumental in designing the survey tools used
+6.**Technical Support** - Activity/project lead
 
-# Context:
+**Context**:
 
 The Analog to Digital Experiment was launched to explore innovative ways of addressing the socio-economic challenges faced by cross-border traders and the local community. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. The digital sanduk also provides a safer means for the safekeeping of the communally pooled funds.
 Gain a digital financial profile. Enables access to emergency funds that the community can use for social needs, such as paying school fees and medical bills
@@ -92,10 +92,10 @@ Some additional interventions for this project included basic financial literacy
 
 **Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html). 
 
-# Country, year, and language. 
+**Country, year, and language**. 
 South Sudan, 2022-2023, English
 
-# Resources.
+**Resources**.
 
 **Concept Note**: Co-creation[this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), Immersion, follow-ups [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf), experiment close-out [Refer to this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf)
 
