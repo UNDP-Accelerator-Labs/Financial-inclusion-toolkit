@@ -19,13 +19,12 @@ The experiment aimed to:
 
 1. **Design:** An online solution, including YouTube videos in the local language, specifically in Mauritian Creole. This solution was tested to determine if it could efficiently enhance financial literacy for the pilot group of women entrepreneurs participating in the experiment.
 2. **Monitor** : The perceived knowledge and understanding in the following key financial management practices, through a pre-test and post-test with the entrepreneurs, included:
-
-a. _Understanding the Business Life Cycle_
-b. _Understanding Basic Financial Statements_
-c. _Budgeting_
-d. _Working Capital Management_
-e. _Sources of Finance_
-f. _Costing a product and services_
+    1. Understanding the Business Life Cycle
+    2. Understanding Basic Financial Statements
+    3. Budgeting
+    4. Working Capital Management_
+    5. Sources of Finance_
+    6. Costing a product and services_
 
 1. **Experiment with** : Online peer-to-peer interactive platforms, specifically WhatsApp – a popular app used by most entrepreneurs on the islands within the Republic, for sharing of challenges and learnings, networking and also increasing the confidence of the participating entrepreneurs. More specifically, the experiment aimed to evaluate the impact of peer-to-peer communication on understanding of financial terms and motivation. WhatsApp allowed the participants to share their experiences, challenges, and feedback with each other in a convenient and familiar way.
 
@@ -43,12 +42,11 @@ f. _Costing a product and services_
 
 For colleagues who seek to replicate the experiment, the following roles are needed:
 
-| **No.** | **Role** | **Required Skills** |
-| --- | --- | --- |
-| 1 | Social Scientist/ Ethnographer/ Community Person | The social scientist should have the following skills: cultural awareness, observation, interviewing (fluent in local language), ethnographic writing and have the ability to collect data in an unbiased way. S/he should be proficient in various ethnographic methods such as participant observation, taking field notes, and thematic analysis, etc. S/he should be able to design the research questions, test hypotheses, use methods and instruments for conducting the experiment, as well as analyze the data and interpret the results in a scientific way. (Other important indirect skills include empathy, curiosity, strong ethics, etc.) |
-| 2 | Finance Experts and Instructor/ Trainer | A team of finance experts and an instructor are also necessary. Their skills should include financial literacy, accounting, budgeting, forecasting, investing for entrepreneurial activities (aligned with the experiment's content and entrepreneurs' requirements as determined by the survey). The instructor/ trainer should be able to teach a group of entrepreneurs with a basic level of understanding. Other skills for the instructor should include good communication, local language fluency, and having a pedagogical approach to instructing the target group. |
-| 3 | Videographer | The videographer should be proficient in editing, production, animation, graphics, sound design and storytelling, as well as editing software and platforms. Additionally, a videographer should exhibit local language fluency, creativity, attention to detail, the ability to incorporate feedback from the target group, and time management. (The instructional videos are very short to match the attention span of the target group.) |
-| 4 | Project Coordinator | A project coordinator is essential for the experiment to be successful as there are many activities to coordinate simultaneously. Skills include experience in project management and implementation, excellent communication and the ability to inspire collaboration among the team members and stakeholders. Finally, local language fluency, as well as monitoring and evaluation and risk management skills are also required. |
+* **Social Scientist/ Ethnographer/ Community Person**. The social scientist should have the following skills: cultural awareness, observation, interviewing (fluent in local language), ethnographic writing and have the ability to collect data in an unbiased way. S/he should be proficient in various ethnographic methods such as participant observation, taking field notes, and thematic analysis, etc. S/he should be able to design the research questions, test hypotheses, use methods and instruments for conducting the experiment, as well as analyze the data and interpret the results in a scientific way. (Other important indirect skills include empathy, curiosity, strong ethics, etc.)
+* **Finance Experts**. Their skills should include financial literacy, accounting, budgeting, forecasting, investing for entrepreneurial activities (aligned with the experiment's content and entrepreneurs' requirements as determined by the survey). 
+* **Instructor/Trainer**. A team of finance experts and an instructor are also necessaryThe instructor/ trainer should be able to teach a group of entrepreneurs with a basic level of understanding. Other skills for the instructor should include good communication, local language fluency, and having a pedagogical attitude. 
+* **Videographer**. The videographer should be proficient in editing, production, animation, graphics, sound design and storytelling, as well as editing software and platforms. Additionally, a videographer should exhibit local language fluency, creativity, attention to detail, the ability to incorporate feedback from the target group, and time management. (The instructional videos are very short to match the attention span of the target group.)
+* **Project Coordinator**. A project coordinator is essential for the experiment to be successful as there are many activities to coordinate simultaneously. Skills include experience in project management and implementation, excellent communication and the ability to inspire collaboration among the team members and stakeholders. Finally, local language fluency, as well as monitoring and evaluation and risk management skills are also required.
 
 **Focal point:** [Melany Poorun-Sooprayen](/Financial-inclusion-toolkit/contributors/Melany-Poorun-Sooprayen.html).
 
