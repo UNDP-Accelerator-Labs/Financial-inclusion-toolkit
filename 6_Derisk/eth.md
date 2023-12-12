@@ -1,6 +1,6 @@
 ---
 title: ... through diagnostics meant to prepare the roll-out of a programme on risk insurance 
-parent: Helps you de-risk livelihoods
+parent: Helps people de-risk livelihoods
 layout: default
 
 menu_parent: 6

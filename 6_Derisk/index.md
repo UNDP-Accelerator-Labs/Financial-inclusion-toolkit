@@ -1,4 +1,4 @@
 ---
-title: Help people de-risk
+title: Help people de-risk livelihoods
 menu: 6
 ---
