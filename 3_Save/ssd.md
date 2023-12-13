@@ -9,33 +9,23 @@ nav_order: 2
 
 
 
-**What it does** 
+**What it does**. 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
 The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to execute this experiment inlcuded:
 
-1. **Co-creation:** The co-creation, baseline, and solutions mapping phase brought the Sudan and South Sudan accelerator labs together with local border communities to better understand the their on-the-ground context and lived experiences. This phase was critical to establishing a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation process resulted in community-informed updates and revisions to the concept, processes, and budget.
+1. **Co-creation**. The co-creation, baseline, and solutions mapping phase brought the Sudan and South Sudan accelerator labs together with local border communities to better understand the their on-the-ground context and lived experiences. This phase was critical to establishing a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation process resulted in community-informed updates and revisions to the concept, processes, and budget.
 2. **Validation survey** : This stage was critical to assessing community buy-in and validation of the digital sanduk model, drafting a work plan and budget, identifying on-the-ground partners and supporters of the initiative, and benchmarking the labs' understanding of context and lived experience.
 3. **Community Immersion** : The objective of the community immersion was to enhance the quality of innovation through active listening, observing, learning, and constructive interaction with key community stakeholders that were critical to the success of the innovation.  
 4. **Launching of the digigtal sanduk**: During this stage, sanduk members completed their registrations for digital mobile money and tested the digital sanduk platform. Specifically, members of the experimental group transferred their shares digitally to a separate sanduk platform.
 5. **Close-out/Roll out**: The South Sudanese lab team travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. 
 
 **Value proposition for the government/other partner**.
-Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money with easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services.
-Additionally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities.
-Partners such as civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
+Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
 
+**Why and when to use it**. Increasing access to digital financial services will facilitate business growth and increase financial inclusion. Also, the successful transformation of the sanduks in this experiment creates an opportunity for scaling and replication in other borderland communities across Africa. 
 
-
-At border/remote areas, making payments is often a struggle, banks are inaccessible, and access to finance and financial services is nonexistent.
-To safeguard money from wildfires in rural settings, where most markets are temporary structures which are de-risked by community funds being kept in sanduks,
-community saw relief when they realized they could keep money on their phones and move freely without worrying about money theft/insecurity.
-
-**Why and when to use it**.
-
-To overcome the challenges faced by the sanduks, more training and education on digital platforms and financial services are necessary. Additionally, addressing the lack of banking infrastructure and documentation issues will help Sanduks transact more efficiently.
-
-Increasing access to digital financial services will facilitate business growth and increase financial inclusion. The successful transformation of the sanduks in the experiment provides opportunities for scaling and replication in other borderland communities across Africa. There are a couple of requirements to have in place before taking up replicating the model, and these conditions are:
+However, to replicate the model successful, several conditions need to be in place, such as:
 
 The ubiquity of mobile money makes it a good tool.
 The enabling environment of innovation, specifically policy, legislation and practices. 
@@ -44,6 +34,7 @@ Where community savings have formal structuring
 Private sector entities to provide mobile money services
 There is a need to work with the private sector to ensure the continuity of the initiative in its sustainability aspect.
 Improved contextual information, specifically on the level of infrastructural support, physical and digital security, logistics, socio-political contexts,and how these enablers will facilitate digital technology or otherwise,
+To overcome the challenges faced by the sanduks, however, digital and financial literacy training are necessary. In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
 Known issues and troubleshooting: the requirements for this tool to be used so that the user knows when not to use it will include
 
 If there is a lack of
