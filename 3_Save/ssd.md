@@ -23,18 +23,18 @@ The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/F
 **Value proposition for the government/other partner**.
 Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
 
-**Why and when to use it**. Increasing access to digital financial services will facilitate business growth and increase financial inclusion. Also, the successful transformation of the sanduks in this experiment creates an opportunity for scaling and replication in other borderland communities across Africa. 
+**Why and when to use it**. Increasing access to digital financial services will facilitate business growth and increase financial inclusion. Also, the successful transformation of the sanduks in this experiment creates an opportunity for scaling and replication in other African borderland communities. 
 
 However, to replicate the model successful, several conditions need to be in place, such as:
+ - Structured community savings groups;
+ - Ubiquitous mobile money services provided by private sector entities;
+ - Private sector partners that can ensure the continuity and sustainability of the services;
+ - An enabling environment for innovation, as defined by policy, legislation and best practices;
+ - Good quality contextual information, such as the level of infrastructural support, physical and digital security, logistics, socio-political contexts, and how these elements will facilitate or hamper the use of digital technology.
+ - Digital and financial literacy training;
+   
+In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
 
-The ubiquity of mobile money makes it a good tool.
-The enabling environment of innovation, specifically policy, legislation and practices. 
-Communities pooled savings groups in existence
-Where community savings have formal structuring
-Private sector entities to provide mobile money services
-There is a need to work with the private sector to ensure the continuity of the initiative in its sustainability aspect.
-Improved contextual information, specifically on the level of infrastructural support, physical and digital security, logistics, socio-political contexts,and how these enablers will facilitate digital technology or otherwise,
-To overcome the challenges faced by the sanduks, however, digital and financial literacy training are necessary. In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
 Known issues and troubleshooting: the requirements for this tool to be used so that the user knows when not to use it will include
 
 If there is a lack of
