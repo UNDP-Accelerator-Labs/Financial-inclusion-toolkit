@@ -35,23 +35,16 @@ However, to replicate the model successful, several conditions need to be in pla
    
 In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
 
-Known issues and troubleshooting: the requirements for this tool to be used so that the user knows when not to use it will include
-
-If there is a lack of
-
-Infrastructure: phones, mobile network access; the tech infrastructure is necessary as a precursor for replication of this model mSanduk
-formal analog savings structure, and
-community willingness/buy in, It is not yet the best moment to make use of this tool.
+**Known issues and troubleshooting**. Technical infrastructure such as phones and mobile network access and community savings groups who are willing to try digital solutions are required to replicate this model.
 
 **Cost**. 
-The entire activity cost up to 100,000 USD for the duration of the activity,broken down as below:
-12K: community immersion (flights to Abyei & Warawar, ground transportation, security, food); 
-16K-Technical support 
-60K: intervention heavy lifting (booster packages, M&E, follow-ups with groups)
-10k-capacity building trainings are offered.
+The entire activity cost approximately 100,000 USD, allocated as follows:
+ - 12,0000 for the community immersion (flights to Abyei & Warawar, ground transportation, security, and food); 
+ - 16,000 for echnical support;
+ - 60,000 for community engagement (commodity booster packages, M&E, and ongoing commmunication with savings groups);
+ - 10,000 for capacity building trainings.
 
 **People**.
-
 The teams involved in this journey included:
 
 1. Community mobilizer/local partner (implementing partner/CSO to do financial literacy and mobilization for the community) who knows the community to lead community immersion
