@@ -39,6 +39,6 @@ Information
 
 Guidelines (in Spanish).
 
-* [Guidelines for recruiters](/4_Pay/ARG1%20resources/con%20vos%20guidelines%20recruiters.pdf). Use this to explain to store owners what the implications of joining the network are. These can be used in most contexts after translation.
-* [Guidelines for store owners](/4_Pay/ARG1%20resources/con%20vos%20general%20guidelines%20stores%20II.pdf). Use this to explain to store owners who have already joined the network how to supply this service, create trust, etc. These can be used in most contexts after translation. 
-* [Example procedures](/main/4_Pay/ARG1%20resources/con%20vos%20step%20by%20step%20procedures%20II.pdf).This contains step-by-step procedures to execute digital payments and other digital bureaucratic procedures. These are written for the Argentinian digital landscape, and will need to be rebuilt for different contexts. 
+* [Guidelines for recruiters](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/4_Pay/ARG1-resources/guidelines-recruiters.pdf). Use this to explain to store owners what the implications of joining the network are. These can be used in most contexts after translation.
+* [Guidelines for store owners](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/4_Pay/ARG1%20resources/con%20vos%20general%20guidelines%20stores%20II.pdf). Use this to explain to store owners who have already joined the network how to supply this service, create trust, etc. These can be used in most contexts after translation. 
+* [Example procedures](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/4_Pay/ARG1%20resources/con%20vos%20step%20by%20step%20procedures%20II.pdf).This contains step-by-step procedures to execute digital payments and other digital bureaucratic procedures. These are written for the Argentinian digital landscape, and will need to be rebuilt for different contexts. 
