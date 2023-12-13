@@ -7,7 +7,7 @@ menu_parent: 3
 nav_order: 2
 ---
 
-
+# Digitizing commmunity savings groups
 
 **What it does**. 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
