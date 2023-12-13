@@ -12,13 +12,15 @@ nav_order: 2
 **What it does**. 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
-The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to execute this experiment inlcuded:
+The series of steps taken to execute this experiment included the following:
 
 1. **Co-creation**. The co-creation, baseline, and solutions mapping phase brought the Sudan and South Sudan accelerator labs together with local border communities to better understand the their on-the-ground context and lived experiences. This phase was critical to establishing a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation process resulted in community-informed updates and revisions to the concept, processes, and budget.
 2. **Validation survey**. This stage was critical to assessing community buy-in and validation of the digital sanduk model, drafting a work plan and budget, identifying on-the-ground partners and supporters of the initiative, and benchmarking the labs' understanding of context and lived experience.
 3. **Community Immersion**. The objective of the community immersion was to enhance the quality of innovation through active listening, observing, learning, and constructive interaction with key community stakeholders that were critical to the success of the innovation.  
 4. **Launching of the digigtal sanduk**. During this stage, sanduk members completed their registrations for digital mobile money and tested the digital sanduk platform. Specifically, members of the experimental group transferred their shares digitally to a separate sanduk platform.
 5. **Close-out/Roll out**. The South Sudanese lab team travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. 
+
+Follow [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to learn more.
 
 **Value proposition for the government/other partner**.
 Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
@@ -31,8 +33,8 @@ However, to replicate the model successful, several conditions need to be in pla
  - Private sector partners that can ensure the continuity and sustainability of the services;
  - An enabling environment for innovation, as defined by policy, legislation and best practices;
  - Good quality contextual information, such as the level of infrastructural support, physical and digital security, logistics, socio-political contexts, and how these elements will facilitate or hamper the use of digital technology;
- - Digital and financial literacy training.
-   
+ - Training in digital literacy, financial literacy, and how to use legal services, to help sanduk members learn the basics of business management and market rules and regulations.
+
 In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
 
 **Known issues and troubleshooting**. Technical infrastructure such as phones and mobile network access and community savings groups who are willing to try digital solutions are required to replicate this model.
@@ -58,10 +60,7 @@ The required roles for this experiment include:
 
 The Analog to Digital experiment was launched to explore innovative ways to address tehse challenges. The theory of change was that by digitalizing sanduks, group members in communities would keep their communally pooled funds safe, enable access to emergency funds for social needs, such as paying school fees and medical bills, and build digital financial profiles that would enable to solicit loans from financial service providers. The initial focus of the experiment was on women's financial inclusion, cross-border traders were later added. 
 
-Some additional interventions for this project included basic financial literacy training, digital literacy training, and gender and legal services training to help the group learn the basics of business management and the rules and regulations of operating in the markets. community saw relief when they realized they could keep money on their phones and move freely without worrying about money theft/insecurity.
-
-
-**Focal points**: [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html).
+**Focal points**. [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html).
 
 **Country, year, and language**.
 South Sudan, 2022-2023, English
