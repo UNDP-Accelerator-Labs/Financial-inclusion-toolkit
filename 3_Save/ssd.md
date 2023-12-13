@@ -9,35 +9,24 @@ nav_order: 2
 
 
 
-# The Analog to Digital Sanduk blueprint on Financial Inclusion; method to digitizing community savings processes
-
-Lack of formal banks and financial profiles exclude rural communities from accessing affordable capital to grow
-businesses. Leaving these communities with limited options and vulnerable to predatory loans with monthly
-interest as high as 30–40%. The model explores innovative ways of addressing these socio-economic challenges faced by cross-border and local community savings. And the theory of change is that through the digitalization of the Sanduk, the groups would gain a digital financial profile that would allow them to better solicit loans from financial service providers. 
-
-
 **What it does** 
 This process will help capture the user requirements of an analog community savings model to enable its digitalization.
 
-The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to the realization of the experiment inlcude:
+The series of steps taken [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to execute this experiment inlcuded:
 
-1. **Co-creation:** The co-creation, baseline, and solutions mapping phase will bring the Sudan and South Sudan AccLabs together with local communities along the border to better understand the on-the-ground context and lived experiences of these communities. This co-creation and sensitization phase is critical to having a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation phase will result in community-informed updates and revisions to the concept, processes, and budget.
-2. **Validation survey** : This stage was critical in assessing community buy-in and validation of the digital sanduk model, work plan drafted, and budget. Also for identification of on-the-ground partners and supporters of the initiative and to benchmark understanding of the on-the-ground context and lived experience.
-3. **Community Immersion** : The objective of community immersion is to enhance the quality of innovation through active listening, observing, learning, and constructive interaction with key community stakeholders critical to the success of ABC innovation.  
-4. **Launching of the digigtal sanduk**: registration of members on digital mobile money and the actual testing of the sanduk digital platform. In this stage members on the experimental group had to transfer their shares digitally to their different Sanduk platforms.
-5. **Close-out/Roll out**: With the first-month usage data and the endline survey data report, the Accelerator Lab travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. This was then concluded with a celebration from the community. The event brought together all stakeholders, partners, and supporters of the initiative in celebration and recognition of the collective effort put forth.
+1. **Co-creation:** The co-creation, baseline, and solutions mapping phase brought the Sudan and South Sudan accelerator labs together with local border communities to better understand the their on-the-ground context and lived experiences. This phase was critical to establishing a deep connection with the border communities and to ensuring community ownership of the innovation. This co-creation process resulted in community-informed updates and revisions to the concept, processes, and budget.
+2. **Validation survey** : This stage was critical to assessing community buy-in and validation of the digital sanduk model, drafting a work plan and budget, identifying on-the-ground partners and supporters of the initiative, and benchmarking the labs' understanding of context and lived experience.
+3. **Community Immersion** : The objective of the community immersion was to enhance the quality of innovation through active listening, observing, learning, and constructive interaction with key community stakeholders that were critical to the success of the innovation.  
+4. **Launching of the digigtal sanduk**: During this stage, sanduk members completed their registrations for digital mobile money and tested the digital sanduk platform. Specifically, members of the experimental group transferred their shares digitally to a separate sanduk platform.
+5. **Close-out/Roll out**: The South Sudanese lab team travelled to Warawar to debrief participants and stakeholders about the experiment outcomes, outlining the digital sanduk journey. 
 
 **Value proposition for the government/other partner**.
-This process will enable any entity that seeks to improve the operational efficiency and safety of analogue group savings group processes to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services.
-Additionally, a private sector partner can use this process as a form of R&D to develop a product from which they can offer financial services to serve the left-behind rural communities.
+Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money with easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services.
+Additionally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities.
 Partners such as civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
 
-mSanduk; is community savings model that adds value because:
 
-The model provides a blueprint for the digitization of traditional financial systems in Africa and beyond and highlights the potential of innovation and technology to enhance financial inclusion and promote economic development.
-By digitizing traditional financial services such as the sanduk, communities can gain access to the financial tools they need to improve their livelihoods and build a better future for themselves and their families.
-Community savings groups can track transactions and savings to build a financial profile for seeking bank loans.
-It makes cash available for community members to borrow during emergencies. The digital sanduk system allowed members to save and borrow money with ease, using their mobile
+
 At border/remote areas, making payments is often a struggle, banks are inaccessible, and access to finance and financial services is nonexistent.
 To safeguard money from wildfires in rural settings, where most markets are temporary structures which are de-risked by community funds being kept in sanduks,
 community saw relief when they realized they could keep money on their phones and move freely without worrying about money theft/insecurity.
