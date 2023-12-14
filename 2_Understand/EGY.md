@@ -46,9 +46,9 @@ The accelerator lab had previously focused on agriculture and climate resilience
 
 **Focal point**.
 
-Alik Mikaelian and Marwa Makhoulf.
+[Alik Mikaelian](/Financial-inclusion-toolkit/contributors/Alik-Mikaelian.html) and [Marwa Makhoulf](/Financial-inclusion-toolkit/contributors/Marwa-Makhoulf.html).
 
-**Country, year, and language**. Egypt, 2022, English & Arabic
+**Country, year, and language**. Egypt, 2022, English & Arabic.
 
 **Resources**.
 
