@@ -63,13 +63,11 @@ The Analog to Digital experiment was launched to explore innovative ways to addr
 **Focal points**. [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html).
 
 **Country, year, and language**.
-South Sudan, 2022-2023, English
+South Sudan, 2022-2023, English.
 
 **Resources**.
 
- -[Use this concept note to understand how the baseline survey was deployed](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/0a2ab4368bbc336c842e3026e6f9d45681ec6d79/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf) and [to learn how immersions and follow-ups were conducted](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/9c70b6f5fac189aae8c220bf804cc738751632d6/3_Save/The%20Experiment%20Journey.pdf) and [to follow how the experiment was concluded](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/d704e97b84ab06ca1bcbb887c36b7aea23c10a7f/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf).
-
-[TOR for the m-Gurush consulting service](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept%20M%26E%20mission%20-%20M-Gurush%20Analogue%20mapping%20of%20Sanduks%20(1).pdf). Use this resource as a reference for hiring a 
-Video Documentation [Open this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/TOR%20Video%20Documentation.pdf) 
-
-**Survey Form**: Baseline [Check this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf), Needs assessment and endline survey [Here](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept_%20Endline%20Survey%20of%20Sanduk.pdf)
+ - [Use this concept note to understand how the baseline survey was deployed](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/0a2ab4368bbc336c842e3026e6f9d45681ec6d79/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf) and [to learn how immersions and follow-ups were conducted](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/9c70b6f5fac189aae8c220bf804cc738751632d6/3_Save/The%20Experiment%20Journey.pdf) check this link and [to follow how the experiment was concluded](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/d704e97b84ab06ca1bcbb887c36b7aea23c10a7f/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf).
+ - TOR for the m-Gurush consulting service](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/TOR%20Video%20Documentation.pdf). Use this TOR as a reference document to hire a consultant to provide videography and photography services.
+ - [Baseline survey](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf). Use this resource as a template to develop a baseline survey for your context. 
+ - [Needs assessment and endline survey](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept_%20Endline%20Survey%20of%20Sanduk.pdf). Use this resource as a template to develop a needs assessment and endline survey for your context.
