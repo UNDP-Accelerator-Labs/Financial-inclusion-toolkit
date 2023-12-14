@@ -54,5 +54,5 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 
 **Resources**.
 
-[Blog](https://www.undp.org/mauritius-seychelles/blog/30-women-entrepreneurs-participate-financial-literacy-experiment). Read this blog to understand how the experiment was initiated.
+[Blog post](https://www.undp.org/mauritius-seychelles/blog/30-women-entrepreneurs-participate-financial-literacy-experiment). Read this blog to understand how the experiment was initiated.
 
