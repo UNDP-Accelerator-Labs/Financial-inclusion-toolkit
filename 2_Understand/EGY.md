@@ -58,7 +58,7 @@ A development researcher, Marwa holds an MSc in Development Studies from the Lon
 
 **Resources**.
 
-- [Final report](https://www.undp.org/egypt/publications/rural-resilience-egypt-exploring-finance-tool) Read this report to understand how the research tools were used in the Egyptian context.
+- [Final report](https://www.undp.org/egypt/publications/rural-resilience-egypt-exploring-finance-tool). Read this report to understand how the research tools were used in the Egyptian context.
 - Village profile tool - [Village Profile\_tool\_EN.docx](https://undp-my.sharepoint.com/:w:/g/personal/alik_mikaelian_undp_org/Ea27fu-aKttMqV7GxMmsjKkBV6isJYVFOBp99NTbXLNnbA?e=SA4V4v) Use this tool to understand the financial needs and behaviors of communities in your context.
 - In-depth Interview guide - [IDI Tool\_En\_Draft .docx](https://undp-my.sharepoint.com/:w:/g/personal/alik_mikaelian_undp_org/EdgAM1E-eKtEiXrLjGjXx6oBgzxOa2UQGeLvVFvX-vq0-A?e=OUgnEa) + [expense card](https://undp-my.sharepoint.com/:b:/g/personal/alik_mikaelian_undp_org/ERqTW-bMWT5Jh0cNAzP5wm0B0BzdI4tOU8KtJrkYzDKLsw?e=cfj4SR) Use this guide to collect qualitative insights on commmunities in your context through individual interviews.
 - Focus group guide - [FGD Tool\_Draft\_En.docx](https://undp-my.sharepoint.com/:w:/g/personal/alik_mikaelian_undp_org/EbQobsJS2ZJDrOhN-3ax_qgBVrD5v5tg9rNtoY491tsgYg?e=B9ata1) Use this guide to collect qualitative insights on commmunities in your context through group conversations.
