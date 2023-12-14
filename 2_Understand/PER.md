@@ -1,3 +1,4 @@
+<!---
 ---
 title: ...with a course to build trust in digital technology applied to the needs of market vendors
 parent: Helps you understand
@@ -6,7 +7,7 @@ layout: default
 menu_parent: 2
 nav_order: 3
 ---
-
+-->
 
 # A course to build trust in digital technology applied to the needs of market vendors
 
