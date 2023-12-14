@@ -46,13 +46,7 @@ The accelerator lab had previously focused on agriculture and climate resilience
 
 **Focal point**.
 
-Alik Mikaelian, Head of solutions mapping, UNDP Egypt Accelerator Lab
-
-Alik is a strategic designer and researcher, with a background in product and graphic design. She holds an MFA in transdisciplinary design, and a bachelor's degree in product design.
-
-Marwa Makhoulf, Researcher, UNDP Egypt Accelerator Lab
-
-A development researcher, Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology.
+Alik Mikaelian and Marwa Makhoulf.
 
 **Country, year, and language**. Egypt, 2022, English & Arabic
 
