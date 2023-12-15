@@ -16,5 +16,3 @@ exclude:
   - Gemfile.lock
   - package.json
   - package-lock.json
-  - packages
-  - bin
