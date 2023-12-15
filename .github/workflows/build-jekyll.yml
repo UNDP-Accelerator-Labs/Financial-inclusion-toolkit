@@ -14,9 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Gem Update
-        run: gem update --system
-        
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v3
         with:
@@ -24,6 +21,9 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+
+      - name: Gem Update
+        run: gem update --system
 
       # Use GitHub Deploy Action to build and deploy to Github
       # For latest version: `jeffreytse/jekyll-deploy-action@master`
