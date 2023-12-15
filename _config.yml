@@ -2,10 +2,10 @@ baseurl: "/Financial-inclusion-toolkit"
 plugins:
     - jekyll-seo-tag
 gems:
-  - jekyll-email-protect
+- jekyll-email-protect
+
 exclude:
   - README.md
-  - markdown_styling.md 
   - Tutorials/
   - vendor
   - CNAME
@@ -16,3 +16,5 @@ exclude:
   - Gemfile.lock
   - package.json
   - package-lock.json
+  - packages
+  - bin
