@@ -7,6 +7,7 @@ gems:
 exclude:
   - README.md
   - Tutorials/
+  - markdown_styling.md
   - vendor
   - CNAME
   - README.md
