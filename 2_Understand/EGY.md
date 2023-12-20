@@ -20,24 +20,22 @@ nav_order: 4
 - Financial behavior and attitude towards formal and non-formal financial institutions;
 - Common and distinct hardships encountered by the communities, their impact and the tools used for adaptation and mitigation.
 
-**Why and when to use it**. These research tools are most useful when you are either exploring the possibility of using financial tools within a community or trying to determine the best way to deploy specific tools. In either scenario, it is important to understand who you are designing for, what challenges they face, and what solutions and mechanisms they're currently using to solve those challenges. To use this tool, it is essential to: 1) have existing connections with community organizations that can help engage people within the community and provide a safe space for the discussion to take place; 2) conduct preliminary consultations with practitioners and academics that have worked in this space before to contextualize the research questions and tools. 
+**Why and when to use it**. These research tools are most useful when you are either exploring the possibility of rolling out financial support programmes in service of a community or trying to determine the best way to do so. In either scenario, it is important to understand who you are designing for, what challenges they face, and what solutions and mechanisms they're currently using to solve those challenges. To use this tool, it is essential to: 1) have existing connections with community organizations that can help engage people within the community and provide a safe space for the discussion to take place; 2) conduct preliminary consultations with practitioners and academics that have worked in this space before to contextualize the research questions and tools. In Egypt's case, the team leveraged the existing strong NGO network from the small grants program. Once connected to the NGO, the team conducted an introductory call explaining clearly the objectives of the activities. After they agreed to support, the team made a visit to the NGO location to discuss in more detail the research learning question, create the village profile, and address any concerns anticipated by the NGO.
 
 **Known issues and troubleshooting**. Conducting ethnographic research only makes sense if it is possible to influence and adapt the proposed interventions based on the learnings from the study. If it is not possible to change the implementation plan, then there is no need to question people and create a false sense of participation, which contributes to research fatigue. Additionally, when you do not have connections within the community, it is important to spend time and build trust.
 
-In Egypt's case, the team leveraged the existing strong NGO network from the small grants program. Once connected to the NGO, the team conducted an introductory call explaining clearly the objectives of the activities. After they agreed to support, the team made a visit to the NGO location to discuss in more detail the research learning question, create the village profile, and address any concerns anticipated by the NGO.
-
 **Context**. Using these tools was the first step to better inform different activities and programs within UNDP (and for outside partners) on financial inclusion, specifically how it relates to rural resilience.
 
-The tools emerged from the accelerator lab's desire to understand what was happening in rural settings in terms of financial services and inclusion, and how this connected to rural resilience. In Egypt, there is currently a heavy emphasis on rural development and financial inclusion. For example, there is a large government project focused on developing the poorest rural areas. However, there is little insight into how financial inclusion and rural resilience are related and through what channels financial tools can support the achievement of both goals.
+The tools emerged from the UNDP Egypt Accelerator Lab's desire to understand what was happening in rural settings in terms of financial services and inclusion, and how this connected to rural resilience. In Egypt there is currently a heavy emphasis on rural development and financial inclusion. For example, there is a large government project focused on developing the poorest rural areas. However, there is little insight into how financial inclusion and rural resilience are related and through what channels financial tools can support the achievement of both goals.
 
-The accelerator lab had previously focused on agriculture and climate resilience for agriculture. But through conversations with financial institutions, financial inclusion emerged as an area of interest, and the lab decided to gain a deeper understanding of community contexts before moving forward with experiments and solutions and experiments.
+The Lab had previously focused on agriculture and climate resilience for agriculture. But through conversations with financial institutions, financial inclusion emerged as an area of interest, and the lab decided to gain a deeper understanding of community contexts before moving forward with experiments and solutions and experiments.
 
-**Cost**. The cost might vary from one region to the other, but below is a list of expenses to consider. (These expenses listed are based on Egypt's context in 2022)
+**Cost**. The cost might vary from one region to the other. In the context of 2022 Egypt, it cost just under 10,000 USD.
 
-- A qualitative/human-centered design researcher ($9,300, for a UNV volunteer)
-- Rent a room or community space to run the interviews and focus groups ($60)
-- Transportation & compensation for participants ($5/per person)
-- Transportation costs and accommodation for facilitating team ($150)
+- A qualitative/human-centered design researcher (USD 9,300, for a UNV volunteer)
+- Rent a room or community space to run the interviews and focus groups (USD 60)
+- Transportation & compensation for participants (USD 5/per person)
+- Transportation costs and accommodation for facilitating team (USD 150)
 
 **People**. At least two people are required but depending on the number of people participating and the timeline required to produce results, there could be more people involved.
 
@@ -46,9 +44,9 @@ The accelerator lab had previously focused on agriculture and climate resilience
 
 **Focal point**.
 
-[Alik Mikaelian](/Financial-inclusion-toolkit/contributors/Alik-Mikaelian.html) and [Marwa Makhoulf](/Financial-inclusion-toolkit/contributors/Marwa-Makhoulf.html).
+[Alik Mikaelian](/Financial-inclusion-toolkit/contributors/Alik-Mikaelian.html) and [Marwa Makhlouf](/Financial-inclusion-toolkit/contributors/Marwa-Makhlouf.html).
 
-**Country, year, and language**. Egypt, 2022, English & Arabic.
+**Country, year, and language**. Egypt, 2022, English.
 
 **Resources**.
 
