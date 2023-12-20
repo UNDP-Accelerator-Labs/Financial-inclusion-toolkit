@@ -93,7 +93,7 @@ Sofia-Silva:
   email: sofia.silva@cv.jo.un.org
   job_title: Head of Exploration
   organization: UNDP Cabo Verde Accelerator Lab
-  picture_dir: "/imgs/contributors/sofia-silva.jpg"
+  picture_dir: "/imgs/contributors/sofia_silva.jpg"
 
 Eduardo-Gustale:
   name: Eduardo Gustale
@@ -129,18 +129,29 @@ Alik-Mikaelian:
   name: Alik Mikaelian
   email: alik.mikaelian@undp.org
   job_title: Head of Solutions Mapping
-  organization: UNDP Accelerator Labs
+  organization: UNDP Egypt Accelerator Lab
   bio: >
     Alik is a strategic designer and researcher with a background in product and graphic design. She holds an MFA in transdisciplinary design, and a bachelor’s degree in product design.
   picture_dir: '/imgs/contributors/Alik_Mikaelian.png'
   linkedin: https://www.linkedin.com/in/alikmikaelian/
 
-Marwa Makhoulf:
-  name: Marwa Makhoulf
+Marwa-Makhlouf:
+  name: Marwa Makhlouf
   email: m.makhlouf@aucegypt.edu
   job_title: Researcher
-  organization: UNDP Accelerator Labs
+  organization: The American University in Cairo
   bio: >
     A development researcher, Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology. 
-  picture_dir: '/imgs/contributors/Marwa_Makhoulf.jpeg'
+  picture_dir: '/imgs/contributors/Marwa_Makhlouf.jpeg'
   linkedin: 
+
+Salome-Nakawze:
+  name: Salome Nakawze
+  email: salome.nakazwe@undp.org
+  job_title: Head of Solutions Mapping
+  organization: UNDP Zambia Accelerator Lab
+  bio: >
+    A development researcher, Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology. 
+  picture_dir: '/imgs/contributors/Salome_Nakawze.jpg'
+  linkedin: https://www.linkedin.com/in/salome-nakazwe-75502b32
+	
