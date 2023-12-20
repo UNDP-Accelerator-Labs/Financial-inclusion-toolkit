@@ -23,11 +23,9 @@ The series of steps taken to execute this experiment included the following:
 Follow [this link](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/The%20Experiment%20Journey.pdf) to learn more.
 
 **Value proposition for the government/other partner**.
-Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills.
+Digitizing the sanduk makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to empower more women in informal business with basic business and digital literacy skills. All this means increased access to financial services, and therefore (directly) a boost to financial inclusion and (indirectly) a boost to business growth.   
 
-**Why and when to use it**. Increasing access to digital financial services will facilitate business growth and increase financial inclusion. Also, the successful transformation of the sanduks in this experiment creates an opportunity for scaling and replication in other African borderland communities. 
-
-However, to replicate the model successful, several conditions need to be in place, such as:
+**Why and when to use it**. To replicate the model successful, several conditions need to be in place, such as:
  - Structured community savings groups;
  - Ubiquitous mobile money services provided by private sector entities;
  - Private sector partners that can ensure the continuity and sustainability of the services;
@@ -35,7 +33,7 @@ However, to replicate the model successful, several conditions need to be in pla
  - Good quality contextual information, such as the level of infrastructural support, physical and digital security, logistics, socio-political contexts, and how these elements will facilitate or hamper the use of digital technology;
  - Training in digital literacy, financial literacy, and how to use legal services, to help sanduk members learn the basics of business management and market rules and regulations.
 
-In the long term, addressing the lack of banking infrastructure will also help sanduks transact more efficiently.
+In the long term, addressing the lack of banking infrastructure will also help community savings schemes transact more efficiently.
 
 **Known issues and troubleshooting**. Technical infrastructure such as phones and mobile network access and community savings groups who are willing to try digital solutions are required to replicate this model.
 
@@ -58,7 +56,7 @@ The required roles for this experiment include:
 
 **Context**. In remote areas along borders, making payments is often a struggle, banks are inaccessible, and access to finance and financial services is nonexistent. Many communities in rural settings use sanduks, or community savings groups, to pool money and safeguard it from wildfires. Similarly, at the border of South Sudan and Sudan, crossborder traders often sent money to Khartoum through Cairo for the purchase of their goods from Sudan. This extended the amount of time it took to get their goods delivered. This same group also had their own sanduk saving group, which made it easier for them to be incorporated.
 
-The Analog to Digital experiment was launched to explore innovative ways to address tehse challenges. The theory of change was that by digitalizing sanduks, group members in communities would keep their communally pooled funds safe, enable access to emergency funds for social needs, such as paying school fees and medical bills, and build digital financial profiles that would enable to solicit loans from financial service providers. The initial focus of the experiment was on women's financial inclusion, cross-border traders were later added. 
+An "analog-to-digital savings" experiment was launched to explore innovative ways to address these challenges. The theory of change was that by digitalizing sanduks, group members in communities would keep their communally pooled funds safe, enable access to emergency funds for social needs, such as paying school fees and medical bills, and build digital financial profiles that would enable to solicit loans from financial service providers. The initial focus of the experiment was on women's financial inclusion, cross-border traders were later added. 
 
 **Focal points**. [Jacqueline Aringu](/Financial-inclusion-toolkit/contributors/Jacqueline-Poni-Aringu.html) and [Tong Atak](/Financial-inclusion-toolkit/contributors/Tong-Atak.html).
 
