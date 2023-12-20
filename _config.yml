@@ -2,11 +2,12 @@ baseurl: "/Financial-inclusion-toolkit"
 plugins:
     - jekyll-seo-tag
 gems:
-  - jekyll-email-protect
+- jekyll-email-protect
+
 exclude:
   - README.md
-  - markdown_styling.md 
   - Tutorials/
+  - markdown_styling.md
   - vendor
   - CNAME
   - README.md
