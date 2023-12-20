@@ -9,8 +9,6 @@ nav_order: 1
 ---
 # Using digital data collection tools to support the matching of informal traders with support package. 
 
-The UNDP Cabo Verde Accelerator Labs team created a digital data collection tool and a corresponding database to match the needs of informal market traders with available support packages. This move was intended to support the public entity in charge of business promotion and support to MSMEs.  
-
 **What it does:** The web tool developed by the UNDP Cabo Verde Accelerator Lab supports the monitoring of microloans. Web-based and multi-platform, it pulls data from several sources: the Social Security Institute, the revenue authority, and commercial banks in the case of bank loans. An additional module integrates data from (typically telephone-based) follow-ups in the field. This data allows a quick analysis of each MSME's position, and lists ones with non-compliance issues for faster action.- 
 objective of monitoring microcredits, allowing the agents in charge of non-compliant loans to pro-actively propose solution to the MSMEs affected. As a part of the solution, the lab provided a physical customer service desk at the main street market in Cabo Verde, Sucumira.
 
