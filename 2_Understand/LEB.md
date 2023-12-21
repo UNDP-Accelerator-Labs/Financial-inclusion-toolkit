@@ -9,7 +9,7 @@ nav_order: 4
 ---
 # Financial bookkeeping micro courses to boost women entrepreneurs' business confidence
 
-**What it does:** This is a lightweight digital intervention that can assist entrepreneurs, especially women, to understand the core tenets of financial bookkeeping, a corner stone for both business success, and the confidence needed to make financial decisions, risks, and pitches. The intervention is built around behavioral research that followed 19 women entrepreneurs in Lebanon for a year as they took part in an economic empowerment program for women. Observing the participants in this programme provided sufficient data to build the pilot of a micro email course on book-keeping.
+**What it does:** This is a simple digital intervention that can assist entrepreneurs, especially women, to understand the core tenets of financial bookkeeping, a corner stone for both business success, and the confidence needed to make financial decisions, risks, and pitches. The intervention is built around behavioral research that followed 19 women entrepreneurs in Lebanon for a year as they took part in an economic empowerment program for women. Observing the participants in this programme provided sufficient data to build the pilot of a micro email course on book-keeping.
  business decisions.
 
 **Value proposition:** By using the different components of the “Micro email course” you will enable any partner to 
@@ -21,9 +21,7 @@ nav_order: 4
 This intervention uses digital learning journeys to deliver on two of UNDP’s signature solutions by tackling inequality of opportunities (Poverty & inequality ss) while also being deliberate about the profile of audience to grow and impact being women with digital access (Gender equality ss). It contributes to Sustainable Development Goals 5 (gender equality) and 9 (industry, innovation and infrastructure)
 
 
-**Why and when to use it:** This email course journey is most useful when a program is aiming to recruit and identify a specific demographic entrepreneur profile while also understanding their localized pain points and learning gaps when it comes to financial literacy, as well as its relationship to delaying the achievement of that group of people's business goals and financial stability or growth.
-
-It is also useful when setting up a large-scale women economic empowerment program. It helps you create a “value exchange” with people online, where they sign up only if they are interested, they engage with the emails that contain a 3-minute video, text transcription, and one daily quiz question, over a period of 7 days covering the building blocks of bookkeeping for small businesses (that have 50 or less transactions per day). 
+**Why and when to use it:** This email course journey is most useful when a program is aiming to recruit and identify a specific demographic entrepreneur profile while also understanding their localized pain points and learning gaps when it comes to financial literacy, as well as its relationship to delaying the achievement of that group of people's business goals and financial stability or growth. The resources below are directly re-usable for a target group of Arabic-speaking female entrepreneurs in Lebanon. However, the tactics, journey, and financial literacy building blocks are transferable to other settings as well, as long as they have the same need for bookkeeping literacy and access to email.
 
 Finally, it is useful to recruit large numbers of people into a course journey, while also using the engagement journey of the course in order to achieve high fidelity tools to monitor and, later, evaluate the participants' appetite for, understanding of and completion of the course. 
 
@@ -56,5 +54,5 @@ The main transferrable tools used besides the course content shared in resources
 
 **Country, year, and language** : Lebanon, Period: 2022 to 2023, Arabic.
 
-**Resources:** The available resources: [To do]
+**Resources:** [Course step-by-step](/Financial-inclusion-toolkit/2_Understand/LEB_resources/email_course_bookkeeping.pdf). Consists of an instruction sheet in English, with links to all emails and video lessons, as well as to an inception survey and promotion videos. All materials are in Arabic.
 
