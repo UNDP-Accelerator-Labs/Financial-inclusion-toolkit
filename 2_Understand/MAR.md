@@ -54,5 +54,11 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 
 **Resources**.
 
-[Blog post](https://www.undp.org/mauritius-seychelles/blog/30-women-entrepreneurs-participate-financial-literacy-experiment). Read this blog to understand how the experiment was initiated.
+* [Blog post](https://www.undp.org/mauritius-seychelles/blog/30-women-entrepreneurs-participate-financial-literacy-experiment) in English. Read this blog to understand how the experiment was initiated.
 
+* Videos in Mauritan Creole with subtitles in English. The entire series has 13 videos. 
+
+    1. [Understanding Business Cycle](https://youtu.be/RAInfW_Uf4w?feature=shared)
+    2. [Working Capital Management](https://youtu.be/PDx58S7Ad1M)
+    3. [Budgeting and Investment Appraisal (part 2)](https://youtu.be/oYY-0DCgWYw?feature=shared) 
+    4. [Statutory Compliance (part 1)](https://youtu.be/6-PwDadLiI0)
