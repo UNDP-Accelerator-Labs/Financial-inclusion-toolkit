@@ -1,5 +1,5 @@
 ---
-title: ... the opportunities for digital financial inclusion through a digital finance ecosystem assessment in your couuntry 
+title: ... the opportunities for digital financial inclusion through a digital finance ecosystem assessment in your country 
 parent: Help people understand
 layout: default
 
