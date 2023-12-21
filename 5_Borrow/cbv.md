@@ -27,8 +27,8 @@ objective of monitoring microcredits, allowing the agents in charge of non-compl
 
 **People:** For colleagues who seek to replicate the experiment, the following roles are needed:
 
-* 1 consultant – support training for agents in the field |
-* 1 programmer – Developed digital tool |
+* 1 consultant – support training for agents in the field
+* 1 programmer – Developed digital tool
 
 
 **Focal point:** [Sofia Silva](/Financial-inclusion-toolkit/contributors/Sofia-Silva.html)
