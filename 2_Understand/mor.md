@@ -5,6 +5,9 @@ layout: default
 
 menu_parent: 2
 nav_order: 1
+
+tags: [first steps, research, women]
+sdg: [Gender equality, Decent work and economic growth, Reduced inequalities]
 ---
 
 **What it does**. The SDG Digital Finance Ecosystem Assessment (SDFE) provides an in-depth understanding of the drivers that make a country digital finance ready, which in turn supports the design of policy interventions and investments needed to fast-forward its digital journey. The assessment helps link digital finance policies with SDG financing as well as the government and regulators’ climate resilience commitments. It also investigates the digital economy and digital finance ecosystem to understand the current level of (digital) financial inclusion for underserved segments of the population, with a specific focus on women, to identify key drivers and opportunity areas within the digital economy that can advance inclusion. 
