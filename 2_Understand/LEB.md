@@ -6,9 +6,6 @@ layout: default
 menu_parent: 2
 nav_order: 4
 
-tags: [financial literacy, women, entrepreneus, bookkeeping]
-sdg: [Gender equality, Decent work and economic growth, Reduced inequalities]
-
 ---
 # Financial bookkeeping micro courses to boost women entrepreneurs' business confidence
 
