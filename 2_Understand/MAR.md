@@ -18,17 +18,10 @@ nav_order: 2
 The experiment aimed to:
 
 1. **Design**. An online solution, including YouTube videos in the local language, specifically in Mauritian Creole. This solution was tested to determine if it could efficiently enhance financial literacy for the pilot group of women entrepreneurs participating in the experiment.
-2. **Monitor**. The perceived knowledge and understanding in the following key financial management practices, through a pre-test and post-test with the entrepreneurs, included:
-    1. Understanding the Business Life Cycle
-    2. Understanding Basic Financial Statements
-    3. Budgeting
-    4. Working Capital Management_
-    5. Sources of Finance_
-    6. Costing a product and services_
+2. **Monitor**. The perceived knowledge and understanding key financial management practices, through a pre-test and post-test with the entrepreneurs, including: the business life cycle, financial statements, budgeting, working capital management, sources of finance, costing a product and services.
+1. **Experiment with** online peer-to-peer interactive platforms, specifically WhatsApp – a popular app used by most entrepreneurs on the islands within the Republic, for sharing of challenges and learnings, networking and also increasing the confidence of the participating entrepreneurs. More specifically, the experiment aimed to evaluate the impact of peer-to-peer communication on understanding of financial terms and motivation. WhatsApp allowed the participants to share their experiences, challenges, and feedback with each other in a convenient and familiar way.
 
-1. **Experiment with**. Online peer-to-peer interactive platforms, specifically WhatsApp – a popular app used by most entrepreneurs on the islands within the Republic, for sharing of challenges and learnings, networking and also increasing the confidence of the participating entrepreneurs. More specifically, the experiment aimed to evaluate the impact of peer-to-peer communication on understanding of financial terms and motivation. WhatsApp allowed the participants to share their experiences, challenges, and feedback with each other in a convenient and familiar way.
-
-**Value proposition**. This simple, yet innovative approach aims to create an online financial literacy platform for women entrepreneurs. It seeks to support women-led micro and small enterprises in improving their financial resilience, operational capacity, and develop resilient business models. By using this approach, micro and small sized entrepreneurs can learn at their own pace and convenience, without affecting their daily activities. This initiative aligns with the UNDP's Signature Solutions focused on addressing Poverty and Inequality as well as Gender Equality and can help achieve the key targeted SDGs 1, 5, 8 and 10.
+**Value proposition**. Creates a simple online financial literacy platform for women entrepreneurs. It seeks to support women-led micro and small enterprises in improving their financial resilience, operational capacity, and develop resilient business models. By using this approach, micro and small sized entrepreneurs can learn at their own pace and convenience, without affecting their daily activities. This initiative aligns with the UNDP's Signature Solutions focused on addressing Poverty and Inequality as well as Gender Equality and can help achieve the key targeted SDGs 1, 5, 8 and 10.
 
 **Why and when to use it**. The tool is most useful when the participants use the tool (videos) for learning when they are free from other entrepreneurial obligations, are motivated to exchange across the online platform and learn from challenges experienced, and also are able to apply learnings to their everyday activities.
 
