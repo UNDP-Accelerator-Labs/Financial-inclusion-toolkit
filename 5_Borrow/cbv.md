@@ -35,5 +35,5 @@ objective of monitoring microcredits, allowing the agents in charge of non-compl
 
 **Country, year, and language** : Cabo Verde, Period: 2020, Portuguese. 
 
-**Resources:** [TORs for a consultant to develop the digital solution](/Financial-inclusion-toolkit/2_Understand/CBV-resources/TOR-microcredit-digital-solution.pdf) (in Portuguese). Use this resource to frame the problem and set tasks when hiring consultants to support you in a similar initiative.
+**Resources:** [TORs for a consultant to develop the digital solution](/Financial-inclusion-toolkit/5_Borrow/CBV-resources/TOR-microcredit-digital-solution.pdf) (in Portuguese). Use this resource to frame the problem and set tasks when hiring consultants to support you in a similar initiative.
 
