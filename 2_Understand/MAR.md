@@ -56,18 +56,18 @@ For colleagues who seek to replicate the experiment, the following roles are nee
 
 * [Blog post](https://www.undp.org/mauritius-seychelles/blog/30-women-entrepreneurs-participate-financial-literacy-experiment) in English. Read this blog to understand how the experiment was initiated.
 
-* Videos in Mauritan Creole with subtitles in English. The entire series has 13 videos. 
+* Videos in Mauritan Creole with subtitles in English.  
 
-    1. [Understanding the Business Cycle 1](https://youtu.be/RAInfW_Uf4w?feature=shared)
-		2. [Understanding the Business Cycle 2](https://www.youtube.com/watch?v=thtQneVcC30)
-		2. [Understanding the Financial Statement](https://youtu.be/-tg3IXKqDn8)
-    2. [Working Capital Management](https://youtu.be/PDx58S7Ad1M)
-		2.[Budgeting and Investment Appraisal 1](https://youtu.be/KWon2vfDZl4) 
-    3. [Budgeting and Investment Appraisal 2](https://youtu.be/oYY-0DCgWYw?feature=shared) 
-		3. [Financial Statement Analysis](https://youtu.be/nlwTr4fPUkI)
-		4. [Sources of Finance 1](https://www.youtube.com/watch?v=rn8bKR5_1yA)
-		4. [Sources of Finance 2](https://www.youtube.com/watch?v=M8ixv2PPph0)
-    4. [Statutory Compliance 1](https://youtu.be/6-PwDadLiI0)
-		5. [Statutory Compliance 2](https://youtu.be/sqYOS9zCGDk)
-		6. [Costing and Cost Classification 1](https://youtu.be/3QblnBGNL6w)
-		7. [Costing and Cost Classification 2](https://youtu.be/gGS8e8feVww)
+	1. [Understanding the Business Cycle 1](https://youtu.be/RAInfW_Uf4w?feature=shared)
+	2. [Understanding the Business Cycle 2](https://www.youtube.com/watch?v=thtQneVcC30)
+	2. [Understanding the Financial Statement](https://youtu.be/-tg3IXKqDn8)
+	2. [Working Capital Management](https://youtu.be/PDx58S7Ad1M)
+	2.[Budgeting and Investment Appraisal 1](https://youtu.be/KWon2vfDZl4) 
+	3. [Budgeting and Investment Appraisal 2](https://youtu.be/oYY-0DCgWYw?feature=shared) 
+	3. [Financial Statement Analysis](https://youtu.be/nlwTr4fPUkI)
+	4. [Sources of Finance 1](https://www.youtube.com/watch?v=rn8bKR5_1yA)
+	4. [Sources of Finance 2](https://www.youtube.com/watch?v=M8ixv2PPph0)
+  4. [Statutory Compliance 1](https://youtu.be/6-PwDadLiI0)
+	5. [Statutory Compliance 2](https://youtu.be/sqYOS9zCGDk)
+	6. [Costing and Cost Classification 1](https://youtu.be/3QblnBGNL6w)
+	7. [Costing and Cost Classification 2](https://youtu.be/gGS8e8feVww)
