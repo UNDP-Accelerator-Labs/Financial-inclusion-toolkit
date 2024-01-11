@@ -49,7 +49,7 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **Innovator (as an implementing partner)**. The innovator implementing partner would refine the existing platform, deploy the app, carry out digital and financial skills training, and coordinate CBT (Cross Border Traders) participation, monitoring, and data sharing.
 
-**Focal point**. [Moses Mwansa](/Financial-inclusion-toolkit/contributors/Moses-Mwansa.html) and [Salome Nakazwe](/Financial-inclusion-toolkit/contributors/Salome-Nakazwe.html).
+**Focal points**. [Moses Mwansa](/Financial-inclusion-toolkit/contributors/Moses-Mwansa.html) and [Salome Nakazwe](/Financial-inclusion-toolkit/contributors/Salome-Nakazwe.html).
 
 **Country, year, and language**. Zambia, 2021-2023, English.
 
