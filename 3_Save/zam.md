@@ -55,5 +55,8 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **Resources**.
 
+ - [Baseline Survey Report] (). Read this report to understand how to understand the impact of COVID-19 on cross-border traders in Zambia and Zimbabwe. 
  - [UNDP Exposure Report](https://undpinzambia.exposure.co/innovation-helps-zambian-women-and-youths-bounce-back-in-crossborder-trade). Read this report for a narrative account of the VillageSavers app initiative, context, and impact.
  - [Endline Report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/ea85eca40cddb8e2df554119a6194e60ad04d3c7/3_Save/03_05_22_ENDLINE%20REPPORT_CHUNI%20PATRICK.pdf). Read this report to gain insight into the impact of the VillageSavers app.
+ - [Stakeholder Co-creation Workshop Agenda] () Use this agenda to inform stakeholder engagement and co-creation efforts.
+ - [Terms of Reference] (). Use this TOR as a template for hiring a consultant to conduct baseline and endline surveys and focus group discussions with cross-border traders, to gather evidence on the impact of the VillageSavers app (or similar intervention) on the livelihood of the cross-border traders.
