@@ -43,11 +43,19 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **People**.
 
-**Project Manager**. The project manager would need to develop concept note, design the experiment, collect baseline data, build partnerships, and provide direct oversight and management of the implementation of the proof of concept.
+**Project Manager**. The project manager will develop the concept note, design the experiment, collect baseline data, build partnerships, and provide direct oversight and management of the implementation of the proof of concept.
 
-**External Consultant**. A research consultant would implement surveys, run focus group discussions, and compile the report.
+**Innovation Lead**. The innovation will coordinate all project activities, training, and app management.
+
+**External Consultant**. A research consultant will implement surveys, run focus group discussions, and compile the report.
+
+**Software Developer**. The software developer will lead the development of the digital platform to ensure its continously operation, and to attend to queries and issues coming from the CBTs. 
 
 **Innovator (as an implementing partner)**. The innovator implementing partner would refine the existing platform, deploy the app, carry out digital and financial skills training, and coordinate CBT (Cross Border Traders) participation, monitoring, and data sharing.
+
+**Project Analyst**. The project analyst will be responsible for data collection, analysis, and reporting.
+
+**Social Development Officer**. The social development officer will be responsible for community engagement, including hosting meetings and monitoring social change.
 
 **Focal points**. [Moses Mwansa](/Financial-inclusion-toolkit/contributors/Moses-Mwansa.html) and [Salome Nakazwe](/Financial-inclusion-toolkit/contributors/Salome-Nakazwe.html).
 
