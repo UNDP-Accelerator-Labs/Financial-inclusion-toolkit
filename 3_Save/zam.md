@@ -64,6 +64,7 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
 
 **Resources**.
 
+ - [Implementation Summary for VillageSavers App](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/331fe76f5a24abc879b6a89bae1195102c5ef263/3_Save/VillageSavers%20app%20Implementation%20Summary.pdf). Read this document to understand what steps were taken to deliver the app to Cross Border Traders in Zambia and Zimbabwe/
  - [Baseline Survey Report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/12e13b1ad807925f800bedcd78dafe1123b662f0/3_Save/ABC_Baseline%20Report_Final.pdf). Read this report to understand how to understand the impact of COVID-19 on cross-border traders in Zambia and Zimbabwe. 
  - [UNDP Exposure Report](https://undpinzambia.exposure.co/innovation-helps-zambian-women-and-youths-bounce-back-in-crossborder-trade). Read this report for a narrative account of the VillageSavers app initiative, context, and impact.
  - [Endline Report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/ea85eca40cddb8e2df554119a6194e60ad04d3c7/3_Save/03_05_22_ENDLINE%20REPPORT_CHUNI%20PATRICK.pdf). Read this report to gain insight into the impact of the VillageSavers app.
