@@ -12,9 +12,10 @@ nav_order: 3
 **What it does**.
  The VillageSavers app digitizes trade and financing for cross border traders who are women and young people, in their shared border towns of Livingstone (Zambia) and Victoria Falls (Zimbabwe). More specifically, the app:
 
-- Allows informal Self-help Savings Groups (SHGs) to digitize their financial transactions records (savings and loans) through an automated digital system.
+- Allows informal Self-help Savings Groups (SHGs) to digitize their financial transactions records (savings and loans) through an automated digital system. 
 - Solves problems of poor record keeping, human error, lack of transparency, and distrust as each member has access to the information in real time.
-- Increases informal businesses' access to formal financial services as private banks have reported that the app's credit history can be used to guarantee one's qualification to access financial support.
+- Increases informal businesses' access to formal financial services as private banks have reported that the app's credit history can be used to guarantee one's qualification to access financial support. Specifically, VillageSavers app creates credit scores that can be used to access financing from formal financial services providers such as banks.
+- Increases access to financial and digital literacy information by providing training on financial literacy, including financial and savings management, as well as training on how to use digital financial management tools. 
 
 **Value proposition for the government/other partner**.
  By using the VillageSavers app, self-help savings groups have a comprehensive solution to the challenges faced in informal savings groups. It not only improves financial management and transparency but also opens new opportunities for digital financial inclusion and access to formal financial services.
@@ -68,3 +69,5 @@ In order for the VillageSavers app to be effective, it's important to have SMEs 
  - [Endline Report](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/ea85eca40cddb8e2df554119a6194e60ad04d3c7/3_Save/03_05_22_ENDLINE%20REPPORT_CHUNI%20PATRICK.pdf). Read this report to gain insight into the impact of the VillageSavers app.
  - [Stakeholder Co-creation Workshop Agenda](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/12e13b1ad807925f800bedcd78dafe1123b662f0/3_Save/ABC%20Stakeholder%20co-creation%20workshop.04.04.21.pdf). Use this agenda to inform stakeholder engagement and co-creation efforts.
  - [Terms of Reference](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/12e13b1ad807925f800bedcd78dafe1123b662f0/3_Save/TERMS%20OF%20REFERENCE_%20ABC%20Survey%20Coordinator_Baseline%20and%20Endline.pdf). Use this TOR as a template for hiring a consultant to conduct baseline and endline surveys and focus group discussions with cross-border traders, to gather evidence on the impact of the VillageSavers app (or similar intervention) on the livelihood of the cross-border traders.
+ - [Video tutorial on how to manage a village savings group through the VillageSavers app](https://www.youtube.com/watch?v=mhiGYj3W-ro). Watch this video to understand how an accounnt is created on the VillageSavers app.
+
