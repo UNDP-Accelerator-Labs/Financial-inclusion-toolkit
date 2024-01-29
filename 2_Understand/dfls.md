@@ -6,25 +6,50 @@ menu_parent: 3
 nav_order: 1
 ---
 
-**What it does**. 
+**What it does**. The DFL survey assesses the status of financial and digital literacy in a country to design and implement evidence-backed interventions. (Find the full report for Fiji including the survey and an explanation of the rational and results [here](https://www.uncdf.org/article/8317/assessing-digital-and-financial-literacy-in-fiji-a-survey-on-knowledge-skills-and-access). The tool measures Digital Financial Literacy in general as well as assigns scores in four broad thematic areas:
 
-**Value proposition**. Using this assessment, UNDP can help a government to identify gaps and opportunities within their domestic digital finance ecosystems, revealing the level of inclusion of vulnerable segments in digital finance and the broader digital economy, and measuring the extent to which the digital finance ecosystem is aligned with national SDG priorities. 
+*Digitalisation: Access to devices, digital activities, internet access and usage, awareness and participation in safe digital/online practices;
+*Financial Competencies: Engagement with financial safeguards (budgeting, savings), financial knowledge (basic understanding of inflation, etc.);
+*Digital Financial Competencies: Beliefs, attitudes and behaviours concerning financial services and DFS; 
+*DFS Outcomes: Usage of mobile and online financial services and the impact of DFS on financial wellbeing. 
 
-**Why and when to use it**. This tool is appropriate for a government that wants to use data to understand where the gaps and opportunities for financial inclusion lie and use it to inform their national development strategy and policies. Established relationships with national partners and private sector partners are critical to conducting the SDFE successfully. Pre-existing relationships with NGOs that have ties to people and communities are often overlooked, are also essential to collecting in-depth data from diverse sources. 
+It also allows for the disaggregation and comparison of the survey data from different groups of interest, such as women, youth, agriculturalists, etc. The research explores experiences with traditional and digital financial services to date and assesses basic competencies in digitization and finance.
 
-**Known issues and troubleshooting**. Collecting good qualitative and quantitative data from diverse sources is time and labor intensive. It requires managing many levels of stakeholders to secure high response rates for surveys and participants for interviews and consultations. Additionally, because there is quantitative data collected at the global level, e.g. GSMA, there is added value to gathering granular and nuanced qualitative data (global data also serves as a benchmark). Given the above, it’s important to work with a flexible timeline. 
+**Value proposition**.  Improved financial and digital literacy can strengthen consumer protection and resilience to major financial shocks. To improve and implement targeted interventions in such areas, governments/decision-makers need updated data to guide and priorities their efforts. 
 
-**Context**. In 2018, the Moroccan government prioritized improving financial inclusion and envisioned a transition to a cashless and digital local economy. As a result, the National Financial Inclusion Strategy was developed. However, despite Morocco’s status as a lower-middle-income country with a sizeable underbanked population, digital finance is underexploited as a catalyst for inclusive growth. For example, digital payments have the potential to expand access to finance for the unbanked and underbanked, but digital payment adoption is still in its very early stages.    
+**Why and when to use it**. The growing availability of digital financial services (DFS) and emerging digital platforms in least-developed countries can provide unique capital-building tools and resources for accelerating financial inclusion and inclusive growth for the last mile. To realize this potential, strengthening the digital and financial literacy (DFL) of all population segments, especially the marginalized and low-income groups, is essential. 
 
-**Cost**. Approximately USD 40,000 for a consultant, and a high-level event to share policy recommendations and best practices from other countries. 
+The survey findings can be used to develop and implement targeted interventions for improving digital financial competencies among women, MSMEs, youth, migrant workers, and rural communities. 
 
-**People**. A *UNDP Country Office* (or a similarly equipped unit) can participate in the assessment design process, provide input and engage in troubleshooting during the research implementation process. A *researcher* can help coordinate stakeholders, conduct interviews and co-author the report. 
+The survey results are intended to serve as a baseline from which future changes in competencies, access, and usage can be measured by the regulators and development partners.
 
-**Focal point**. [Najoua Soudi](/Financial-inclusion-toolkit/contributors/Najoua-Soudi.html) 
+**Known issues and troubleshooting**. To make the best usage of the tool, the following requirements should be in place: 
 
-**Country, year, and language**. Morocco, 2023, English and/or French  
+*1)	Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
+*2)	Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.)
+
+However, note that the RFP and RFA are developed and available for sharing to give an idea of the type of language to be used and LoE to be suggested.
+*3) Finally, it is imperative to ensure that implementation teams have substantial local presence, knowledge and experience, as well as existing enumerators (whether on staff or as part of a team that can be called) so as to execute the survey efficiently and with a team that understands the context and needs minimal training. 
+
+**Context**. Since a decade ago, access to and usage of digital technologies and financial services have significantly been transformed in Africa and the Pacific. However, limited data/ evidence has been generated to understand the status of digital and financial literacy in those regions. COVID-19 also largely influenced the financial behavior of last-mile segments in the last three years, particularly for low-income groups and MSMEs.
+
+To address the gap in data, UNCDF launched the ‘Digital and Financial Literacy Survey (DFLS) 2022’ in July 2022 in the Pacific region; the same surveys are being rolled out in Niger, Gabon, Malawi and Ethiopia in 2024.
+
+The surveys on digital and financial skills are part of UNCDF’s effort to develop inclusive digital economies that allow rural communities, women and MSMEs to enhance their market participation, resulting in poverty reduction, improved livelihoods and economic growth. 
+
+**Cost**. There are two levels of cost/budget to be considered:
+*1) Survey and reports between US $50,000 and US $75,000 depending on the country and the capacity to use computer-aided methodologies.
+*2) Dissemination to ensure policymakers and private stakeholders can use of the data and make informed decisions (dissemination efforts through events and workshops) US $5,000 and $10,000 depending on the country and the level of effort.
+
+**People**. Two project managers to work with the research firm that conducts the surveys and drafts the report. One staff to coordinate all surveys (ensuring consistency across all surveys and reports) and one in each country.
+UNCDF partnered with Tebbutt Research to conduct Digital and Financial Literacy Survey in Fiji and six other Pacific Island countries (Papua New Guinea, Solomon Islands, Samoa, Vanuatu, Tonga, and Timor-Leste)
+
+**Focal point**. [Jessica Massie](/Financial-inclusion-toolkit/contributors/Jessica-Massie.html) and [Karima Wardak](/Financial-inclusion-toolkit/contributors/Karima-Wardak.html)
+
+**Country, year, and language**. Surveys have been carried out in 2022 in 7 Pacific countries: Fiji, Papua New Guinea, Samoa, Vanuatu, Tonga, Timor-Leste and Solomon Islands. Reports are accessible online in English. A French version of the metrology and questionnaire will be available in 2023 when the survey is carried out in Niger and Gabon.
 
 **Resources**  
 
-* [Report on assessment findings](https://www.undp.org/fr/morocco/publications/rapport-devaluation-de-lecosysteme-de-la-finance-digitale-au-maroc-sdfe) (French). Use this resource to see how the digital finance ecosystem assessment can deliver insights on financial inclusion. 
-* [UNDP/UNCDF joint offer on digital financing of the SDGs](https://www.uncdf.org/joint-undp-uncdf-df-of-the-sdgs) (English)
+* [TOR for the research firm] For the most recent TOR (2023), see the Request for Proposals publication [here:] (https://www.ungm.org/Public/Notice/215515). The deadline hass passed but the link is still active; scroll to the “TOR” section.  
+* [Survey questionnaire (see reports)] Visit the Fiji Report and Appendix A for a [full description of the survey, protocol, methodology and findings](https://www.uncdf.org/joint-undp-uncdf-df-of-the-sdgs) for Fiji.
+* Platform (in development).
