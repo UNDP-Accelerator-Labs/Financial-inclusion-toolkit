@@ -3,15 +3,15 @@ title: ... how to improve financial inclusion by assessesing the status of finan
 layout: default
 
 menu_parent: 2
-nav_order: 3
+nav_order: 2
 ---
 
 **What it does**. The DFL survey assesses the status of financial and digital literacy in a country to design and implement evidence-backed interventions. (Find the full report for Fiji including the survey and an explanation of the rational and results [here](https://www.uncdf.org/article/8317/assessing-digital-and-financial-literacy-in-fiji-a-survey-on-knowledge-skills-and-access). The tool measures Digital Financial Literacy in general as well as assigns scores in four broad thematic areas:
 
-*Digitalisation: Access to devices, digital activities, internet access and usage, awareness and participation in safe digital/online practices;
-*Financial Competencies: Engagement with financial safeguards (budgeting, savings), financial knowledge (basic understanding of inflation, etc.);
-*Digital Financial Competencies: Beliefs, attitudes and behaviours concerning financial services and DFS; 
-*DFS Outcomes: Usage of mobile and online financial services and the impact of DFS on financial wellbeing. 
+-Digitalisation: Access to devices, digital activities, internet access and usage, awareness and participation in safe digital/online practices;
+-Financial Competencies: Engagement with financial safeguards (budgeting, savings), financial knowledge (basic understanding of inflation, etc.);
+-Digital Financial Competencies: Beliefs, attitudes and behaviours concerning financial services and DFS; 
+-DFS Outcomes: Usage of mobile and online financial services and the impact of DFS on financial wellbeing. 
 
 It also allows for the disaggregation and comparison of the survey data from different groups of interest, such as women, youth, agriculturalists, etc. The research explores experiences with traditional and digital financial services to date and assesses basic competencies in digitization and finance.
 
@@ -26,9 +26,7 @@ The survey results are intended to serve as a baseline from which future changes
 **Known issues and troubleshooting**. To make the best usage of the tool, the following requirements should be in place: 
 
 1. Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
-2. Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.)
-
-However, note that the RFP and RFA are developed and available for sharing to give an idea of the type of language to be used and LoE to be suggested.
+2. Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.) However, note that the RFP and RFA are developed and available for sharing to give an idea of the type of language to be used and LoE to be suggested.
 3. Finally, it is imperative to ensure that implementation teams have substantial local presence, knowledge and experience, as well as existing enumerators (whether on staff or as part of a team that can be called) so as to execute the survey efficiently and with a team that understands the context and needs minimal training. 
 
 **Context**. Since a decade ago, access to and usage of digital technologies and financial services have significantly been transformed in Africa and the Pacific. However, limited data/ evidence has been generated to understand the status of digital and financial literacy in those regions. COVID-19 also largely influenced the financial behavior of last-mile segments in the last three years, particularly for low-income groups and MSMEs.
