@@ -4,7 +4,7 @@ parent: Help people understand
 layout: default
 
 menu_parent: 2
-nav_order: 2
+nav_order: 3
 
 ---
 # A video and text message based course on financial literacy for female entrepreneurs
