@@ -25,7 +25,7 @@ The survey results are intended to serve as a baseline from which future changes
 
 **Known issues and troubleshooting**. To make the best usage of the tool, the following requirements should be in place: 
 
-*1)	Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
+1. **Design**.	Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
 *2)	Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.)
 
 However, note that the RFP and RFA are developed and available for sharing to give an idea of the type of language to be used and LoE to be suggested.
