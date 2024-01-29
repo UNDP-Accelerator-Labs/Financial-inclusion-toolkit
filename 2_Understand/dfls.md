@@ -25,11 +25,11 @@ The survey results are intended to serve as a baseline from which future changes
 
 **Known issues and troubleshooting**. To make the best usage of the tool, the following requirements should be in place: 
 
-1. **Design**.	Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
-*2)	Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.)
+1. Ahead of the implementation of the survey, include a phase to dialogue with institutional partners (such as government, ministries of finance and ministries of education, etc.) to ensure buy-in and build appetite for the survey findings.
+2. Ensure that in the request for proposals or request for applications, it is clear that the survey is developed and does not need a line item for applicants to develop or greatly alter the survey. It should be clear that the methodology has been tested and refined and needs contextualization. (However, as a caveat, we can share the survey tool with others who may wish to use it and tweak it for their own projects and goals.)
 
 However, note that the RFP and RFA are developed and available for sharing to give an idea of the type of language to be used and LoE to be suggested.
-*3) Finally, it is imperative to ensure that implementation teams have substantial local presence, knowledge and experience, as well as existing enumerators (whether on staff or as part of a team that can be called) so as to execute the survey efficiently and with a team that understands the context and needs minimal training. 
+3. Finally, it is imperative to ensure that implementation teams have substantial local presence, knowledge and experience, as well as existing enumerators (whether on staff or as part of a team that can be called) so as to execute the survey efficiently and with a team that understands the context and needs minimal training. 
 
 **Context**. Since a decade ago, access to and usage of digital technologies and financial services have significantly been transformed in Africa and the Pacific. However, limited data/ evidence has been generated to understand the status of digital and financial literacy in those regions. COVID-19 also largely influenced the financial behavior of last-mile segments in the last three years, particularly for low-income groups and MSMEs.
 
@@ -38,8 +38,8 @@ To address the gap in data, UNCDF launched the ‘Digital and Financial Literacy
 The surveys on digital and financial skills are part of UNCDF’s effort to develop inclusive digital economies that allow rural communities, women and MSMEs to enhance their market participation, resulting in poverty reduction, improved livelihoods and economic growth. 
 
 **Cost**. There are two levels of cost/budget to be considered:
-*1) Survey and reports between US $50,000 and US $75,000 depending on the country and the capacity to use computer-aided methodologies.
-*2) Dissemination to ensure policymakers and private stakeholders can use of the data and make informed decisions (dissemination efforts through events and workshops) US $5,000 and $10,000 depending on the country and the level of effort.
+1. Survey and reports between US $50,000 and US $75,000 depending on the country and the capacity to use computer-aided methodologies.
+2. Dissemination to ensure policymakers and private stakeholders can use of the data and make informed decisions (dissemination efforts through events and workshops) US $5,000 and $10,000 depending on the country and the level of effort.
 
 **People**. Two project managers to work with the research firm that conducts the surveys and drafts the report. One staff to coordinate all surveys (ensuring consistency across all surveys and reports) and one in each country.
 UNCDF partnered with Tebbutt Research to conduct Digital and Financial Literacy Survey in Fiji and six other Pacific Island countries (Papua New Guinea, Solomon Islands, Samoa, Vanuatu, Tonga, and Timor-Leste)
@@ -50,6 +50,6 @@ UNCDF partnered with Tebbutt Research to conduct Digital and Financial Literacy 
 
 **Resources**  
 
-* [TOR for the research firm] For the most recent TOR (2023), see the Request for Proposals publication [here:] (https://www.ungm.org/Public/Notice/215515). The deadline hass passed but the link is still active; scroll to the “TOR” section.  
-* [Survey questionnaire (see reports)] Visit the Fiji Report and Appendix A for a [full description of the survey, protocol, methodology and findings](https://www.uncdf.org/joint-undp-uncdf-df-of-the-sdgs) for Fiji.
+* [TOR for the research firm](https://www.ungm.org/Public/Notice/215515). You can read this, the most recent TOR (2023), as a reference point for hiring a research firm . The deadline hass passed but the link is still active; scroll to the “TOR” section.  
+* [Survey questionnaire (see reports)](https://www.uncdf.org/joint-undp-uncdf-df-of-the-sdgs).Visit the Fiji Report and Appendix A for a full description of the survey, protocol, methodology and findings for Fiji.
 * Platform (in development).
