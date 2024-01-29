@@ -2,8 +2,8 @@
 title: ... how to improve financial inclusion by assessesing the status of financial and digital literacy in a country 
 layout: default
 
-menu_parent: 3
-nav_order: 1
+menu_parent: 2
+nav_order: 3
 ---
 
 **What it does**. The DFL survey assesses the status of financial and digital literacy in a country to design and implement evidence-backed interventions. (Find the full report for Fiji including the survey and an explanation of the rational and results [here](https://www.uncdf.org/article/8317/assessing-digital-and-financial-literacy-in-fiji-a-survey-on-knowledge-skills-and-access). The tool measures Digital Financial Literacy in general as well as assigns scores in four broad thematic areas:
