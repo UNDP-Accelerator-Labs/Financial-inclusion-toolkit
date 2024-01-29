@@ -8,10 +8,10 @@ nav_order: 2
 
 **What it does**. The DFL survey assesses the status of financial and digital literacy in a country to design and implement evidence-backed interventions. (Find the full report for Fiji including the survey and an explanation of the rational and results [here](https://www.uncdf.org/article/8317/assessing-digital-and-financial-literacy-in-fiji-a-survey-on-knowledge-skills-and-access). The tool measures Digital Financial Literacy in general as well as assigns scores in four broad thematic areas:
 
--Digitalisation: Access to devices, digital activities, internet access and usage, awareness and participation in safe digital/online practices;
--Financial Competencies: Engagement with financial safeguards (budgeting, savings), financial knowledge (basic understanding of inflation, etc.);
--Digital Financial Competencies: Beliefs, attitudes and behaviours concerning financial services and DFS; 
--DFS Outcomes: Usage of mobile and online financial services and the impact of DFS on financial wellbeing. 
+- Digitalisation: Access to devices, digital activities, internet access and usage, awareness and participation in safe digital/online practices;
+- Financial Competencies: Engagement with financial safeguards (budgeting, savings), financial knowledge (basic understanding of inflation, etc.);
+- Digital Financial Competencies: Beliefs, attitudes and behaviours concerning financial services and DFS; 
+- DFS Outcomes: Usage of mobile and online financial services and the impact of DFS on financial wellbeing. 
 
 It also allows for the disaggregation and comparison of the survey data from different groups of interest, such as women, youth, agriculturalists, etc. The research explores experiences with traditional and digital financial services to date and assesses basic competencies in digitization and finance.
 
