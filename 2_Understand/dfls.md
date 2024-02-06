@@ -50,4 +50,4 @@ UNCDF partnered with Tebbutt Research to conduct Digital and Financial Literacy 
 
 * [TOR for the research firm](https://www.ungm.org/Public/Notice/215515). You can read this, the most recent TOR (2023), as a reference point for hiring a research firm . The deadline hass passed but the link is still active; scroll to the “TOR” section.  
 * [Survey questionnaire (see reports)](https://www.uncdf.org/joint-undp-uncdf-df-of-the-sdgs).Visit the Fiji Report and Appendix A for a full description of the survey, protocol, methodology and findings for Fiji.
-* Platform (in development).
+* Platform (still in development).
