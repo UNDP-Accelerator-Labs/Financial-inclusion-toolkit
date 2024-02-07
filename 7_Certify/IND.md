@@ -34,7 +34,6 @@ Country, year, and language: India, 2021 to 2022, English
 
 **Resources**  
 
-* UNDP Spice Blockchain Project Scope of Work and Approach. Use this resource for an overview of the pilot’s implementation, including an overview of the harvest to trade process, stakeholder workflow, process workflow solution architecture, scope of work, team structure, implementation plan, etc.  
 * [Blog post](https://www.undp.org/india/blog/building-fortress-blockchain-protect-farmers-and-livelihoods). Use this resource for a narrative account of how the eSpice Bazaar pilot developed. 
 * [YouTube video](https://www.youtube.com/watch?v=CSTI2p_6QT0). Use this resource as a visual account of how the eSpice Bazaar pilot developed. 
 
