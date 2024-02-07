@@ -10,7 +10,7 @@ nav_order: 2
 # Digitizing community savings groups
 
 **What it does**. 
-It supports groups of people engaged in community saving in moving from physical cash to digital mobile money. In community saving, digitization offers advantages in terms of transparency, security, and financial inclusion. In South Sudan the most common form if community saving is called _sanduk_, which means "box". We use this term throughout the description of this tool.
+It supports groups of people engaged in community saving in moving from physical cash to digital mobile money. In community saving, digitization offers advantages in terms of transparency, security, and financial inclusion. In South Sudan, the most common form of community saving is called _sanduk_, which means "box". We use this term throughout the description of this tool.
 
 **Value proposition for the government/other partner**.
 Digitizing sanduks makes cash available to members to borrow during emergencies. It allows members to save and borrow money easily, and track transactions and savings to build a financial profile that enables them to secure bank loans. Additionally, this process will enable any entity seeking to improve the operational efficiency and safety of analog savings group processes, to digitize them and provide records of financial transactions that banks and other formal institutions can use to extend financial services. Finally, a private sector company can use this process as a form of R&D to develop a financial services product to serve excluded rural communities. Or civil society organizations may utilize the training component to provide women in informal business with basic business and digital literacy skills. All this means increased access to financial services, and therefore (directly), a boost to financial inclusion and (indirectly) a boost to business growth.   
@@ -39,14 +39,14 @@ The required roles for this experiment include:
 
  - Community mobilizer/local partner. This implementing partner, most likely a CSO, will have deep community ties so it can lead the community immersion, mobilize the community, and conduct financial literacy training.
  - Interpreter. The interpreter will ease communications between the implementing team and the community, if needed.
- - Technical counterpart. A software developer who has soft skills and understands the community.
+ - Technical counterpart. A software developer who has soft skills and understands the community will build the product.
  - Research team. These research volunteers can document insights. [double check]
  - Data analyst. The data analyst will design the survey tools and process the data collected.
  - Technical Support. The technical support lead will support the project lead. [double check]
 
 **Context**. In remote areas along borders, making payments is often a struggle, banks are inaccessible, and access to finance and financial services is nonexistent. Many communities in rural settings use sanduks, or community savings groups, to pool money and safeguard it from wildfires. Similarly, at the border of South Sudan and Sudan, crossborder traders often send money to Khartoum through Cairo for the purchase of their goods. This extends the amount of time it takes to get their goods delivered. 
 
-An "analog-to-digital savings" experiment was launched to explore innovative ways to address these challenges. The theory of change was that by digitalizing sanduks, group members in communities would keep their communally pooled funds safe, enable access to emergency funds for social needs, such as paying school fees and medical bills, and build digital financial profiles that would enable members to solicit loans from financial service providers. The initial focus of the experiment was on women's financial inclusion, and cross-border traders were later added. 
+An "analog-to-digital savings" experiment was launched to explore innovative ways to address these challenges. The theory of change was that by digitalizing sanduks, group members in communities would keep their communally pooled funds safe, provide access to emergency funds for social needs, such as paying school fees and medical bills, and build digital financial profiles that would enable members to solicit loans from financial service providers. The initial focus of the experiment was on women's financial inclusion, and cross-border traders were later added. 
 
 The series of steps taken to execute this experiment included the following:
 
@@ -65,7 +65,7 @@ South Sudan, 2022-2023, English.
 
 **Resources**.
 
- - [Use this concept note to understand how the baseline survey was deployed](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/0a2ab4368bbc336c842e3026e6f9d45681ec6d79/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf) and [to learn how immersions and follow-ups were conducted](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/9c70b6f5fac189aae8c220bf804cc738751632d6/3_Save/The%20Experiment%20Journey.pdf) check this link and [to follow how the experiment was concluded](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/d704e97b84ab06ca1bcbb887c36b7aea23c10a7f/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf).
+ - [Use this concept note to understand how the baseline survey was deployed](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/0a2ab4368bbc336c842e3026e6f9d45681ec6d79/3_Save/Concept%20Note_%20Baseline%20Survey%20and%20Sensitization%20(Sanduk%20Experiemnt).pdf) and [to learn how immersions and follow-ups were conducted](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/9c70b6f5fac189aae8c220bf804cc738751632d6/3_Save/The%20Experiment%20Journey.pdf). Check this link [to follow how the experiment was concluded](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/d704e97b84ab06ca1bcbb887c36b7aea23c10a7f/3_Save/Joint%20ABC%20and%20AccLab%20closing%20mission%20for%20the%20Digital%20Sanduk%20experiment.pdf).
  - [TOR for the m-Gurush consulting service](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/TOR%20Video%20Documentation.pdf). Use this TOR as a reference document to hire a consultant to provide videography and photography services.
  - [Baseline survey](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Revised%20Sanduk%20Baseline%20Questionnare%202-March%202022.pdf). Use this resource as a template to develop a baseline survey for your context. 
  - [Needs assessment and endline survey](https://github.com/UNDP-Accelerator-Labs/Financial-inclusion-toolkit/blob/main/3_Save/Concept_%20Endline%20Survey%20of%20Sanduk.pdf). Use this resource as a template to develop a needs assessment and endline survey for your context.
