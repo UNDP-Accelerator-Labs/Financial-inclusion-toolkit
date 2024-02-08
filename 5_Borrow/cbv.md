@@ -13,7 +13,7 @@ nav_order: 1
 
 **Value proposition:** A data-centric approach to microloans compliance allows organizations in charge of supporting businesses to streamline their operations, and provide faster, more personalized support to each MSME. 
 
-**Why and when to use it:** This tool is most useful when (1) the volume of microloans is high and (2) there is a variety of loans and other support instruments available to MSMEs. The combination of these two conditions multiplies noncompliance risks and creates complexity in operations, to which the web tools offer a solution. On the first point, compliance officers can become overwhelmed when there are more loans to process than they can handle. On the second point, working with a variety of loans and support instruments, each with their own procedures and metrics, makes it difficult for compliance officers to develop a single, coherent routine.
+**Why and when to use it:** This tool is most useful when (1) the volume of microloans is high and (2) there is a variety of loans and other support instruments available to MSMEs. The combination of these two conditions multiplies noncompliance risks and creates complexity in operations, to which the web tools offer a solution. On the first point, compliance officers can become overwhelmed when there are too many loans to process. On the second point, working with a variety of loans and support instruments, each with their own procedures and metrics, makes it difficult for compliance officers to develop a single, coherent routine.
 
 **Known issues and troubleshooting:** For this tool to work you will require: 
 1) An existing catalogue of offers
