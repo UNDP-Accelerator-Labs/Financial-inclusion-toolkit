@@ -1,5 +1,5 @@
 ---
-title: .. through tailored needs matching
+title: .. through digital microloan monitoring 
 parent: Helps people borrow
 layout: default
 
@@ -7,7 +7,7 @@ menu_parent: 5
 nav_order: 1
 
 ---
-# Using digital data collection tools to support the matching of informal traders with support package. 
+# Using a web tool to monitor microloans to SMEs along with in-person customer service. 
 
 **What it does:** The web tool developed by the UNDP Cabo Verde Accelerator Lab supports the monitoring of microloans. Web-based and multi-platform, it pulls data from several sources: the Social Security Institute, the revenue authority, and commercial banks in the case of bank loans. An additional module integrates data from (typically telephone-based) follow-ups in the field. This data allows a quick analysis of each MSME's position, and lists ones with non-compliance issues for faster action. The objective is to monitor microcredits, allowing the agents in charge of non-compliant loans to pro-actively propose solutions to the MSMEs affected. As a part of the solution, the lab provided a physical customer service desk at the main street market in Cabo Verde, Sucumira.
 
