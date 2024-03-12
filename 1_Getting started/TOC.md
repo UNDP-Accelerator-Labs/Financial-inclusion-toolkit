@@ -18,8 +18,8 @@ nav_order: 3
 
 **Help people pay**.This section describes an analog-to-digital payment tool.
 
-**Help people borrow**. This section describes tools to help people manage the monitoring of microloans.
+**Help people borrow**. This section describes a tool to help monitor microloans delivered to SMEs.
 
-**Help people de-risk**. This section describes tools to support the creation of accessible insurance products.
+**Help people de-risk**. This section describes a tool to support the creation of accessible insurance products.
 
 Each tool in the toolkit is assigned to only one section. This is somewhat contrived, as in practice some of the solutions prototyped by the Accelerator Labs jointly address different dimensions of financial inclusion. An obvious example is [the digitalization of the community practice of sanduk in South Sudan](https://undp-accelerator-labs.github.io/Financial-inclusion-toolkit/3_Save/ssd.html), which functions both as a saving and as a borrowing practice.
