@@ -6840,3 +6840,12 @@ pre {
   .display-block-important {
     display: block !important;
 }
+
+.goog-te-gadget-simple >span >a {
+  background-image: none !important;
+}
+
+.goog-te-gadget-simple {
+  border: 0 !important;
+  background: none !important;
+}
