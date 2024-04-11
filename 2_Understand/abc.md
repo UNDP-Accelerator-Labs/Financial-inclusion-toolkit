@@ -4,7 +4,6 @@ title: ...how digitizing community credit unions improves financial inclusion
 menu_parent: 2
 nav_order: 8
 ---
--->
 
 # A model that digitizes community credit unions and enables them to provide financial services
 
