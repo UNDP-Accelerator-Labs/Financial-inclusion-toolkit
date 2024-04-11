@@ -33,5 +33,5 @@ Also, it is important to mention that the data collection and analysis of the in
 
 **Resources**. 
 
-*	[Report](https://www.undp.org/es/colombia/publicaciones/documentos-desarrollo-colombia-desarrollo-seguro-parametrico )). Use this resource to understand how the research was conducted and what the results were.
+*	[Report](https://www.undp.org/es/colombia/publicaciones/documentos-desarrollo-colombia-desarrollo-seguro-parametrico ). Use this resource to understand how the research was conducted and what the results were.
 
