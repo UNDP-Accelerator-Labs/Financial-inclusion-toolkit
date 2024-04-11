@@ -3,7 +3,7 @@
 title: ...how a fintech ecosystem can promote digital financial inclusion of women by integrating a gender approach into their value proposition
 layout: default
 
-menu_parent: 2
+menu_parent: 1
 nav_order: 6
 ---
 -->
