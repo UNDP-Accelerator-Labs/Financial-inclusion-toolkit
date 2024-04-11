@@ -1,4 +1,4 @@
-<!---
+---
 ---
 title: ...how digital community entrepreneurs help financial service providers reach rural customers
 layout: default
