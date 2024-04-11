@@ -28,7 +28,7 @@ nav_order: 6
 2. Technical expert on innovation and fintech: Supports the design and implementation process of the collective intelligence sessions and supports implementation and coordination with the fintech ecosystem.
 3. Technical expert on Gender: Leads the thematic focus and the development of a gender value proposition for the fintech ecosystem.
 
-**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html), [Juan Ordonez](/Financial-inclusion-toolkit/contributors/Juan-Ordonez.html), and [Maria Palacios](/Financial-inclusion-toolkit/contributors/Maria-Palacios.html).
+**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html), [Diana Gonzalez](/Financial-inclusion-toolkit/contributors/Diana-Gonzalez.html), and [Diana Muñoz](/Financial-inclusion-toolkit/contributors/Diana-Munoz.html).
 
 **Country, year, and language**. Colombia, 2024, Spanish.
 
