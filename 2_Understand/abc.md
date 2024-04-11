@@ -7,7 +7,7 @@ nav_order: 8
 ---
 -->
 
-# A model that digitizes community credit unions and enables them to provide financial services
+# A model that digitizes community credit unions enabling them to provide financial services
 
 
 **What it does.** The model digitizes community credit unions (CCUs), enabling them to offer integrated virtual services that
