@@ -27,7 +27,7 @@ Also, it is important to mention that the data collection and analysis of the in
 2. Technical expert on insurance and financial inclusion: Directly supervises the research process and coordinates with relevant public and private stakeholders
 3. Consultant: Specific expertise in parametric insurance that elaborates the 
 
-**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html), [Juan David Ordoñez](/Financial-inclusion-toolkit/contributors/Juan-Ordonez.html), and [Maria Palacios ](/Financial-inclusion-toolkit/contributors/Maria-Palacios.html)
+**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html), [Juan David Ordoñez](/Financial-inclusion-toolkit/contributors/Juan-Ordonez.html), and [Maria Palacios ](/Financial-inclusion-toolkit/contributors/Maria-Palacios.html).
 
 **Country, year, and language**. Colombia, 2023, Spanish. 
 
