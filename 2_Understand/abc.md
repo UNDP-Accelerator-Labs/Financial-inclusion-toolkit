@@ -1,5 +1,6 @@
 ---
 title: ...how digitizing community credit unions improves financial inclusion
+layout: default
 
 menu_parent: 2
 nav_order: 8
