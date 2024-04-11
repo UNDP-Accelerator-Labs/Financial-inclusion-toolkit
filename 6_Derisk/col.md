@@ -7,6 +7,8 @@ nav_order: 2
 
 ---
 
+# Research on digitally-delivered parametric insurance to boost financial inclusion 
+
 **What it does**. The research study of parametric insurance in Colombia analyzes international experience and identifies best regulatory practices of parametric insurance in sectors other than agriculture. Additionally, the case studies identify new actors and digital enabled tools that are being incorporated into the insurance value chain to boost the potential of inclusive insurance (calculation platforms, intermediation through digital ecosystems, alternative mechanisms to reinsurance and the adoption of technologies such as blockchain). The work also presents a series of reflections and recommendations for regulatory adjustments for its proper implementation and operation. As a result, the recommendations were included in the law of the National Development Plan. 
 
 **Value proposition for the government**. Using this research, UNDP can support governments to identify best practices and opportunities for parametric insurance and propose an appropriate path to promote a regulatory approach for the development of parametric insurance in different sectors, promoting digital enabled solutions to boots financial inclusion.
@@ -25,7 +27,7 @@ Also, it is important to mention that the data collection and analysis of the in
 2. Technical expert on insurance and financial inclusion: Directly supervises the research process and coordinates with relevant public and private stakeholders
 3. Consultant: Specific expertise in parametric insurance that elaborates the 
 
-**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html). 
+**Focal point**. [Lina Fernandez](/Financial-inclusion-toolkit/contributors/Lina-Fernandez.html), [Juan David Ordoñez](/Financial-inclusion-toolkit/contributors/Juan-Ordonez.html), and [Maria Palacios ](/Financial-inclusion-toolkit/contributors/Maria-Palacios.html)
 
 **Country, year, and language**. Colombia, 2023, Spanish. 
 
