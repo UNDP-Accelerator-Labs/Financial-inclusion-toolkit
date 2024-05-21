@@ -49,7 +49,7 @@ With these objectives in mind the UNCDF conceived a first model in 2015 called t
 
 **People**. Project Managers are responsible for overseeing the comprehensive planning, execution, and monitoring of the project document to ensure its successful implementation. They provide technical assistance to the implementing partner and facilitate discussions and engagements with pertinent stakeholders, including financial institutions, mobile network operators, and development institutions like the development bank, streamlining the coordination process.
 
-**Focal point**. [Richard Ndahiro](/Financial-inclusion-toolkit/contributors/Richard-Ndahiro.html).
+**Focal point**. [Richard Ndahiro](/Financial-inclusion-toolkit/contributors/Richard-Ndahiro.html)
 
 **Country, year, and language**. Uganda, 2022-2023, English. 
 
