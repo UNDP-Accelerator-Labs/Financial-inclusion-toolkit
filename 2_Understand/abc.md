@@ -79,7 +79,7 @@ Additionally, this digital financial inclusion model can:
 
 4. Training Facilitators: Deliver capacity-building programs and provide ongoing support to beneficiaries. 
 
-**Focal point**. [Kehinde Bolaji](/Financial-inclusion-toolkit/contributors/Kehinde-Bolaji.html), [Lily Murei](/Financial-inclusion-toolkit/contributors/Lily-Murei.html), and [Enock Omweri](/Financial-inclusion-toolkit/contributors/Enock-Omweri.html).
+**Focal point**. [Kehinde-Bolaji](/Financial-inclusion-toolkit/contributors/Kehinde-Bolaji.html), [Lily-Murei](/Financial-inclusion-toolkit/contributors/Lily-Murei.html), and [Enock-Omweri](/Financial-inclusion-toolkit/contributors/Enock-Omweri.html).
 
 **Country, year, and language**. Africa (Borderland Regions), 2022, English. 
 
