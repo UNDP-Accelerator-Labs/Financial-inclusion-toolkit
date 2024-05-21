@@ -64,6 +64,10 @@ Additionally, this digital financial inclusion model can:
 **Context**. Despite efforts by governments and international organizations, factors such as low financial literacy, inadequate infrastructure, and limited access to traditional banking institutions persist. Community Credit Unions (CCUs) and Village Savings and Loans Associations (VSLAs) have emerged as potential solutions but scaling their operations poses challenges. To address this urgent issue and uphold the principle of Leaving No One Behind, the UNDP-Africa Borderlands Centre convened a co-creation design workshop in Naivasha, Kenya, in May 2022.  This workshop brought together over 40 experts from ten countries, who are specialized in the Financial Inclusion ecosystem and represented sub-sectors such as banking, insurance, cooperatives, technology, cross border traders among others. They addressed financial inclusion challenges in Africa’s borderlands and articulated a model harnessing financial technology (Fintech) to empower individuals and businesses, especially the most vulnerable, communities in border regions.
 
 **Cost**. 
+* Local Sensing: $15,000
+* Innovation Design: $130,000
+* Solution Exploration: $70,000
+* Monitoring & Evaluation and Communication: $20,000
 
 **People**. 
 
@@ -77,7 +81,7 @@ Additionally, this digital financial inclusion model can:
 
 **Focal point**. [Kehinde Bolaji](/Financial-inclusion-toolkit/contributors/Kehinde-Bolaji.html), [Lily Murei](/Financial-inclusion-toolkit/contributors/Lily-Murei.html), and [Enock Omweri](/Financial-inclusion-toolkit/contributors/Enock-Omweri.html).
 
-**Country, year, and language**. Africa (Borderland Regions), 2022, English 
+**Country, year, and language**. Africa (Borderland Regions), 2022, English. 
 
 **Resources**. 
 
