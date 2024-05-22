@@ -74,7 +74,8 @@ Tong-Atak:
 
 Lilian-Abou-Zeki:
   name: Lilian Abou Zeki
-  bio: Lilian leads on scoping user-led solutions/ grass root innovators/ positive deviants across different development areas in the country. She identifies underlying insights on behavior, trends, and systems that might make for solution learnings to experiment with inside UNDP and with partners, a role that can be likened to product management. Passionate about the way women experience work outside of the man-woman binary. Focused more on the unique nuances that make women entrepreneurs, business owners and leaders succeed, due to these nuances and not despite them.
+  bio: >
+    Lilian leads on scoping user-led solutions/ grass root innovators/ positive deviants across different development areas in the country. She identifies underlying insights on behavior, trends, and systems that might make for solution learnings to experiment with inside UNDP and with partners, a role that can be likened to product management. Passionate about the way women experience work outside of the man-woman binary. Focused more on the unique nuances that make women entrepreneurs, business owners and leaders succeed, due to these nuances and not despite them.
   email: lilian.abouzeki@undp.org
   job_title: Head of Solutions Mapping
   organization: UNDP Lebanon Accelerator Lab
@@ -148,7 +149,7 @@ Marwa-Makhlouf:
     A development researcher, Marwa holds an MSc in Development Studies from the London School of Economics and Political Science (LSE) and is a graduate from the American University in Cairo (AUC), with a B.A in economics and a minor in psychology. 
   picture_dir: '/imgs/contributors/Marwa_Makhlouf.jpeg'
 
-Salome-Nakawze:
+Salome-Nakazwe:
   name: Salome Nakawze
   email: salome.nakazwe@undp.org
   job_title: Head of Solutions Mapping
@@ -183,7 +184,8 @@ Adedapo-Aderemi:
   email: adedapo.aderemi@undp.org
   job_title: Software Developer
   organization: UNDP Accelerator Labs
-  bio: An inventive and dynamic software developer with experience designing state-of-the-art web, mobile, IoT, and cloud engineering solutions. Proficient in a variety of frameworks and programming languages, I specialise in developing scalable and resilient applications. Utilising cutting-edge technologies to address intricate challenges, propel digital revolutionization, and generate memorable user experiences constitutes my greatest enthusiasm. Continually seeking to improve, I excel in collaborative settings and am dedicated to remaining current with technological developments.
+  bio: >
+    Adedapo is an inventive and dynamic software developer with experience designing state-of-the-art web, mobile, IoT, and cloud engineering solutions. He is proficient in a variety of frameworks and programming languages, specializing in developing scalable and resilient applications. He utilizes cutting-edge technologies to address intricate challenges, propel digital revolutionization, and generate memorable user experiences. Continually seeking to improve, he excels in collaborative settings and is dedicated to remaining current with technological developments.
   picture_dir: '/imgs/contributors/adedapo_aderemi.png'
   linkedin: https://www.linkedin.com/in/adedapo-aderemi-03237271/
 
@@ -192,7 +194,8 @@ Salome-Nakazwe:
   email: salome.nakazwe@undp.org
   job_title: Head of Solutions Mapping
   organization: UNDP Zambia Accelerator Lab
-  bio: As Head of Solutions Mapping, Salome co-creatively supports the development of grassroots initiatives aimed at tackling broader challenges affecting our world. She has over 20 years of work experience in programme management, transformational training, and leadership development, and has earned a a Bachelor of Arts Degree in Education and a Master of Arts Degree in Communications for Development.  
+  bio: >
+    As Head of Solutions Mapping, Salome co-creatively supports the development of grassroots initiatives aimed at tackling broader challenges affecting our world. She has over 20 years of work experience in programme management, transformational training, and leadership development, and has earned a a Bachelor of Arts Degree in Education and a Master of Arts Degree in Communications for Development.
   picture_dir: '/imgs/contributors/Salome_Nakazwe.jpg'
   linkedin: www.linkedin.com/in/salome-nakazwe-75502b32 
 
@@ -201,16 +204,18 @@ Jessica-Massie:
   email: jessica.massie@uncdf.org
   job_title: DFL Specialist/Financial Sector Specialist
   organization: UNCDF 
-  bio: Jessica Massie is a technical assistant for DFL and financial capability programmes for UNCDF based in Kigali, Rwanda. She has lived and worked in a variety of African countries for almost 20 years, and specializes in curriculum development, training, research and writing, with a focus on skill-building and behavior change.  
+  bio: >
+    Jessica Massie is a technical assistant for DFL and financial capability programmes for UNCDF based in Kigali, Rwanda. She has lived and worked in a variety of African countries for almost 20 years, and specializes in curriculum development, training, research and writing, with a focus on skill-building and behavior change.  
   picture_dir: '/imgs/contributors/Jessica_Massie.jpg'
   linkedin: https://www.linkedin.com/in/jessica-massie-1594a32/
 
 Karima-Wardak:
-  name: karima Wardak
+  name: Karima Wardak
   email: Karima.wardak@uncdf.org
   job_title: KM and Comms Lead for IDE
   organization: UNCDF 
-  bio: Karima Wardak is the knowledge and communication manager for the inclusive digital economy team at UNCDF; she is based in Brussels, Belgium. She has worked in digital financial inclusion and microfinance for over 15 years and can provide information on a broad range of programmes in financial and digital inclusion in Africa, Asia, and the Pacific.
+  bio: >
+    Karima Wardak is the knowledge and communication manager for the inclusive digital economy team at UNCDF; she is based in Brussels, Belgium. She has worked in digital financial inclusion and microfinance for over 15 years and can provide information on a broad range of programmes in financial and digital inclusion in Africa, Asia, and the Pacific.
   picture_dir: '/imgs/contributors/Karima_Wardak.jpeg'
   linkedin: https://www.linkedin.com/in/karimawardak/
 
@@ -234,7 +239,7 @@ Diana Gonzalez:
   picture_dir: '/imgs/contributors/Diana_Gonzalez.jpg'
   linkedin: https://www.linkedin.com/in/diana-c-gonz%C3%A1lez-m-2655a01a3/?originalSubdomain=co
 
-Diana Muñoz: 
+Diana-Munoz: 
   name: Diana Muñoz 
   email: diana.gonzalez@undp.org
   job_title: Inclusive Finance Officer
@@ -244,7 +249,7 @@ Diana Muñoz:
   picture_dir: '/imgs/contributors/Diana_Munoz.jpg'
   linkedin: https://www.linkedin.com/in/diana-c-gonz%C3%A1lez-m-2655a01a3/?originalSubdomain=co
 
-Juan-David Ordoñez:
+Juan-David-Ordonez:
   name: Juan David Ordoñez
   email: juan.ordonez@undp.org
   job_title: Innovation and Private Sector Officer
@@ -254,7 +259,7 @@ Juan-David Ordoñez:
   picture_dir: '/imgs/contributors/Juan_Ordonez.jpg'
   linkedin: https://www.linkedin.com/in/juandavidof/?originalSubdomain=co
 
-Maria Adelaida Palacios:
+Maria-Adelaida-Palacios:
   name: Maria Adelaida Palacios
   email: juan.ordonez@undp.org
   job_title: Gender Focal Point
@@ -264,7 +269,7 @@ Maria Adelaida Palacios:
   picture_dir: '/imgs/contributors/Maria_Palacios.jpg'
   linkedin: 
 
-Juan David Martin:
+Juan-David-Martin:
   name: Juan David Martin
   email: juan.martin@undp.org
   job_title: Head of Experimentation
@@ -274,7 +279,7 @@ Juan David Martin:
   picture_dir: '/imgs/contributors/Juan_Martin.jpg'
   linkedin: https://www.linkedin.com/in/juandavidmartin/
 
-Richard Ndahiro:
+Richard-Ndahiro:
   name: Richard Ndahiro
   email: richard.ndahiro@uncdf.org
   job_title: Digital Country Lead
@@ -284,17 +289,17 @@ Richard Ndahiro:
   picture_dir: '/imgs/contributors/Richard_Ndahiro.jpeg'
   linkedin: https://www.linkedin.com/in/richard-ndahiro-3bb88bb/?originalSubdomain=ug
 
-Kehinde Bolaji:
+Kehinde-Bolaji:
   name: Kehinde Bolaji
   email: kehinde.bolaji@undp.org
   job_title: Programme Manager/Knowledge and Innovation Advisor, Africa Borderlands Center
   organization: UNDP
   bio: >  
-   Kehinde Bolaji is Programme Manager/ Knowledge and Innovation Advisor at the Africa Borderlands Centre. Working with all units of the Borderlands Programme, he provides substantive leadership on programme management, integrated advisory services, partnership management, research, data and knowledge support. In particular, he shapes the conceptualization and operationalization of the ABC innovation work. Bolaji most recently served as UN Peace and Development Advisor (Caribbean) where he worked with the Caribbean Community (CARICOM), its Technical Agencies and Member-States in designing strategies and in implementing programmes on community mediation, Prevention of Violent Extremism (PVE), counterterrorism, climate-related security risks mapping, as well as women and youth inclusion in peacebuilding mechanisms.  Prior to that, he served as Governance and Peacebuilding Team Leader at the United Nations Development Programme (UNDP) in Nigeria. He holds a PhD in Political Science from the University of Ibadan, Nigeria and is an alumnus of the Peace and Security in Africa Programme (PASA) at Uppsala University, Sweden.
+    Kehinde Bolaji is Programme Manager/ Knowledge and Innovation Advisor at the Africa Borderlands Centre. Working with all units of the Borderlands Programme, he provides substantive leadership on programme management, integrated advisory services, partnership management, research, data and knowledge support. In particular, he shapes the conceptualization and operationalization of the ABC innovation work. Bolaji most recently served as UN Peace and Development Advisor (Caribbean) where he worked with the Caribbean Community (CARICOM), its Technical Agencies and Member-States in designing strategies and in implementing programmes on community mediation, Prevention of Violent Extremism (PVE), counterterrorism, climate-related security risks mapping, as well as women and youth inclusion in peacebuilding mechanisms.  Prior to that, he served as Governance and Peacebuilding Team Leader at the United Nations Development Programme (UNDP) in Nigeria. He holds a PhD in Political Science from the University of Ibadan, Nigeria and is an alumnus of the Peace and Security in Africa Programme (PASA) at Uppsala University, Sweden.
   picture_dir: '/imgs/contributors/Kehinde_Bolaji.jpeg'
   linkedin: https://www.linkedin.com/in/kehinde-ayodeji-bolaji-ph-d-a6375b20/
 
-Lily Murei:
+Lily-Murei:
   name: Lily Murei
   email: lily.murei@undp.org
   job_title: Policy Research & Data Specialist, Africa Borderlands Center
@@ -304,11 +309,11 @@ Lily Murei:
   picture_dir: '/imgs/contributors/Lily_Murei.jpeg'
   linkedin: https://www.linkedin.com/in/dr-lily-murei-phd-a5aa0211/
 
-Enock Omweri:
+Enock-Omweri:
   name: Enock Omweri
   email: enock.omweri@undp.org
   job_title: Solutions Mapping Specialist, Africa Borderlands Center
   organization: UNDP
-  bio: >  Enock Omweri is a seasoned professional at the forefront of cross-border development, digitization, and technology-driven solutions. With over a decade of experience in innovation, development, and humanitarian work, he currently serves as the Solutions Mapping Specialist at the UNDP Africa Borderlands Centre. Enock’s journey into the realm of international development began with his tenure at the United Nations Monitoring Mechanism (UNMM), where he played a pivotal role in facilitating cross-border operations across Syria, Jordan, Iraq, and Turkey. Prior to his work with the UNMM, Enock honed his skills at the World Food Programme (WFP). Before his international engagements, Enock contributed to academia as a lecturer at the University of Nairobi, where he imparted knowledge and fostered critical thinking among future leaders. 
+  bio: >  
+    Enock Omweri is a seasoned professional at the forefront of cross-border development, digitization, and technology-driven solutions. With over a decade of experience in innovation, development, and humanitarian work, he currently serves as the Solutions Mapping Specialist at the UNDP Africa Borderlands Centre. Enock’s journey into the realm of international development began with his tenure at the United Nations Monitoring Mechanism (UNMM), where he played a pivotal role in facilitating cross-border operations across Syria, Jordan, Iraq, and Turkey. Prior to his work with the UNMM, Enock honed his skills at the World Food Programme (WFP). Before his international engagements, Enock contributed to academia as a lecturer at the University of Nairobi, where he imparted knowledge and fostered critical thinking among future leaders. 
   picture_dir: '/imgs/contributors/enock_omweri.jpeg'
- 
